@@ -1,88 +1,616 @@
-[25May2025 00:53:05.450] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
-[25May2025 00:53:05.455] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu120.04
-[25May2025 00:53:05.460] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.1 starting: java version 21.0.7 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[25May2025 00:53:05.605] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Configuration file /workspaces/MC_Tuviejaland-2.0/servidor_minecraft/config/fml.toml is not correct. Correcting
-[25May2025 00:53:05.612] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSkipGLVersions] was corrected from null to []
-[25May2025 00:53:05.614] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowLogHelpMessage] was corrected from null to true
-[25May2025 00:53:05.615] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSquir] was corrected from null to false
-[25May2025 00:53:05.618] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowShowCPU] was corrected from null to false
-[25May2025 00:53:05.635] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
-[25May2025 00:53:05.833] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/MC_Tuviejaland-2.0/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
-[25May2025 00:53:06.169] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[25May2025 00:53:07.369] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
-[25May2025 00:53:07.907] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/MC_Tuviejaland-2.0/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/MC_Tuviejaland-2.0/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///workspaces/MC_Tuviejaland-2.0/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/MC_Tuviejaland-2.0/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties]
-[25May2025 00:53:08.094] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/MC_Tuviejaland-2.0/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/MC_Tuviejaland-2.0/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///workspaces/MC_Tuviejaland-2.0/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/MC_Tuviejaland-2.0/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
-[25May2025 00:53:17.390] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 51.0.33, for MC 1.21 with MCP 20240613.102039
-[25May2025 00:53:17.391] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v51.0.33 Initialized
-[25May2025 00:53:17.404] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
-[25May2025 00:53:18.663] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[25May2025 00:53:19.295] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA Current: 51.0.33 Target: 51.0.33
-[25May2025 00:53:21.020] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[25May2025 00:53:22.231] [main/INFO] [net.minecraft.server.Main/]: No existing world data, creating new world
-[25May2025 00:53:23.490] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1290 recipes
-[25May2025 00:53:23.861] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1399 advancements
-[25May2025 00:53:24.660] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21
-[25May2025 00:53:24.662] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[25May2025 00:53:24.663] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[25May2025 00:53:24.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[25May2025 00:53:24.990] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[25May2025 00:53:25.050] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[25May2025 00:53:25.108] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[25May2025 00:53:25.109] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[25May2025 00:53:25.110] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[25May2025 00:53:25.111] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[25May2025 00:53:25.155] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/forge-server.toml is not correct. Correcting
-[25May2025 00:53:25.157] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
-[25May2025 00:53:25.158] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringBlockEntities was corrected from null to its default, false. 
-[25May2025 00:53:25.159] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringEntities was corrected from null to its default, false. 
-[25May2025 00:53:25.160] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fullBoundingBoxLadders was corrected from null to its default, false. 
-[25May2025 00:53:25.161] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.permissionHandler was corrected from null to its default, forge:default_handler. 
-[25May2025 00:53:25.164] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advertiseDedicatedServerToLan was corrected from null to its default, true. 
-[25May2025 00:53:25.229] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[25May2025 00:53:40.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[25May2025 00:53:40.785] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[25May2025 00:53:41.162] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[25May2025 00:53:41.688] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[25May2025 00:53:42.234] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[25May2025 00:53:42.711] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[25May2025 00:53:43.201] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[25May2025 00:53:43.671] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[25May2025 00:53:44.162] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[25May2025 00:53:44.853] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[25May2025 00:53:45.201] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[25May2025 00:53:45.713] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[25May2025 00:53:46.211] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[25May2025 00:53:46.702] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[25May2025 00:53:47.186] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[25May2025 00:53:47.865] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[25May2025 00:53:48.181] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[25May2025 00:53:48.740] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[25May2025 00:53:49.168] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[25May2025 00:53:49.742] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[25May2025 00:53:50.198] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[25May2025 00:53:50.691] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[25May2025 00:53:51.163] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[25May2025 00:53:51.814] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 11153 ms
-[25May2025 00:53:51.815] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (26.676s)! For help, type "help"
-[25May2025 00:53:51.832] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[25May2025 00:58:58.706] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Trejos1111[/127.60.167.187:35633] logged in with entity id 3 at (-1.5, 101.0, 19.5)
-[25May2025 00:58:58.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trejos1111 joined the game
-[25May2025 00:59:08.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Trejos1111 a server operator
-[25May2025 00:59:26.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Trejos1111: Teleported Trejos1111 to 0.500000, 101.000000, 0.500000]
-[25May2025 00:59:31.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Trejos1111: Set own game mode to Creative Mode]
-[25May2025 00:59:36.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Trejos1111: Reloading!]
-[25May2025 00:59:37.287] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1290 recipes
-[25May2025 00:59:37.443] [Server thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1399 advancements
-[25May2025 00:59:54.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Trejos1111: Stopping the server]
-[25May2025 00:59:54.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[25May2025 00:59:54.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[25May2025 00:59:55.004] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Trejos1111 lost connection: Server closed
-[25May2025 00:59:55.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trejos1111 left the game
-[25May2025 00:59:55.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[25May2025 00:59:56.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[25May2025 00:59:59.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[25May2025 00:59:59.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[25May2025 00:59:59.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[25May2025 00:59:59.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[25May2025 00:59:59.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[25May2025 00:59:59.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[28May2025 21:26:27.929] [main/INFO] [FabricLoader/GameProvider/]: Loading Minecraft 1.21 Arclight arclight-1.21-1.0.0-SNAPSHOT-b3349e9 with Fabric Loader 0.15.11
+mainEx[28May2025 21:26:28.269] [main/INFO] [FabricLoader/]: Loading 45 mods:
+	- arclight 1.0.0-SNAPSHOT+b3349e9
+	- fabric-api 0.102.0+1.21
+	   |-- fabric-api-base 0.4.42+6573ed8cd1
+	   |-- fabric-api-lookup-api-v1 1.6.68+b5597344d1
+	   |-- fabric-biome-api-v1 13.0.29+5bd9f1bcd1
+	   |-- fabric-block-api-v1 1.0.22+0af3f5a7d1
+	   |-- fabric-block-view-api-v2 1.0.10+6573ed8cd1
+	   |-- fabric-blockrenderlayer-v1 1.1.52+0af3f5a7d1
+	   |-- fabric-client-tags-api-v1 1.1.15+6573ed8cd1
+	   |-- fabric-command-api-v1 1.2.49+f71b366fd1
+	   |-- fabric-command-api-v2 2.2.28+6ced4dd9d1
+	   |-- fabric-commands-v0 0.2.66+df3654b3d1
+	   |-- fabric-content-registries-v0 8.0.16+b5597344d1
+	   |-- fabric-convention-tags-v1 2.0.19+7f945d5bd1
+	   |-- fabric-convention-tags-v2 2.5.0+c5e2b5c6d1
+	   |-- fabric-crash-report-info-v1 0.2.29+0af3f5a7d1
+	   |-- fabric-data-attachment-api-v1 1.1.27+6a6dfa19d1
+	   |-- fabric-data-generation-api-v1 20.2.16+16c4ae25d1
+	   |-- fabric-dimensions-v1 4.0.0+6fc22b99d1
+	   |-- fabric-entity-events-v1 1.6.12+6fc22b99d1
+	   |-- fabric-events-interaction-v0 0.7.12+ba9dae06d1
+	   |-- fabric-game-rule-api-v1 1.0.53+6ced4dd9d1
+	   |-- fabric-item-api-v1 11.0.0+afdfc921d1
+	   |-- fabric-item-group-api-v1 4.1.4+78017270d1
+	   |-- fabric-key-binding-api-v1 1.0.47+0af3f5a7d1
+	   |-- fabric-keybindings-v0 0.2.45+df3654b3d1
+	   |-- fabric-lifecycle-events-v1 2.3.12+6c1df360d1
+	   |-- fabric-loot-api-v2 3.0.14+3f89f5a5d1
+	   |-- fabric-loot-api-v3 1.0.2+3f89f5a5d1
+	   |-- fabric-message-api-v1 6.0.13+6573ed8cd1
+	   |-- fabric-model-loading-api-v1 2.0.0+fe474d6bd1
+	   |-- fabric-networking-api-v1 4.2.2+60c3209bd1
+	   |-- fabric-object-builder-api-v1 15.2.0+a551f7a4d1
+	   |-- fabric-particles-v1 4.0.2+6573ed8cd1
+	   |-- fabric-recipe-api-v1 5.0.12+65089712d1
+	   |-- fabric-registry-sync-v0 5.1.2+60c3209bd1
+	   |-- fabric-renderer-api-v1 3.4.0+c705a49cd1
+	   |-- fabric-renderer-indigo 1.7.0+c705a49cd1
+	   |-- fabric-renderer-registries-v1 3.2.68+df3654b3d1
+	   |-- fabric-rendering-data-attachment-v1 0.3.48+73761d2ed1
+	   |-- fabric-rendering-fluids-v1 3.1.6+b5597344d1
+	   |-- fabric-rendering-v0 1.1.71+df3654b3d1
+	   |-- fabric-rendering-v1 5.0.5+df16efd0d1
+	   |-- fabric-resource-conditions-api-v1 4.3.0+8dc279b1d1
+	   |-- fabric-resource-loader-v0 1.3.0+56599129d1
+	   |-- fabric-screen-api-v1 2.0.24+b5597344d1
+	   |-- fabric-screen-handler-api-v1 1.3.86+b5597344d1
+	   |-- fabric-sound-api-v1 1.0.23+6573ed8cd1
+	   |-- fabric-transfer-api-v1 5.1.16+3dccd343d1
+	   \-- fabric-transitive-access-wideners-v1 6.1.0+176f9036d1
+	- fabricloader 0.15.11
+	   \-- mixinextras 0.3.5
+	- java 21
+	- minecraft 1.21
+	- voicechat 1.21.1-2.5.29
+	   \-- fabric-key-binding-api-v1 1.0.47+0af3f5a76a
+	- xaerominimap 25.1.0
+	- xaeroworldmap 1.39.2
+mainEx[28May2025 21:26:28.392] [main/INFO] [FabricLoader/Mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/workspaces/MC_Tuviejaland-2.0/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.13.3+mixin.0.8.5/sponge-mixin-0.13.3+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
+mainEx[28May2025 21:26:28.487] [main/INFO] [FabricLoader/Mixin/]: Compatibility level set to JAVA_17
+mainEx[28May2025 21:26:29.232] [main/INFO] [Arclight/]: Using locale en_ and fallback locale en_us
+mainEx[28May2025 21:26:29.238] [main/INFO] [Arclight/]: 
+
+       ___           ___     __   /\
+      /   | ________/ (_)__ / /  / /
+     / /| |/ __/ __/ / / _ / _ \/__/
+    / ___ / / / /_/ / / / / // / /
+   /_/  |/_/  \__/_/_/\_ /_//_/ /
+                     /__/     \/
+
+    Version 诸王 (Feudal Kings) / arclight-1.21-1.0.0-SNAPSHOT-b3349e9
+    Build Date 2024-06-29 03:46:12
+
+mainEx[28May2025 21:26:31.330] [main/INFO] [FabricLoader/MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+mainEx[28May2025 21:26:47.778] [main/INFO] [voicechat/]: [voicechat] Compatibility version 18
+mainEx[28May2025 21:26:47.851] [main/INFO] [voicechat/]: [voicechat] Loading plugins
+mainEx[28May2025 21:26:47.852] [main/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
+mainEx[28May2025 21:26:47.852] [main/INFO] [voicechat/]: [voicechat] Initializing plugins
+mainEx[28May2025 21:26:47.853] [main/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
+mainEx[28May2025 21:26:47.929] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+mainEx[28May2025 21:26:47.986] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+mainEx[28May2025 21:26:48.195] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+mainEx[28May2025 21:26:51.469] [main/INFO] [net.minecraft.class_1863/]: Loaded 1290 recipes
+mainEx[28May2025 21:26:51.840] [main/INFO] [net.minecraft.class_163/]: Loaded 1399 advancements
+mainEx[28May2025 21:26:52.688] [main/INFO] [net.fabricmc.fabric.impl.biome.modification.BiomeModificationImpl/]: Applied 0 biome modifications to 0 of 64 new biomes in 2.595 ms
+mainEx[28May2025 21:26:52.702] [Server thread/INFO] [net.minecraft.class_3176/]: Starting minecraft server version 1.21
+Server threadEx[28May2025 21:26:52.702] [Server thread/INFO] [net.minecraft.class_3176/]: Loading properties
+Server threadEx[28May2025 21:26:52.705] [Server thread/INFO] [net.minecraft.class_3176/]: Default game type: SURVIVAL
+Server threadEx[28May2025 21:26:52.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+Server threadEx[28May2025 21:26:52.887] [Server thread/INFO] [net.minecraft.class_3176/]: Starting Minecraft server on *:25565
+Server threadEx[28May2025 21:26:53.025] [Server thread/INFO] [net.minecraft.class_3242/]: Using epoll channel type
+Server threadEx[28May2025 21:26:53.155] [Server thread/WARN] [net.minecraft.class_3176/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+Server threadEx[28May2025 21:26:53.155] [Server thread/WARN] [net.minecraft.class_3176/]: The server will make no attempt to authenticate usernames. Beware.
+Server threadEx[28May2025 21:26:53.155] [Server thread/WARN] [net.minecraft.class_3176/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+Server threadEx[28May2025 21:26:53.155] [Server thread/WARN] [net.minecraft.class_3176/]: To change this, set "online-mode" to "true" in the server.properties file.
+Server threadEx[28May2025 21:26:53.511] [Server thread/INFO] [Minecraft/]: This server is running Arclight version arclight-1.21-1.0.0-SNAPSHOT-b3349e9 (MC: 1.21) (Implementing API version 1.21-R0.1-SNAPSHOT)
+Server threadEx[28May2025 21:26:55.057] [Server thread/INFO] [Arclight/]: Registering for Bukkit ...
+Server threadEx[28May2025 21:26:55.121] [Server thread/INFO] [Arclight/]: Registered 0 new materials with 0 blocks and 0 items
+Server threadEx[28May2025 21:26:55.360] [Server thread/INFO] [Arclight/]: Registered 0 new entity types
+Server threadEx[28May2025 21:26:55.361] [Server thread/INFO] [Arclight/]: Registered 0 new villager professions
+Server threadEx[28May2025 21:26:55.362] [Server thread/INFO] [Arclight/]: Registered 0 new biomes
+Server threadEx[28May2025 21:26:55.404] [Server thread/INFO] [net.minecraft.class_2983/]: [STDOUT]: Server Ping Player Sample Count: 12
+Server threadEx[28May2025 21:26:55.408] [Server thread/INFO] [Minecraft/]: Using 4 threads for Netty based IO
+Server threadEx[28May2025 21:26:55.412] [Server thread/INFO] [Minecraft/]: Debug logging is enabled
+Server threadEx[28May2025 21:26:55.677] [Server thread/INFO] [Arclight/]: Loading mappings ...
+Server threadEx[28May2025 21:26:56.292] [Server thread/INFO] [Arclight/]: Loading plugin patchers ...
+Server threadEx[28May2025 21:26:56.551] [Server thread/INFO] [Minecraft/]: [LagFixer] Loading 3 libraries... please wait
+Server threadEx[28May2025 21:26:56.856] [Server thread/INFO] [Minecraft/]: [LagFixer] Loaded library /workspaces/MC_Tuviejaland-2.0/servidor_minecraft/libraries/org/apache/commons/commons-lang3/3.17.0/commons-lang3-3.17.0.jar
+Server threadEx[28May2025 21:26:56.857] [Server thread/INFO] [Minecraft/]: [LagFixer] Loaded library /workspaces/MC_Tuviejaland-2.0/servidor_minecraft/libraries/commons-io/commons-io/2.18.0/commons-io-2.18.0.jar
+Server threadEx[28May2025 21:26:56.858] [Server thread/INFO] [Minecraft/]: [LagFixer] Loaded library /workspaces/MC_Tuviejaland-2.0/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.8.0/oshi-core-6.8.0.jar
+Server threadEx[28May2025 21:26:56.858] [Server thread/INFO] [Minecraft/]: [LagFixer] Loaded library /workspaces/MC_Tuviejaland-2.0/servidor_minecraft/libraries/net/java/dev/jna/jna/5.17.0/jna-5.17.0.jar
+Server threadEx[28May2025 21:26:56.859] [Server thread/INFO] [Minecraft/]: [LagFixer] Loaded library /workspaces/MC_Tuviejaland-2.0/servidor_minecraft/libraries/net/java/dev/jna/jna-platform/5.17.0/jna-platform-5.17.0.jar
+Server threadEx[28May2025 21:26:56.859] [Server thread/INFO] [Minecraft/]: [LagFixer] Loaded library /workspaces/MC_Tuviejaland-2.0/servidor_minecraft/libraries/org/slf4j/slf4j-api/2.0.17/slf4j-api-2.0.17.jar
+Server threadEx[28May2025 21:26:56.984] [Server thread/INFO] [Graves/]: Loading Graves v4.9
+Server threadEx[28May2025 21:26:57.241] [Server thread/INFO] [BetterRevive/]: Loading BetterRevive v0.9.1-BETA
+Server threadEx[28May2025 21:26:57.242] [Server thread/INFO] [SkinsRestorer/]: Loading SkinsRestorer v15.6.4
+Server threadEx[28May2025 21:26:57.244] [Server thread/INFO] [ConditionalEvents/]: Loading ConditionalEvents v4.62.2
+Server threadEx[28May2025 21:26:57.244] [Server thread/INFO] [FA/]: Loading FoxAddition v1.2.0
+Server threadEx[28May2025 21:26:57.244] [Server thread/INFO] [AdvancedTeleport/]: Loading AdvancedTeleport v6.1.3
+Server threadEx[28May2025 21:26:57.314] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for gson
+Server threadEx[28May2025 21:26:57.316] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for gson
+Server threadEx[28May2025 21:26:57.365] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for jar-relocator
+Server threadEx[28May2025 21:26:57.368] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for jar-relocator
+Server threadEx[28May2025 21:26:57.368] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for asm
+Server threadEx[28May2025 21:26:57.373] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for asm
+Server threadEx[28May2025 21:26:57.373] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for asm-commons
+Server threadEx[28May2025 21:26:57.382] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for asm-commons
+Server threadEx[28May2025 21:26:57.401] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for gson
+Server threadEx[28May2025 21:26:57.402] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for gson
+Server threadEx[28May2025 21:26:57.489] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for adventure-api
+Server threadEx[28May2025 21:26:57.491] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for adventure-api
+Server threadEx[28May2025 21:26:57.493] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for adventure-key
+Server threadEx[28May2025 21:26:57.494] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for adventure-key
+Server threadEx[28May2025 21:26:57.494] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for examination-api
+Server threadEx[28May2025 21:26:57.495] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for examination-api
+Server threadEx[28May2025 21:26:57.497] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for examination-string
+Server threadEx[28May2025 21:26:57.500] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for examination-string
+Server threadEx[28May2025 21:26:57.501] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for adventure-text-minimessage
+Server threadEx[28May2025 21:26:57.503] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for adventure-text-minimessage
+Server threadEx[28May2025 21:26:57.503] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for adventure-nbt
+Server threadEx[28May2025 21:26:57.508] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for adventure-nbt
+Server threadEx[28May2025 21:26:57.511] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for adventure-text-serializer-plain
+Server threadEx[28May2025 21:26:57.512] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for adventure-text-serializer-plain
+Server threadEx[28May2025 21:26:57.515] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for adventure-platform-bukkit
+Server threadEx[28May2025 21:26:57.518] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for adventure-platform-bukkit
+Server threadEx[28May2025 21:26:57.519] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for adventure-text-serializer-gson-legacy-impl
+Server threadEx[28May2025 21:26:57.522] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for adventure-text-serializer-gson-legacy-impl
+Server threadEx[28May2025 21:26:57.522] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for adventure-text-serializer-gson
+Server threadEx[28May2025 21:26:57.525] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for adventure-text-serializer-gson
+Server threadEx[28May2025 21:26:57.526] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for adventure-text-serializer-json
+Server threadEx[28May2025 21:26:57.527] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for adventure-text-serializer-json
+Server threadEx[28May2025 21:26:57.527] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for option
+Server threadEx[28May2025 21:26:57.529] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for option
+Server threadEx[28May2025 21:26:57.529] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for adventure-platform-facet
+Server threadEx[28May2025 21:26:57.533] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for adventure-platform-facet
+Server threadEx[28May2025 21:26:57.534] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for adventure-platform-api
+Server threadEx[28May2025 21:26:57.536] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for adventure-platform-api
+Server threadEx[28May2025 21:26:57.537] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for adventure-platform-viaversion
+Server threadEx[28May2025 21:26:57.541] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for adventure-platform-viaversion
+Server threadEx[28May2025 21:26:57.542] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for adventure-text-serializer-bungeecord
+Server threadEx[28May2025 21:26:57.545] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for adventure-text-serializer-bungeecord
+Server threadEx[28May2025 21:26:57.546] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for adventure-text-serializer-legacy
+Server threadEx[28May2025 21:26:57.548] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for adventure-text-serializer-legacy
+Server threadEx[28May2025 21:26:57.549] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for bstats-bukkit
+Server threadEx[28May2025 21:26:57.552] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for bstats-bukkit
+Server threadEx[28May2025 21:26:57.553] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for bstats-base
+Server threadEx[28May2025 21:26:57.555] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for bstats-base
+Server threadEx[28May2025 21:26:57.555] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for paperlib
+Server threadEx[28May2025 21:26:57.559] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for paperlib
+Server threadEx[28May2025 21:26:57.561] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for ConfigurationMaster-API
+Server threadEx[28May2025 21:26:57.564] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for ConfigurationMaster-API
+Server threadEx[28May2025 21:26:57.565] [Server thread/INFO] [Homes/]: Loading Homes v2.0
+Server threadEx[28May2025 21:26:57.570] [Server thread/INFO] [SkinsRestorer/]: Enabling SkinsRestorer v15.6.4
+Server threadEx[28May2025 21:26:58.645] [Server thread/WARN] [SkinsRestorer/]: Loaded class net.kyori.adventure.text.Component from AdvancedTeleport v6.1.3 which is not a depend or softdepend of this plugin.
+Server threadEx[28May2025 21:26:59.269] [Server thread/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.21.0[32;1m.[0;39m
+Server threadEx[28May2025 21:27:00.082] [Server thread/INFO] [net.minecraft.class_3176/]: Preparing level "world"
+Server threadEx[28May2025 21:27:00.099] [Server thread/INFO] [Arclight/]: Registered 0 new dimensions
+Server threadEx[28May2025 21:27:00.793] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world] --------
+Server threadEx[28May2025 21:27:00.808] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+Server threadEx[28May2025 21:27:00.809] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+Server threadEx[28May2025 21:27:00.810] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+Server threadEx[28May2025 21:27:00.810] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+Server threadEx[28May2025 21:27:00.810] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+Server threadEx[28May2025 21:27:00.811] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+Server threadEx[28May2025 21:27:00.812] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+Server threadEx[28May2025 21:27:00.812] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+Server threadEx[28May2025 21:27:00.815] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+Server threadEx[28May2025 21:27:00.815] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+Server threadEx[28May2025 21:27:00.815] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+Server threadEx[28May2025 21:27:00.815] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+Server threadEx[28May2025 21:27:00.815] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+Server threadEx[28May2025 21:27:00.815] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+Server threadEx[28May2025 21:27:00.815] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+Server threadEx[28May2025 21:27:00.815] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+Server threadEx[28May2025 21:27:00.815] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+Server threadEx[28May2025 21:27:00.815] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+Server threadEx[28May2025 21:27:00.815] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+Server threadEx[28May2025 21:27:00.815] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+Server threadEx[28May2025 21:27:00.815] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+Server threadEx[28May2025 21:27:00.815] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+Server threadEx[28May2025 21:27:00.815] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+Server threadEx[28May2025 21:27:00.815] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+Server threadEx[28May2025 21:27:00.815] [Server thread/INFO] [Minecraft/]: TwistingVines Growth Modifier: 100%
+Server threadEx[28May2025 21:27:00.815] [Server thread/INFO] [Minecraft/]: WeepingVines Growth Modifier: 100%
+Server threadEx[28May2025 21:27:00.815] [Server thread/INFO] [Minecraft/]: CaveVines Growth Modifier: 100%
+Server threadEx[28May2025 21:27:00.819] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+Server threadEx[28May2025 21:27:00.820] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+Server threadEx[28May2025 21:27:00.824] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+Server threadEx[28May2025 21:27:00.824] [Server thread/INFO] [Minecraft/]: View Distance: 12
+Server threadEx[28May2025 21:27:00.825] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+Server threadEx[28May2025 21:27:00.825] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+Server threadEx[28May2025 21:27:00.825] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+Server threadEx[28May2025 21:27:00.825] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
+Server threadEx[28May2025 21:27:09.947] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world/DIM1] --------
+Server threadEx[28May2025 21:27:09.948] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+Server threadEx[28May2025 21:27:09.949] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+Server threadEx[28May2025 21:27:09.949] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+Server threadEx[28May2025 21:27:09.949] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+Server threadEx[28May2025 21:27:09.949] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+Server threadEx[28May2025 21:27:09.949] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+Server threadEx[28May2025 21:27:09.949] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+Server threadEx[28May2025 21:27:09.949] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+Server threadEx[28May2025 21:27:09.949] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+Server threadEx[28May2025 21:27:09.949] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+Server threadEx[28May2025 21:27:09.949] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+Server threadEx[28May2025 21:27:09.949] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+Server threadEx[28May2025 21:27:09.949] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+Server threadEx[28May2025 21:27:09.949] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+Server threadEx[28May2025 21:27:09.949] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+Server threadEx[28May2025 21:27:09.949] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+Server threadEx[28May2025 21:27:09.949] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+Server threadEx[28May2025 21:27:09.949] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+Server threadEx[28May2025 21:27:09.949] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+Server threadEx[28May2025 21:27:09.949] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+Server threadEx[28May2025 21:27:09.949] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+Server threadEx[28May2025 21:27:09.949] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+Server threadEx[28May2025 21:27:09.949] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+Server threadEx[28May2025 21:27:09.949] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+Server threadEx[28May2025 21:27:09.949] [Server thread/INFO] [Minecraft/]: TwistingVines Growth Modifier: 100%
+Server threadEx[28May2025 21:27:09.949] [Server thread/INFO] [Minecraft/]: WeepingVines Growth Modifier: 100%
+Server threadEx[28May2025 21:27:09.949] [Server thread/INFO] [Minecraft/]: CaveVines Growth Modifier: 100%
+Server threadEx[28May2025 21:27:09.950] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+Server threadEx[28May2025 21:27:09.950] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+Server threadEx[28May2025 21:27:09.950] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+Server threadEx[28May2025 21:27:09.950] [Server thread/INFO] [Minecraft/]: View Distance: 12
+Server threadEx[28May2025 21:27:09.950] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+Server threadEx[28May2025 21:27:09.950] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+Server threadEx[28May2025 21:27:09.950] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+Server threadEx[28May2025 21:27:09.950] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
+Server threadEx[28May2025 21:27:10.006] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world/DIM-1] --------
+Server threadEx[28May2025 21:27:10.009] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+Server threadEx[28May2025 21:27:10.009] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+Server threadEx[28May2025 21:27:10.009] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+Server threadEx[28May2025 21:27:10.009] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+Server threadEx[28May2025 21:27:10.009] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+Server threadEx[28May2025 21:27:10.009] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+Server threadEx[28May2025 21:27:10.009] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+Server threadEx[28May2025 21:27:10.009] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+Server threadEx[28May2025 21:27:10.010] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+Server threadEx[28May2025 21:27:10.010] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+Server threadEx[28May2025 21:27:10.010] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+Server threadEx[28May2025 21:27:10.010] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+Server threadEx[28May2025 21:27:10.010] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+Server threadEx[28May2025 21:27:10.010] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+Server threadEx[28May2025 21:27:10.010] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+Server threadEx[28May2025 21:27:10.010] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+Server threadEx[28May2025 21:27:10.010] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+Server threadEx[28May2025 21:27:10.010] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+Server threadEx[28May2025 21:27:10.010] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+Server threadEx[28May2025 21:27:10.010] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+Server threadEx[28May2025 21:27:10.010] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+Server threadEx[28May2025 21:27:10.010] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+Server threadEx[28May2025 21:27:10.010] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+Server threadEx[28May2025 21:27:10.010] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+Server threadEx[28May2025 21:27:10.010] [Server thread/INFO] [Minecraft/]: TwistingVines Growth Modifier: 100%
+Server threadEx[28May2025 21:27:10.010] [Server thread/INFO] [Minecraft/]: WeepingVines Growth Modifier: 100%
+Server threadEx[28May2025 21:27:10.010] [Server thread/INFO] [Minecraft/]: CaveVines Growth Modifier: 100%
+Server threadEx[28May2025 21:27:10.010] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+Server threadEx[28May2025 21:27:10.010] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+Server threadEx[28May2025 21:27:10.010] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+Server threadEx[28May2025 21:27:10.012] [Server thread/INFO] [Minecraft/]: View Distance: 12
+Server threadEx[28May2025 21:27:10.012] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+Server threadEx[28May2025 21:27:10.012] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+Server threadEx[28May2025 21:27:10.012] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+Server threadEx[28May2025 21:27:10.012] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
+Server threadEx[28May2025 21:27:10.044] [Server thread/INFO] [Graves/]: Enabling Graves v4.9
+Server threadEx[28May2025 21:27:10.053] [Server thread/WARN] [Graves/]: Loaded class net.kyori.adventure.text.minimessage.MiniMessage from AdvancedTeleport v6.1.3 which is not a depend or softdepend of this plugin.
+Server threadEx[28May2025 21:27:10.114] [Server thread/INFO] [Graves/]: Integration: Hooked into MiniMessage.
+Server threadEx[28May2025 21:27:10.782] [Server thread/INFO] [BetterRevive/]: Enabling BetterRevive v0.9.1-BETA
+Server threadEx[28May2025 21:27:10.807] [Server thread/INFO] [Console/]: [BetterRevive] Inventory title with support for more than 32 characters. Skipping..
+Server threadEx[28May2025 21:27:10.809] [Server thread/INFO] [Console/]: [BetterRevive] Hex colors are available! Ready for RGB..
+Server threadEx[28May2025 21:27:10.812] [Server thread/INFO] [Console/]: [BetterRevive] Old constructor for HoverEvent found! Using it..
+Server threadEx[28May2025 21:27:10.812] [Server thread/INFO] [Console/]: [BetterRevive] New sendTitle method found! Using it..
+Server threadEx[28May2025 21:27:10.814] [Server thread/INFO] [Console/]: [BetterRevive] New setUnbreakable method found! Using it..
+Server threadEx[28May2025 21:27:10.815] [Server thread/INFO] [Console/]: [BetterRevive] New isUnbreakable method found! Using it..
+Server threadEx[28May2025 21:27:10.818] [Server thread/INFO] [Console/]: [BetterRevive] ================================================================================
+Server threadEx[28May2025 21:27:10.819] [Server thread/INFO] [Console/]: [BetterRevive] This plugin requires NBTAPI. It's needed for this plugin to work.
+Server threadEx[28May2025 21:27:10.819] [Server thread/INFO] [Console/]: [BetterRevive] NBTAPI couldn't be found in your server. Disabling plugin..
+Server threadEx[28May2025 21:27:10.819] [Server thread/INFO] [Console/]: [BetterRevive] Download latest version of NBTAPI in https://alonsoaliaga.com/NBTAPI
+Server threadEx[28May2025 21:27:10.819] [Server thread/INFO] [Console/]: [BetterRevive] Please install NBTAPI to use this plugin or it won't work.
+Server threadEx[28May2025 21:27:10.819] [Server thread/INFO] [Console/]: [BetterRevive] For more questions join us on https://alonsoaliaga.com/discord
+Server threadEx[28May2025 21:27:10.819] [Server thread/INFO] [Console/]: [BetterRevive] ================================================================================
+Server threadEx[28May2025 21:27:10.819] [Server thread/INFO] [BetterRevive/]: Disabling BetterRevive v0.9.1-BETA
+Server threadEx[28May2025 21:27:10.819] [Server thread/INFO] [Console/]:  
+Server threadEx[28May2025 21:27:10.819] [Server thread/INFO] [Console/]: [BetterRevive] Plugin has been disabled!
+Server threadEx[28May2025 21:27:10.819] [Server thread/INFO] [Console/]: [BetterRevive] Thank you for using my plugin!
+Server threadEx[28May2025 21:27:10.819] [Server thread/INFO] [Console/]:  
+Server threadEx[28May2025 21:27:11.666] [Server thread/INFO] [ConditionalEvents/]: Enabling ConditionalEvents v4.62.2
+Server threadEx[28May2025 21:27:11.789] [Server thread/INFO] [Console/]: [ConditionalEvents] Has been enabled! Version: 4.62.2
+Server threadEx[28May2025 21:27:11.789] [Server thread/INFO] [Console/]: [ConditionalEvents] Thanks for using my plugin!   ~Ajneb97
+Server threadEx[28May2025 21:27:11.942] [Server thread/INFO] [FA/]: Enabling FoxAddition v1.2.0
+Server threadEx[28May2025 21:27:11.942] [Server thread/INFO] [FA/]:                           
+Server threadEx[28May2025 21:27:11.942] [Server thread/INFO] [FA/]: ______                         _      _  _  _    _                 
+Server threadEx[28May2025 21:27:11.942] [Server thread/INFO] [FA/]: |  ____|             /\       | |    | |(_)| |  (_)              
+Server threadEx[28May2025 21:27:11.943] [Server thread/INFO] [FA/]: | |__  ___ __  __   /  \    __| |  __| | _ | |_  _   ___   _ __  
+Server threadEx[28May2025 21:27:11.943] [Server thread/INFO] [FA/]: |  __|/ _ \\ \/ /  / /\ \  / _` | / _` || || __|| | / _ \ | '_ \ 
+Server threadEx[28May2025 21:27:11.943] [Server thread/INFO] [FA/]: | |  | (_) |>  <  / ____ \| (_| || (_| || || |_ | || (_) || | | |
+Server threadEx[28May2025 21:27:11.943] [Server thread/INFO] [FA/]: |_|   \___//_/\_\/_/    \_\\__,_| \__,_||_| \__||_| \___/ |_| |_|
+Server threadEx[28May2025 21:27:11.943] [Server thread/INFO] [FA/]:          Powered by https://www.idcteam.xyz/
+Server threadEx[28May2025 21:27:11.943] [Server thread/INFO] [FA/]:                           
+Server threadEx[28May2025 21:27:11.943] [Server thread/INFO] [FA/]:                  Created by NovaCraft254
+Server threadEx[28May2025 21:27:11.952] [Server thread/INFO] [FA/]:     Running on arclight-1.21-1.0.0-SNAPSHOT-b3349e9 (MC: 1.21)
+Server threadEx[28May2025 21:27:11.952] [Server thread/INFO] [FA/]:                           
+Server threadEx[28May2025 21:27:12.004] [Server thread/INFO] [FA/]: [LOGS] The cleanup of old logs started...
+Server threadEx[28May2025 21:27:12.008] [Server thread/INFO] [FA/]: [LOGS] The cleanup of old logs finished.
+Server threadEx[28May2025 21:27:12.039] [Server thread/INFO] [FA/]: [PHASE] Detecting automatically your version...
+Server threadEx[28May2025 21:27:12.040] [Server thread/INFO] [FA/]: [HOOK] Bedrock: Adding support for bedrock players with prefix or UUID.
+Server threadEx[28May2025 21:27:12.071] [Server thread/INFO] [FA/]: [FILES] FileWatcher is now enabled and ready to apply changes.
+Server threadEx[28May2025 21:27:12.105] [Server thread/WARN] [FA/]: [UPDATER] A new version of this plugin has been found.
+Server threadEx[28May2025 21:27:12.105] [Server thread/WARN] [FA/]: [UPDATER] Your version is: 1.2.0
+Server threadEx[28May2025 21:27:12.105] [Server thread/WARN] [FA/]: [UPDATER] Latest version is: 1.2.2
+Server threadEx[28May2025 21:27:12.105] [Server thread/WARN] [FA/]: [UPDATER] Download it in: https://www.spigotmc.org/resources/111260/
+Server threadEx[28May2025 21:27:12.106] [Server thread/INFO] [AdvancedTeleport/]: Enabling AdvancedTeleport v6.1.3
+Server threadEx[28May2025 21:27:12.128] [Server thread/INFO] [AdvancedTeleport/]: Performing server version check.
+Server threadEx[28May2025 21:27:12.128] [Server thread/INFO] [AdvancedTeleport/]: Detected major version: 21
+Server threadEx[28May2025 21:27:12.128] [Server thread/INFO] [AdvancedTeleport/]: Advanced Teleport is now enabling...
+Server threadEx[28May2025 21:27:12.128] [Server thread/INFO] [AdvancedTeleport/]: Setting up permissions integration with Vault.
+Server threadEx[28May2025 21:27:12.129] [Server thread/INFO] [AdvancedTeleport/]: Vault is not on the server, skipping.
+Server threadEx[28May2025 21:27:12.137] [Server thread/INFO] [AdvancedTeleport/]: Loading MainConfig.
+Server threadEx[28May2025 21:27:12.198] [Server thread/WARN] [AdvancedTeleport/]: Failed to parse payment 100.0 for command tpa! Error message: net/milkbowl/vault/economy/Economy
+Server threadEx[28May2025 21:27:12.198] [Server thread/WARN] [AdvancedTeleport/]: Failed to parse payment 100.0 for command tpahere! Error message: net/milkbowl/vault/economy/Economy
+Server threadEx[28May2025 21:27:12.198] [Server thread/WARN] [AdvancedTeleport/]: Failed to parse payment 100.0 for command tpr! Error message: net/milkbowl/vault/economy/Economy
+Server threadEx[28May2025 21:27:12.198] [Server thread/WARN] [AdvancedTeleport/]: Failed to parse payment 100.0 for command spawn! Error message: net/milkbowl/vault/economy/Economy
+Server threadEx[28May2025 21:27:12.198] [Server thread/WARN] [AdvancedTeleport/]: Failed to parse payment 100.0 for command warp! Error message: net/milkbowl/vault/economy/Economy
+Server threadEx[28May2025 21:27:12.198] [Server thread/WARN] [AdvancedTeleport/]: Failed to parse payment 100.0 for command home! Error message: net/milkbowl/vault/economy/Economy
+Server threadEx[28May2025 21:27:12.199] [Server thread/WARN] [AdvancedTeleport/]: Failed to parse payment 100.0 for command back! Error message: net/milkbowl/vault/economy/Economy
+Server threadEx[28May2025 21:27:12.524] [Server thread/INFO] [AdvancedTeleport/]: Registered the image warp_default!
+Server threadEx[28May2025 21:27:12.525] [Server thread/INFO] [AdvancedTeleport/]: Registered the image home_default!
+Server threadEx[28May2025 21:27:12.525] [Server thread/INFO] [AdvancedTeleport/]: Registered the image spawn_default!
+Server threadEx[28May2025 21:27:12.605] [Server thread/INFO] [Homes/]: Enabling Homes v2.0
+Server threadEx[28May2025 21:27:12.617] [Server thread/WARN] [Homes/]: Loaded class net.kyori.adventure.text.minimessage.MiniMessage from AdvancedTeleport v6.1.3 which is not a depend or softdepend of this plugin.
+Server threadEx[28May2025 21:27:12.660] [Server thread/INFO] [Minecraft/]: Server permissions file permissions.yml is empty, ignoring it
+Server threadEx[28May2025 21:27:12.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+Server threadEx[28May2025 21:27:13.822] [Worker-Main-1/INFO] [net.minecraft.class_3951/]: Preparing spawn area: 0%
+Worker-Main-1Ex[28May2025 21:27:13.824] [Worker-Main-1/INFO] [net.minecraft.class_3951/]: Preparing spawn area: 0%
+Worker-Main-1Ex[28May2025 21:27:13.825] [Worker-Main-1/INFO] [net.minecraft.class_3951/]: Preparing spawn area: 0%
+Worker-Main-1Ex[28May2025 21:27:14.121] [Server thread/INFO] [net.minecraft.class_3951/]: Time elapsed: 1447 ms
+Server threadEx[28May2025 21:27:14.121] [Server thread/INFO] [net.minecraft.class_3176/]: Done (14.040s)! For help, type "help"
+Server threadEx[28May2025 21:27:14.127] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+Server threadEx[28May2025 21:27:14.161] [Server thread/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+Server threadEx[28May2025 21:27:14.163] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
+VoiceChatServerThreadEx[28May2025 21:27:14.164] [Server thread/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+Server threadEx[28May2025 21:27:14.327] [Craft Scheduler Thread - 8/INFO] [AdvancedTeleport/]: Plugin is up to date!
+Craft Scheduler Thread - 8Ex[28May2025 21:27:14.359] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+Craft Scheduler Thread - 1Ex[28May2025 21:27:14.360] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+Craft Scheduler Thread - 1Ex[28May2025 21:27:14.360] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
+Craft Scheduler Thread - 1Ex[28May2025 21:27:14.361] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
+Craft Scheduler Thread - 1Ex[28May2025 21:27:14.362] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
+Craft Scheduler Thread - 1Ex[28May2025 21:27:14.362] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+Craft Scheduler Thread - 1Ex[28May2025 21:27:14.362] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+Craft Scheduler Thread - 1Ex[28May2025 21:27:14.362] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.6.4[0;39m
+Craft Scheduler Thread - 1Ex[28May2025 21:27:14.362] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1m7ee6269[0;39m
+Craft Scheduler Thread - 1Ex[28May2025 21:27:14.362] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
+Craft Scheduler Thread - 1Ex[28May2025 21:27:14.362] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+Craft Scheduler Thread - 1Ex[28May2025 21:27:14.362] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
+Craft Scheduler Thread - 1Ex[28May2025 21:27:14.363] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
+Craft Scheduler Thread - 1Ex[28May2025 21:30:05.267] [User Authenticator #1/INFO] [net.minecraft.class_3248/]: UUID of player Trejos1111 is a9438318-3f43-38b6-893d-7245ccfe2514
+User Authenticator #1Ex[28May2025 21:30:07.667] [Server thread/INFO] [net.minecraft.class_3324/]: Trejos1111[/127.60.167.187:50717] logged in with entity id 19 at (3116.5, 71.0, -4642.5)
+Server threadEx[28May2025 21:30:07.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trejos1111 joined the game
+Server threadEx[28May2025 21:30:08.279] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Trejos1111 (18)
+Server threadEx[28May2025 21:30:08.281] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Trejos1111
+Server threadEx[28May2025 21:30:25.194] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /bukkit:?
+Server threadEx[28May2025 21:30:55.863] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /help bukkit
+Server threadEx[28May2025 21:31:43.884] [Server thread/INFO] [Console/]: Unknown command. Type "/help" for help.
+Server threadEx[28May2025 21:31:54.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Trejos1111 a server operator
+Server threadEx[28May2025 21:32:03.068] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /tp 0 0 0
+Server threadEx[28May2025 21:32:03.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Trejos1111: Teleported Trejos1111 to 0.500000, 0.000000, 0.500000]
+Server threadEx[28May2025 21:32:04.693] [Server thread/INFO] [Minecraft/]: [FA] Trejos1111 might be using Phase.
+Server threadEx[28May2025 21:32:07.513] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /gamemode creative
+Server threadEx[28May2025 21:32:07.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Trejos1111: Set own game mode to Creative Mode]
+Server threadEx[28May2025 21:32:10.298] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /gamemode spectator
+Server threadEx[28May2025 21:32:10.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Trejos1111: Set own game mode to Spectator Mode]
+Server threadEx[28May2025 21:32:21.402] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /gamemode creative
+Server threadEx[28May2025 21:32:21.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Trejos1111: Set own game mode to Creative Mode]
+Server threadEx[28May2025 21:32:23.707] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /gamemode survival
+Server threadEx[28May2025 21:32:23.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Trejos1111: Set own game mode to Survival Mode]
+Server threadEx[28May2025 21:32:39.963] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /gamemode creative
+Server threadEx[28May2025 21:32:39.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Trejos1111: Set own game mode to Creative Mode]
+Server threadEx[28May2025 21:37:59.806] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /warp
+Server threadEx[28May2025 21:38:15.792] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /warp spawn
+Server threadEx[28May2025 21:38:41.907] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /warps
+Server threadEx[28May2025 21:45:29.782] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /reload
+Server threadEx[28May2025 21:45:29.783] [Server thread/INFO] [Console/]: Trejos1111: Please note that this command is not supported and may cause issues when using some plugins.
+Server threadEx[28May2025 21:45:29.783] [Server thread/INFO] [Console/]: Trejos1111: If you encounter any issues please use the /stop command to restart your server.
+Server threadEx[28May2025 21:45:29.797] [Server thread/INFO] [Homes/]: Disabling Homes v2.0
+Server threadEx[28May2025 21:45:29.798] [Server thread/INFO] [AdvancedTeleport/]: Disabling AdvancedTeleport v6.1.3
+Server threadEx[28May2025 21:45:29.804] [Server thread/INFO] [FA/]: Disabling FoxAddition v1.2.0
+Server threadEx[28May2025 21:45:29.805] [Server thread/INFO] [FA/]: [FILES] FileWatcher is now enabled and ready to apply changes.
+Server threadEx[28May2025 21:45:29.805] [Server thread/INFO] [FA/]: [FILES] FileWatcher is now disabled.
+Server threadEx[28May2025 21:45:29.806] [Server thread/INFO] [ConditionalEvents/]: Disabling ConditionalEvents v4.62.2
+Server threadEx[28May2025 21:45:29.806] [Server thread/INFO] [Console/]: [ConditionalEvents] Has been disabled! Version: 4.62.2
+Server threadEx[28May2025 21:45:29.826] [Server thread/INFO] [SkinsRestorer/]: Disabling SkinsRestorer v15.6.4
+Server threadEx[28May2025 21:45:29.905] [Server thread/INFO] [Graves/]: Disabling Graves v4.9
+Server threadEx[28May2025 21:45:30.613] [Server thread/INFO] [net.minecraft.class_1863/]: Loaded 1290 recipes
+Server threadEx[28May2025 21:45:30.804] [Server thread/INFO] [net.minecraft.class_163/]: Loaded 1399 advancements
+Server threadEx[28May2025 21:45:32.132] [Server thread/INFO] [Graves/]: Loading Graves v4.9
+Server threadEx[28May2025 21:45:32.334] [Server thread/INFO] [BetterRevive/]: Loading BetterRevive v0.9.1-BETA
+Server threadEx[28May2025 21:45:32.334] [Server thread/INFO] [SkinsRestorer/]: Loading SkinsRestorer v15.6.4
+Server threadEx[28May2025 21:45:32.334] [Server thread/INFO] [ConditionalEvents/]: Loading ConditionalEvents v4.62.2
+Server threadEx[28May2025 21:45:32.334] [Server thread/INFO] [FA/]: Loading FoxAddition v1.2.0
+Server threadEx[28May2025 21:45:32.334] [Server thread/INFO] [AdvancedTeleport/]: Loading AdvancedTeleport v6.1.3
+Server threadEx[28May2025 21:45:32.374] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for gson
+Server threadEx[28May2025 21:45:32.376] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for gson
+Server threadEx[28May2025 21:45:32.396] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for jar-relocator
+Server threadEx[28May2025 21:45:32.398] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for jar-relocator
+Server threadEx[28May2025 21:45:32.401] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for asm
+Server threadEx[28May2025 21:45:32.418] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for asm
+Server threadEx[28May2025 21:45:32.418] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for asm-commons
+Server threadEx[28May2025 21:45:32.422] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for asm-commons
+Server threadEx[28May2025 21:45:32.440] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for gson
+Server threadEx[28May2025 21:45:32.440] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for gson
+Server threadEx[28May2025 21:45:32.879] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for adventure-api
+Server threadEx[28May2025 21:45:32.881] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for adventure-api
+Server threadEx[28May2025 21:45:32.884] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for adventure-key
+Server threadEx[28May2025 21:45:32.885] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for adventure-key
+Server threadEx[28May2025 21:45:32.886] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for examination-api
+Server threadEx[28May2025 21:45:32.887] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for examination-api
+Server threadEx[28May2025 21:45:32.888] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for examination-string
+Server threadEx[28May2025 21:45:32.890] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for examination-string
+Server threadEx[28May2025 21:45:32.893] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for adventure-text-minimessage
+Server threadEx[28May2025 21:45:32.894] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for adventure-text-minimessage
+Server threadEx[28May2025 21:45:32.894] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for adventure-nbt
+Server threadEx[28May2025 21:45:32.895] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for adventure-nbt
+Server threadEx[28May2025 21:45:32.898] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for adventure-text-serializer-plain
+Server threadEx[28May2025 21:45:32.900] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for adventure-text-serializer-plain
+Server threadEx[28May2025 21:45:32.903] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for adventure-platform-bukkit
+Server threadEx[28May2025 21:45:32.906] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for adventure-platform-bukkit
+Server threadEx[28May2025 21:45:32.907] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for adventure-text-serializer-gson-legacy-impl
+Server threadEx[28May2025 21:45:32.909] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for adventure-text-serializer-gson-legacy-impl
+Server threadEx[28May2025 21:45:32.910] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for adventure-text-serializer-gson
+Server threadEx[28May2025 21:45:32.910] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for adventure-text-serializer-gson
+Server threadEx[28May2025 21:45:32.911] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for adventure-text-serializer-json
+Server threadEx[28May2025 21:45:32.913] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for adventure-text-serializer-json
+Server threadEx[28May2025 21:45:32.914] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for option
+Server threadEx[28May2025 21:45:32.914] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for option
+Server threadEx[28May2025 21:45:32.918] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for adventure-platform-facet
+Server threadEx[28May2025 21:45:32.920] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for adventure-platform-facet
+Server threadEx[28May2025 21:45:32.921] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for adventure-platform-api
+Server threadEx[28May2025 21:45:32.923] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for adventure-platform-api
+Server threadEx[28May2025 21:45:32.926] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for adventure-platform-viaversion
+Server threadEx[28May2025 21:45:32.933] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for adventure-platform-viaversion
+Server threadEx[28May2025 21:45:32.937] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for adventure-text-serializer-bungeecord
+Server threadEx[28May2025 21:45:32.941] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for adventure-text-serializer-bungeecord
+Server threadEx[28May2025 21:45:32.942] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for adventure-text-serializer-legacy
+Server threadEx[28May2025 21:45:32.949] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for adventure-text-serializer-legacy
+Server threadEx[28May2025 21:45:32.952] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for bstats-bukkit
+Server threadEx[28May2025 21:45:32.965] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for bstats-bukkit
+Server threadEx[28May2025 21:45:32.967] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for bstats-base
+Server threadEx[28May2025 21:45:32.970] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for bstats-base
+Server threadEx[28May2025 21:45:32.971] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for paperlib
+Server threadEx[28May2025 21:45:32.975] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for paperlib
+Server threadEx[28May2025 21:45:32.975] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for ConfigurationMaster-API
+Server threadEx[28May2025 21:45:32.980] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for ConfigurationMaster-API
+Server threadEx[28May2025 21:45:32.981] [Server thread/INFO] [Homes/]: Loading Homes v2.0
+Server threadEx[28May2025 21:45:32.985] [Server thread/INFO] [SkinsRestorer/]: Enabling SkinsRestorer v15.6.4
+Server threadEx[28May2025 21:45:33.395] [Server thread/WARN] [SkinsRestorer/]: Loaded class net.kyori.adventure.text.Component from AdvancedTeleport v6.1.3 which is not a depend or softdepend of this plugin.
+Server threadEx[28May2025 21:45:33.438] [Server thread/ERROR] [Minecraft/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mSkinsRestorer was already loaded in this JVM. You must've used a plugin like PlugMan to reload it. This is not supported and will cause issues with the plugin! Please restart your server to reload the plugin properly.[0;39m
+Server threadEx[28May2025 21:45:33.875] [Server thread/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.21.0[32;1m.[0;39m
+Server threadEx[28May2025 21:45:34.395] [Server thread/INFO] [Graves/]: Enabling Graves v4.9
+Server threadEx[28May2025 21:45:34.398] [Server thread/WARN] [Graves/]: Loaded class net.kyori.adventure.text.minimessage.MiniMessage from AdvancedTeleport v6.1.3 which is not a depend or softdepend of this plugin.
+Server threadEx[28May2025 21:45:34.453] [Server thread/INFO] [Graves/]: Integration: Hooked into MiniMessage.
+Server threadEx[28May2025 21:45:34.618] [Server thread/INFO] [BetterRevive/]: Enabling BetterRevive v0.9.1-BETA
+Server threadEx[28May2025 21:45:34.638] [Server thread/INFO] [Console/]: [BetterRevive] Inventory title with support for more than 32 characters. Skipping..
+Server threadEx[28May2025 21:45:34.638] [Server thread/INFO] [Console/]: [BetterRevive] Hex colors are available! Ready for RGB..
+Server threadEx[28May2025 21:45:34.638] [Server thread/INFO] [Console/]: [BetterRevive] Old constructor for HoverEvent found! Using it..
+Server threadEx[28May2025 21:45:34.638] [Server thread/INFO] [Console/]: [BetterRevive] New sendTitle method found! Using it..
+Server threadEx[28May2025 21:45:34.638] [Server thread/INFO] [Console/]: [BetterRevive] New setUnbreakable method found! Using it..
+Server threadEx[28May2025 21:45:34.638] [Server thread/INFO] [Console/]: [BetterRevive] New isUnbreakable method found! Using it..
+Server threadEx[28May2025 21:45:34.638] [Server thread/INFO] [Console/]: [BetterRevive] ================================================================================
+Server threadEx[28May2025 21:45:34.638] [Server thread/INFO] [Console/]: [BetterRevive] This plugin requires NBTAPI. It's needed for this plugin to work.
+Server threadEx[28May2025 21:45:34.638] [Server thread/INFO] [Console/]: [BetterRevive] NBTAPI couldn't be found in your server. Disabling plugin..
+Server threadEx[28May2025 21:45:34.638] [Server thread/INFO] [Console/]: [BetterRevive] Download latest version of NBTAPI in https://alonsoaliaga.com/NBTAPI
+Server threadEx[28May2025 21:45:34.638] [Server thread/INFO] [Console/]: [BetterRevive] Please install NBTAPI to use this plugin or it won't work.
+Server threadEx[28May2025 21:45:34.638] [Server thread/INFO] [Console/]: [BetterRevive] For more questions join us on https://alonsoaliaga.com/discord
+Server threadEx[28May2025 21:45:34.639] [Server thread/INFO] [Console/]: [BetterRevive] ================================================================================
+Server threadEx[28May2025 21:45:34.639] [Server thread/INFO] [BetterRevive/]: Disabling BetterRevive v0.9.1-BETA
+Server threadEx[28May2025 21:45:34.639] [Server thread/INFO] [Console/]:  
+Server threadEx[28May2025 21:45:34.639] [Server thread/INFO] [Console/]: [BetterRevive] Plugin has been disabled!
+Server threadEx[28May2025 21:45:34.639] [Server thread/INFO] [Console/]: [BetterRevive] Thank you for using my plugin!
+Server threadEx[28May2025 21:45:34.639] [Server thread/INFO] [Console/]:  
+Server threadEx[28May2025 21:45:34.641] [Server thread/INFO] [ConditionalEvents/]: Enabling ConditionalEvents v4.62.2
+Server threadEx[28May2025 21:45:34.716] [Server thread/INFO] [Console/]: [ConditionalEvents] Has been enabled! Version: 4.62.2
+Server threadEx[28May2025 21:45:34.716] [Server thread/INFO] [Console/]: [ConditionalEvents] Thanks for using my plugin!   ~Ajneb97
+Server threadEx[28May2025 21:45:34.788] [Server thread/INFO] [FA/]: Enabling FoxAddition v1.2.0
+Server threadEx[28May2025 21:45:34.788] [Server thread/INFO] [FA/]:                           
+Server threadEx[28May2025 21:45:34.788] [Server thread/INFO] [FA/]: ______                         _      _  _  _    _                 
+Server threadEx[28May2025 21:45:34.788] [Server thread/INFO] [FA/]: |  ____|             /\       | |    | |(_)| |  (_)              
+Server threadEx[28May2025 21:45:34.788] [Server thread/INFO] [FA/]: | |__  ___ __  __   /  \    __| |  __| | _ | |_  _   ___   _ __  
+Server threadEx[28May2025 21:45:34.788] [Server thread/INFO] [FA/]: |  __|/ _ \\ \/ /  / /\ \  / _` | / _` || || __|| | / _ \ | '_ \ 
+Server threadEx[28May2025 21:45:34.788] [Server thread/INFO] [FA/]: | |  | (_) |>  <  / ____ \| (_| || (_| || || |_ | || (_) || | | |
+Server threadEx[28May2025 21:45:34.788] [Server thread/INFO] [FA/]: |_|   \___//_/\_\/_/    \_\\__,_| \__,_||_| \__||_| \___/ |_| |_|
+Server threadEx[28May2025 21:45:34.788] [Server thread/INFO] [FA/]:          Powered by https://www.idcteam.xyz/
+Server threadEx[28May2025 21:45:34.788] [Server thread/INFO] [FA/]:                           
+Server threadEx[28May2025 21:45:34.788] [Server thread/INFO] [FA/]:                  Created by NovaCraft254
+Server threadEx[28May2025 21:45:34.788] [Server thread/INFO] [FA/]:     Running on arclight-1.21-1.0.0-SNAPSHOT-b3349e9 (MC: 1.21)
+Server threadEx[28May2025 21:45:34.788] [Server thread/INFO] [FA/]:                           
+Server threadEx[28May2025 21:45:34.811] [Server thread/INFO] [FA/]: [LOGS] The cleanup of old logs started...
+Server threadEx[28May2025 21:45:34.812] [Server thread/INFO] [FA/]: [LOGS] The cleanup of old logs finished.
+Server threadEx[28May2025 21:45:34.825] [Server thread/INFO] [FA/]: [PHASE] Detecting automatically your version...
+Server threadEx[28May2025 21:45:34.826] [Server thread/INFO] [FA/]: [HOOK] Bedrock: Adding support for bedrock players with prefix or UUID.
+Server threadEx[28May2025 21:45:34.851] [Server thread/INFO] [FA/]: [FILES] FileWatcher is now enabled and ready to apply changes.
+Server threadEx[28May2025 21:45:34.875] [Server thread/WARN] [FA/]: [UPDATER] A new version of this plugin has been found.
+Server threadEx[28May2025 21:45:34.877] [Server thread/WARN] [FA/]: [UPDATER] Your version is: 1.2.0
+Server threadEx[28May2025 21:45:34.877] [Server thread/WARN] [FA/]: [UPDATER] Latest version is: 1.2.2
+Server threadEx[28May2025 21:45:34.877] [Server thread/WARN] [FA/]: [UPDATER] Download it in: https://www.spigotmc.org/resources/111260/
+Server threadEx[28May2025 21:45:34.878] [Server thread/INFO] [AdvancedTeleport/]: Enabling AdvancedTeleport v6.1.3
+Server threadEx[28May2025 21:45:34.917] [Server thread/INFO] [AdvancedTeleport/]: Performing server version check.
+Server threadEx[28May2025 21:45:34.918] [Server thread/INFO] [AdvancedTeleport/]: Detected major version: 21
+Server threadEx[28May2025 21:45:34.918] [Server thread/INFO] [AdvancedTeleport/]: Advanced Teleport is now enabling...
+Server threadEx[28May2025 21:45:34.921] [Server thread/INFO] [AdvancedTeleport/]: Setting up permissions integration with Vault.
+Server threadEx[28May2025 21:45:34.921] [Server thread/INFO] [AdvancedTeleport/]: Vault is not on the server, skipping.
+Server threadEx[28May2025 21:45:34.933] [Server thread/INFO] [AdvancedTeleport/]: Loading MainConfig.
+Server threadEx[28May2025 21:45:34.984] [Server thread/WARN] [AdvancedTeleport/]: Failed to parse payment 0 for command tpa! Error message: net/milkbowl/vault/economy/Economy
+Server threadEx[28May2025 21:45:34.984] [Server thread/WARN] [AdvancedTeleport/]: Failed to parse payment 0 for command tpahere! Error message: net/milkbowl/vault/economy/Economy
+Server threadEx[28May2025 21:45:34.984] [Server thread/WARN] [AdvancedTeleport/]: Failed to parse payment 0 for command tpr! Error message: net/milkbowl/vault/economy/Economy
+Server threadEx[28May2025 21:45:34.985] [Server thread/WARN] [AdvancedTeleport/]: Failed to parse payment 0 for command spawn! Error message: net/milkbowl/vault/economy/Economy
+Server threadEx[28May2025 21:45:34.985] [Server thread/WARN] [AdvancedTeleport/]: Failed to parse payment 0 for command warp! Error message: net/milkbowl/vault/economy/Economy
+Server threadEx[28May2025 21:45:34.985] [Server thread/WARN] [AdvancedTeleport/]: Failed to parse payment 0 for command home! Error message: net/milkbowl/vault/economy/Economy
+Server threadEx[28May2025 21:45:34.985] [Server thread/WARN] [AdvancedTeleport/]: Failed to parse payment 0 for command back! Error message: net/milkbowl/vault/economy/Economy
+Server threadEx[28May2025 21:45:35.219] [Server thread/INFO] [AdvancedTeleport/]: Registered the image warp_default!
+Server threadEx[28May2025 21:45:35.219] [Server thread/INFO] [AdvancedTeleport/]: Registered the image home_default!
+Server threadEx[28May2025 21:45:35.219] [Server thread/INFO] [AdvancedTeleport/]: Registered the image spawn_default!
+Server threadEx[28May2025 21:45:35.314] [Server thread/INFO] [Homes/]: Enabling Homes v2.0
+Server threadEx[28May2025 21:45:35.325] [Server thread/WARN] [Homes/]: Loaded class net.kyori.adventure.text.minimessage.MiniMessage from AdvancedTeleport v6.1.3 which is not a depend or softdepend of this plugin.
+Server threadEx[28May2025 21:45:35.394] [Server thread/INFO] [Minecraft/]: Server permissions file permissions.yml is empty, ignoring it
+Server threadEx[28May2025 21:45:35.429] [Server thread/INFO] [Console/]: Trejos1111: Reload complete.
+Server threadEx[28May2025 21:45:35.429] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5604ms or 112 ticks behind
+Server threadEx[28May2025 21:45:35.533] [Craft Scheduler Thread - 20/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+Craft Scheduler Thread - 20Ex[28May2025 21:45:35.537] [Craft Scheduler Thread - 20/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+Craft Scheduler Thread - 20Ex[28May2025 21:45:35.540] [Craft Scheduler Thread - 20/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
+Craft Scheduler Thread - 20Ex[28May2025 21:45:35.540] [Craft Scheduler Thread - 20/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
+Craft Scheduler Thread - 20Ex[28May2025 21:45:35.540] [Craft Scheduler Thread - 20/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
+Craft Scheduler Thread - 20Ex[28May2025 21:45:35.540] [Craft Scheduler Thread - 20/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+Craft Scheduler Thread - 20Ex[28May2025 21:45:35.540] [Craft Scheduler Thread - 20/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+Craft Scheduler Thread - 20Ex[28May2025 21:45:35.540] [Craft Scheduler Thread - 20/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.6.4[0;39m
+Craft Scheduler Thread - 20Ex[28May2025 21:45:35.541] [Craft Scheduler Thread - 20/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1m7ee6269[0;39m
+Craft Scheduler Thread - 20Ex[28May2025 21:45:35.541] [Craft Scheduler Thread - 20/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
+Craft Scheduler Thread - 20Ex[28May2025 21:45:35.541] [Craft Scheduler Thread - 20/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+Craft Scheduler Thread - 20Ex[28May2025 21:45:35.541] [Craft Scheduler Thread - 20/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
+Craft Scheduler Thread - 20Ex[28May2025 21:45:35.541] [Craft Scheduler Thread - 20/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
+Craft Scheduler Thread - 20Ex[28May2025 21:45:35.669] [Craft Scheduler Thread - 21/INFO] [AdvancedTeleport/]: Plugin is up to date!
+Craft Scheduler Thread - 21Ex[28May2025 21:46:01.350] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /gamemode survival
+Server threadEx[28May2025 21:46:01.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Trejos1111: Set own game mode to Survival Mode]
+Server threadEx[28May2025 21:46:26.022] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /spawn
+Server threadEx[28May2025 21:46:52.952] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /spawnpoint @a 0 69 0
+Server threadEx[28May2025 21:46:52.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Trejos1111: Set spawn point to 0, 69, 0 [0.0] in minecraft:overworld for Trejos1111]
+Server threadEx[28May2025 21:46:58.519] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /spawn
+Server threadEx[28May2025 21:47:03.996] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /spawn
+Server threadEx[28May2025 21:53:31.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trejos1111 has made the advancement [Stone Age]
+Server threadEx[28May2025 21:53:49.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trejos1111 has made the advancement [Getting an Upgrade]
+Server threadEx[28May2025 21:55:05.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trejos1111 has made the advancement [Monster Hunter]
+Server threadEx[28May2025 21:55:52.776] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 lost connection: Disconnected
+Server threadEx[28May2025 21:55:52.779] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Trejos1111
+Server threadEx[28May2025 21:55:52.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trejos1111 left the game
+Server threadEx[28May2025 21:55:56.895] [User Authenticator #2/INFO] [net.minecraft.class_3248/]: UUID of player Trejos1111 is a9438318-3f43-38b6-893d-7245ccfe2514
+User Authenticator #2Ex[28May2025 21:55:59.373] [Server thread/INFO] [net.minecraft.class_3324/]: Trejos1111[/127.60.167.187:46091] logged in with entity id 4535 at (5.3478693551163135, 69.0, 0.9326669479278955)
+Server threadEx[28May2025 21:55:59.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trejos1111 joined the game
+Server threadEx[28May2025 21:55:59.595] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Trejos1111 (18)
+Server threadEx[28May2025 21:55:59.596] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Trejos1111
+Server threadEx[28May2025 21:56:09.827] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /gamemode creative
+Server threadEx[28May2025 21:56:09.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Trejos1111: Set own game mode to Creative Mode]
+Server threadEx[28May2025 21:56:11.759] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /gamemode survival
+Server threadEx[28May2025 21:56:11.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Trejos1111: Set own game mode to Survival Mode]
+Server threadEx[28May2025 21:56:46.144] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /time set day
+Server threadEx[28May2025 21:56:46.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Trejos1111: Set the time to 1000]
+Server threadEx[28May2025 21:57:22.659] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /give Trejos1111 minecraft:chicken 4
+Server threadEx[28May2025 21:57:22.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Trejos1111: Gave 4 [Raw Chicken] to Trejos1111]
+Server threadEx[28May2025 21:57:51.821] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /difficulty hard
+Server threadEx[28May2025 21:58:20.889] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /effect give Trejos1111 minecraft:saturation infinite
+Server threadEx[28May2025 21:58:20.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Trejos1111: Applied effect Saturation to Trejos1111]
+Server threadEx[28May2025 21:58:34.127] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /effect clear Trejos1111 minecraft:saturation infinite
+Server threadEx[28May2025 21:58:39.733] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /effect clear Trejos1111 minecraft:saturation
+Server threadEx[28May2025 21:58:39.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Trejos1111: Removed effect Saturation from Trejos1111]
+Server threadEx[28May2025 21:58:44.626] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 lost connection: Disconnected
+Server threadEx[28May2025 21:58:44.626] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Trejos1111
+Server threadEx[28May2025 21:58:44.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trejos1111 left the game
+Server threadEx[28May2025 21:59:25.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+Server threadEx[28May2025 21:59:25.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+Server threadEx[28May2025 21:59:25.975] [Server thread/INFO] [Homes/]: Disabling Homes v2.0
+Server threadEx[28May2025 21:59:25.976] [Server thread/INFO] [AdvancedTeleport/]: Disabling AdvancedTeleport v6.1.3
+Server threadEx[28May2025 21:59:25.977] [Server thread/INFO] [FA/]: Disabling FoxAddition v1.2.0
+Server threadEx[28May2025 21:59:25.977] [Server thread/INFO] [FA/]: [FILES] FileWatcher is now enabled and ready to apply changes.
+Server threadEx[28May2025 21:59:25.977] [Server thread/INFO] [FA/]: [FILES] FileWatcher is now disabled.
+Server threadEx[28May2025 21:59:25.978] [Server thread/INFO] [ConditionalEvents/]: Disabling ConditionalEvents v4.62.2
+Server threadEx[28May2025 21:59:25.978] [Server thread/INFO] [Console/]: [ConditionalEvents] Has been disabled! Version: 4.62.2
+Server threadEx[28May2025 21:59:25.978] [Server thread/INFO] [SkinsRestorer/]: Disabling SkinsRestorer v15.6.4
+Server threadEx[28May2025 21:59:25.981] [Server thread/INFO] [Graves/]: Disabling Graves v4.9
+Server threadEx[28May2025 21:59:25.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+Server threadEx[28May2025 21:59:25.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+Server threadEx[28May2025 21:59:26.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+Server threadEx[28May2025 21:59:26.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM1]'/minecraft:the_end
+Server threadEx[28May2025 21:59:26.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM-1]'/minecraft:the_nether
+Server threadEx[28May2025 21:59:31.224] [Exit Thread/INFO] [Arclight/]: 16 threads not shutting down correctly, force exiting
+Exit ThreadEx
