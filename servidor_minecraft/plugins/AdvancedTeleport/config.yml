@@ -30,7 +30,7 @@ use-warps: true
 use-spawn: true
 
 # Whether the plugin should allow random teleportation.
-use-randomtp: false
+use-randomtp: true
 
 # Whether homes should be enabled in the plugin.
 use-homes: true
@@ -178,7 +178,7 @@ custom-cooldowns: {}
 # If you're on a legacy version and unsure on what byte to use, see https://minecraftitemids.com/types
 # To use multiple methods of charging, use a ; - e.g. '100.0;10LVL' for $100 and 10 EXP levels.
 # To disable, just put an empty string, i.e. ''
-cost-amount: 0
+cost-amount: 100.0
 
 # Command-specific costs.
 per-command-cost:

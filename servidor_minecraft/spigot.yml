@@ -11,17 +11,17 @@
 # Forums: http://www.spigotmc.org/
 
 commands:
-  tab-complete: 0
-  send-namespaced: true
-  log: true
-  spam-exclusions:
-  - /skill
-  silent-commandblock-console: false
   replace-commands:
   - setblock
   - summon
   - testforblock
   - tellraw
+  log: true
+  spam-exclusions:
+  - /skill
+  silent-commandblock-console: false
+  tab-complete: 0
+  send-namespaced: true
 settings:
   sample-count: 12
   player-shuffle: 0
@@ -54,6 +54,7 @@ world-settings:
   default:
     below-zero-generation-in-existing-chunks: true
     verbose: true
+    zombie-aggressive-towards-villager: true
     merge-radius:
       exp: 3.0
       item: 2.5
@@ -65,7 +66,6 @@ world-settings:
     end-portal-sound-radius: 0
     hanging-tick-frequency: 100
     thunder-chance: 100000
-    unload-frozen-chunks: false
     growth:
       cactus-modifier: 100
       cane-modifier: 100
@@ -86,7 +86,6 @@ world-settings:
       twistingvines-modifier: 100
       weepingvines-modifier: 100
       cavevines-modifier: 100
-    zombie-aggressive-towards-villager: true
     entity-activation-range:
       animals: 32
       monsters: 32
