@@ -133,8 +133,8 @@ world-settings:
     max-tick-time:
       tile: 50
       entity: 50
-    view-distance: default
     item-despawn-rate: 6000
+    view-distance: default
     nerf-spawner-mobs: false
     simulation-distance: default
 messages:
