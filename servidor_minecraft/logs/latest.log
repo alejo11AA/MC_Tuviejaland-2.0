@@ -342,4 +342,68 @@ VoiceChatPacketProcessingThreadEx[30May2025 01:05:06.894] [VoiceChatPacketProces
 VoiceChatPacketProcessingThreadEx[30May2025 01:05:07.085] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 28a214db-3f8e-3c87-a1f8-75c3acbe8cd0
 VoiceChatPacketProcessingThreadEx[30May2025 01:05:08.085] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 28a214db-3f8e-3c87-a1f8-75c3acbe8cd0
 VoiceChatPacketProcessingThreadEx[30May2025 01:05:08.085] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player RICHARDESC207 (28a214db-3f8e-3c87-a1f8-75c3acbe8cd0) successfully connected to voice chat
-VoiceChatPacketProcessingThreadEx
+VoiceChatPacketProcessingThreadEx[30May2025 01:05:29.986] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 28a214db-3f8e-3c87-a1f8-75c3acbe8cd0 timed out
+VoiceChatPacketProcessingThreadEx[30May2025 01:05:29.986] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player RICHARDESC207
+VoiceChatPacketProcessingThreadEx[30May2025 01:05:29.987] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to RICHARDESC207
+VoiceChatPacketProcessingThreadEx[30May2025 01:05:30.199] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 28a214db-3f8e-3c87-a1f8-75c3acbe8cd0
+VoiceChatPacketProcessingThreadEx[30May2025 01:05:31.202] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 28a214db-3f8e-3c87-a1f8-75c3acbe8cd0
+VoiceChatPacketProcessingThreadEx[30May2025 01:05:31.202] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player RICHARDESC207 (28a214db-3f8e-3c87-a1f8-75c3acbe8cd0) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[30May2025 01:06:12.232] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /gamemode survival electricidiZAP
+Server threadEx[30May2025 01:06:39.868] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /gamemode survival electricidiZAP
+Server threadEx[30May2025 01:06:47.399] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /gamemode survival RICHARDESC207
+Server threadEx[30May2025 01:06:49.487] [Server thread/INFO] [Console/]: %vault_prefix% RICHARDESC207 is bleeding..
+Server threadEx[30May2025 01:07:01.144] [Server thread/INFO] [Console/]: %vault_prefix% RICHARDESC207 has been saved by %vault_prefix% electricidiZAP!
+Server threadEx[30May2025 01:07:30.040] [Server thread/INFO] [Console/]: %vault_prefix% RICHARDESC207 is bleeding so bad..
+Server threadEx[30May2025 01:08:04.859] [Server thread/INFO] [net.minecraft.class_3244/]: RICHARDESC207 issued server command: /GIVEUP
+Server threadEx[30May2025 01:08:16.604] [Server thread/INFO] [net.minecraft.class_3244/]: RICHARDESC207 issued server command: /giveu
+Server threadEx[30May2025 01:08:30.046] [Server thread/INFO] [Console/]: %vault_prefix% RICHARDESC207 died after bleeding..
+Server threadEx[30May2025 01:08:30.047] [Server thread/ERROR] [Minecraft/]: Could not pass event PlayerDeathEvent to Graves v4.9
+Server threadEx org.bukkit.event.EventException: null
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:600) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:587) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactoryMixin.java:928) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at net.minecraft.class_3222.method_6078(ServerPlayerMixin_Vanilla.java:2311) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_5643(LivingEntityMixin.java:4346) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1657.method_5643(PlayerMixin_Vanilla.java:2532) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3222.method_5643(ServerPlayerMixin_Vanilla.java:738) ~[server-intermediary.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.entity.CraftLivingEntity.damage(CraftLivingEntity.java:327) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.entity.CraftLivingEntity.damage(CraftLivingEntity.java:300) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at com.alonsoaliaga.betterrevive.listeners.DamageListener$1.run(DamageListener.java:378) ~[?:?]
+	at org.bukkit.craftbukkit.v1_20_R3.scheduler.CraftTask.run(CraftTask.java:82) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftSchedulerMixin.java:415) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zbh000$arclight$runScheduler(MinecraftServerMixin.java:2371) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServerMixin.java) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3176.method_3813(DedicatedServerMixin_Vanilla.java:283) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServerMixin.java:845) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServerMixin.java:2127) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServerMixin.java:270) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.NoSuchMethodError: 'java.lang.String com.mojang.authlib.properties.Property.getValue()'
+	at com.ranull.graves.util.SkinUtil.getTexture(SkinUtil.java:48) ~[?:?]
+	at com.ranull.graves.listener.EntityDeathListener.onEntityDeath(EntityDeathListener.java:297) ~[?:?]
+	... 20 more
+[30May2025 01:08:54.879] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /tpa Mori_Jun
+Server threadEx[30May2025 01:09:14.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RICHARDESC207 has made the advancement [Suit Up]
+Server threadEx[30May2025 01:09:18.735] [Async Chat Thread - #50/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Trejos1111> pacho
+Async Chat Thread - #50Ex[30May2025 01:09:25.662] [Async Chat Thread - #49/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Trejos1111> acepte
+Async Chat Thread - #49Ex[30May2025 01:09:28.713] [Async Chat Thread - #50/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mori_Jun> no
+Async Chat Thread - #50Ex[30May2025 01:09:32.153] [Async Chat Thread - #49/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Trejos1111> :(
+Async Chat Thread - #49Ex[30May2025 01:09:36.838] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /tpa Mori_Jun
+Server threadEx[30May2025 01:09:44.591] [Async Chat Thread - #50/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mori_Jun> es mi lugar secreto
+Async Chat Thread - #50Ex[30May2025 01:10:50.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mori_Jun has made the advancement [Enchanter]
+Server threadEx[30May2025 01:10:58.976] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /tpa Mori_Jun
+Server threadEx[30May2025 01:11:21.290] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /back
+Server threadEx[30May2025 01:11:26.738] [Server thread/INFO] [net.minecraft.class_3244/]: Mori_Jun issued server command: /tpano Trejos1111
+Server threadEx[30May2025 01:11:37.273] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /w Mori_Jun puto
+Server threadEx[30May2025 01:12:11.979] [Server thread/INFO] [net.minecraft.class_3244/]: Mori_Jun issued server command: /tpa Trejos1111
+Server threadEx[30May2025 01:12:15.875] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /tpayes Mori_Jun
+Server threadEx[30May2025 01:12:32.144] [Server thread/INFO] [Console/]: %vault_prefix% Trejos1111 is bleeding..
+Server threadEx[30May2025 01:12:46.599] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /grave
+Server threadEx[30May2025 01:13:07.794] [Server thread/INFO] [Console/]: %vault_prefix% Trejos1111 has been saved by %vault_prefix% Mori_Jun!
+Server threadEx[30May2025 01:13:28.099] [Server thread/INFO] [net.minecraft.class_3244/]: Mori_Jun lost connection: Disconnected
+Server threadEx[30May2025 01:13:28.099] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mori_Jun
+Server threadEx[30May2025 01:13:28.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mori_Jun left the game
+Server threadEx[30May2025 01:15:05.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: electricidiZAP has made the advancement [Getting an Upgrade]
+Server threadEx[30May2025 01:15:17.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RICHARDESC207 has made the advancement [Getting an Upgrade]
+Server threadEx
