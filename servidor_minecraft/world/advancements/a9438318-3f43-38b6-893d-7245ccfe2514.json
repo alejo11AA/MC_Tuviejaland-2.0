@@ -17,6 +17,7 @@
       "minecraft:river": "2025-05-29 23:31:24 +0000",
       "minecraft:lukewarm_ocean": "2025-05-30 01:18:48 +0000",
       "minecraft:stony_shore": "2025-05-30 01:20:20 +0000",
+      "minecraft:dripstone_caves": "2025-05-30 02:33:33 +0000",
       "minecraft:eroded_badlands": "2025-05-30 02:11:52 +0000",
       "minecraft:desert": "2025-05-30 01:52:39 +0000",
       "minecraft:jungle": "2025-05-29 23:45:55 +0000",
@@ -573,10 +574,15 @@
       "minecraft:pillager": "2025-05-30 01:02:28 +0000",
       "minecraft:skeleton": "2025-05-30 00:06:45 +0000",
       "minecraft:phantom": "2025-05-30 02:01:23 +0000",
+      "minecraft:vindicator": "2025-05-30 02:38:48 +0000",
+      "minecraft:witch": "2025-05-30 02:35:36 +0000",
       "minecraft:spider": "2025-05-29 23:52:05 +0000",
+      "minecraft:vex": "2025-05-30 02:43:51 +0000",
       "minecraft:zombie": "2025-05-29 23:48:55 +0000",
       "minecraft:creeper": "2025-05-30 01:36:15 +0000",
-      "minecraft:zombie_villager": "2025-05-29 23:52:47 +0000"
+      "minecraft:zombie_villager": "2025-05-29 23:52:47 +0000",
+      "minecraft:ravager": "2025-05-30 02:45:17 +0000",
+      "minecraft:evoker": "2025-05-30 02:36:09 +0000"
     },
     "done": false
   },
@@ -1384,6 +1390,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-05-30 02:37:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-30 01:32:29 +0000"
@@ -1393,6 +1405,12 @@
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-05-30 01:56:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-05-30 02:38:03 +0000"
     },
     "done": true
   },

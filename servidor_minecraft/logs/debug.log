@@ -6836,4 +6836,1460 @@ Server threadEx[30May2025 02:21:26.256] [Server thread/DEBUG] [Arclight/]: Misma
 Server threadEx[30May2025 02:21:44.945] [Server thread/INFO] [Console/]: %vault_prefix% electricidiZAP revived %vault_prefix% RICHARDESC207!
 Server threadEx[30May2025 02:21:54.144] [Worker-Main-1/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/class_2457$1
 Worker-Main-1Ex[30May2025 02:25:51.605] [Server thread/WARN] [net.minecraft.class_3244/]: RICHARDESC207 moved wrongly!
+Server threadEx[30May2025 02:28:30.755] [Server thread/INFO] [Console/]: %vault_prefix% Dezar68 is bleeding so bad..
+Server threadEx[30May2025 02:28:30.857] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=834, y=-23, z=-538} class_2338{x=834, y=-23, z=-539}
+Server threadEx[30May2025 02:28:31.162] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=834, y=-23, z=-538} class_2338{x=834, y=-24, z=-538}
+Server threadEx[30May2025 02:28:31.260] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=834, y=-23, z=-538} class_2338{x=834, y=-23, z=-537}
+Server threadEx[30May2025 02:28:31.470] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=834, y=-23, z=-538} class_2338{x=835, y=-23, z=-537}
+Server threadEx[30May2025 02:28:36.865] [Async Chat Thread - #60/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RICHARDESC207> JAJAJJAJA
+Async Chat Thread - #60Ex[30May2025 02:28:47.096] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/class_3765$1
+Server threadEx[30May2025 02:29:18.242] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=834, y=-23, z=-538} class_2338{x=792, y=-39, z=-432}
+Server threadEx[30May2025 02:29:18.605] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=834, y=-23, z=-538} class_2338{x=791, y=-38, z=-431}
+Server threadEx[30May2025 02:29:18.752] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=834, y=-23, z=-538} class_2338{x=792, y=-39, z=-434}
+Server threadEx[30May2025 02:29:18.954] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=834, y=-23, z=-538} class_2338{x=791, y=-39, z=-434}
+Server threadEx[30May2025 02:29:19.354] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=834, y=-23, z=-538} class_2338{x=793, y=-41, z=-431}
+Server threadEx[30May2025 02:29:21.004] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=834, y=-23, z=-538} class_2338{x=797, y=-40, z=-431}
+Server threadEx[30May2025 02:29:21.053] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=834, y=-23, z=-538} class_2338{x=796, y=-40, z=-427}
+Server threadEx[30May2025 02:29:21.204] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=834, y=-23, z=-538} class_2338{x=797, y=-40, z=-431}
+Server threadEx[30May2025 02:29:21.702] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=834, y=-23, z=-538} class_2338{x=795, y=-40, z=-432}
+Server threadEx[30May2025 02:29:21.808] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=834, y=-23, z=-538} class_2338{x=796, y=-40, z=-432}
+Server threadEx[30May2025 02:29:22.162] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=834, y=-23, z=-538} class_2338{x=794, y=-41, z=-430}
+Server threadEx[30May2025 02:29:23.204] [Server thread/INFO] [Console/]: %vault_prefix% Dezar68 died after bleeding..
+Server threadEx[30May2025 02:29:23.205] [Server thread/ERROR] [Minecraft/]: Could not pass event PlayerDeathEvent to Graves v4.9
+Server threadEx org.bukkit.event.EventException: null
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:600) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:587) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactoryMixin.java:928) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at net.minecraft.class_3222.method_6078(ServerPlayerMixin_Vanilla.java:2311) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_5643(LivingEntityMixin.java:4346) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1657.method_5643(PlayerMixin_Vanilla.java:2532) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3222.method_5643(ServerPlayerMixin_Vanilla.java:738) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_6121(MobMixin.java:1464) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1642.method_6121(ZombieMixin_Vanilla.java:348) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1366.method_6288(class_1366.java:151) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1366.method_6268(class_1366.java:144) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1396.method_6268(class_1396.java:28) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4135.method_6268(class_4135.java:65) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1355.method_38849(class_1355.java:120) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1355.method_6275(class_1355.java:111) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_6023(MobMixin.java:775) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_6007(LivingEntityMixin.java:2697) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_6007(MobMixin.java:556) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1588.method_6007(class_1588.java:44) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1642.method_6007(ZombieMixin_Vanilla.java:263) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_5773(LivingEntityMixin.java:2446) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_5773(MobMixin.java:357) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1642.method_5773(ZombieMixin_Vanilla.java:236) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_18762(ServerLevelMixin.java:761) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_18472(LevelMixin.java:492) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_31420(ServerLevelMixin.java:399) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5574.method_31791(class_5574.java:54) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_18765(ServerLevelMixin.java:363) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServerMixin.java:948) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3176.method_3813(DedicatedServerMixin_Vanilla.java:283) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServerMixin.java:845) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServerMixin.java:2127) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServerMixin.java:270) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.NoSuchMethodError: 'java.lang.String com.mojang.authlib.properties.Property.getValue()'
+	at com.ranull.graves.util.SkinUtil.getTexture(SkinUtil.java:48) ~[?:?]
+	at com.ranull.graves.listener.EntityDeathListener.onEntityDeath(EntityDeathListener.java:297) ~[?:?]
+	... 35 more
+[30May2025 02:29:25.731] [Netty Epoll Server IO #0/DEBUG] [ServerPlayNetworkAddon for literal{Dezar68}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Dezar68 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@241dbd58],insertion=Dezar68}]/]: Handling inbound packet from channel with name "xaerominimap:main"
+Netty Epoll Server IO #0Ex[30May2025 02:29:25.731] [Netty Epoll Server IO #0/DEBUG] [ServerPlayNetworkAddon for literal{Dezar68}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Dezar68 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@241dbd58],insertion=Dezar68}]/]: Handling inbound packet from channel with name "xaeroworldmap:main"
+Netty Epoll Server IO #0Ex[30May2025 02:31:20.772] [Server thread/INFO] [net.minecraft.class_3244/]: Dezar68 issued server command: /back
+Server threadEx[30May2025 02:31:27.152] [Server thread/INFO] [Console/]: %vault_prefix% Trejos1111 is bleeding..
+Server threadEx[30May2025 02:31:27.856] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-7010, y=69, z=-2129} class_2338{x=-6974, y=74, z=-2096}
+Server threadEx[30May2025 02:31:32.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RICHARDESC207 has made the advancement [Not Today, Thank You]
+Server threadEx[30May2025 02:31:38.609] [Server thread/INFO] [net.minecraft.class_3244/]: Dezar68 issued server command: /back
+Server threadEx[30May2025 02:31:40.657] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /giveup
+Server threadEx[30May2025 02:31:40.660] [Server thread/ERROR] [Minecraft/]: Could not pass event PlayerDeathEvent to Graves v4.9
+Server threadEx org.bukkit.event.EventException: null
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:600) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:587) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactoryMixin.java:928) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at net.minecraft.class_3222.method_6078(ServerPlayerMixin_Vanilla.java:2311) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_5643(LivingEntityMixin.java:4346) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1657.method_5643(PlayerMixin_Vanilla.java:2532) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3222.method_5643(ServerPlayerMixin_Vanilla.java:738) ~[server-intermediary.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.entity.CraftLivingEntity.damage(CraftLivingEntity.java:327) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.entity.CraftLivingEntity.damage(CraftLivingEntity.java:300) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at com.alonsoaliaga.betterrevive.commands.GiveUpCommand.onCommand(GiveUpCommand.java:86) ~[?:?]
+	at com.alonsoaliaga.betterrevive.commands.AbstractCommand$ReflectCommand.execute(AbstractCommand.java:66) ~[?:?]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:149) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.CraftServer.dispatchCommand(CraftServerMixin.java:887) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:50) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.2.9.jar:?]
+	at net.minecraft.class_8865.method_54416(class_8865.java:29) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8865.execute(class_8865.java:13) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8856.method_54405(class_8856.java:8) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8847.method_54388(class_8847.java:8) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8854.method_54390(class_8854.java:107) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2170.method_54313(CommandsMixin.java:378) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2170.method_9249(CommandsMixin.java:308) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_45010(ServerPlayNetHandlerMixin.java:2896) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_44356(ServerPlayNetHandlerMixin.java:1285) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_5386(class_1255.java:67) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServerMixin.java:797) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServerMixin.java:165) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:130) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServerMixin.java:779) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServerMixin.java:773) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:139) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServerMixin.java:758) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServerMixin.java:2131) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServerMixin.java:270) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.NoSuchMethodError: 'java.lang.String com.mojang.authlib.properties.Property.getValue()'
+	at com.ranull.graves.util.SkinUtil.getTexture(SkinUtil.java:48) ~[?:?]
+	at com.ranull.graves.listener.EntityDeathListener.onEntityDeath(EntityDeathListener.java:297) ~[?:?]
+	... 40 more
+[30May2025 02:31:40.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trejos1111 died because of Pillager
+Server threadEx[30May2025 02:31:43.389] [Netty Epoll Server IO #5/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "xaerominimap:main"
+Netty Epoll Server IO #5Ex[30May2025 02:31:43.389] [Netty Epoll Server IO #5/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "xaeroworldmap:main"
+Netty Epoll Server IO #5Ex[30May2025 02:34:36.909] [Server thread/INFO] [Console/]: %vault_prefix% RICHARDESC207 is bleeding..
+Server threadEx[30May2025 02:34:52.844] [Server thread/INFO] [Console/]: %vault_prefix% electricidiZAP revived %vault_prefix% RICHARDESC207!
+Server threadEx[30May2025 02:36:05.253] [Server thread/DEBUG] [Implementer/]: Definalize enum class org/bukkit/entity/Spellcaster$Spell values field ENUM$VALUES
+Server threadEx[30May2025 02:36:41.456] [Server thread/INFO] [net.minecraft.class_1646/]: Villager class_1646['Farmer'/105816, l='ServerLevel[world]', x=-6992.96, y=70.00, z=-2115.96] died, message: 'Farmer was slain by Vindicator'
+Server threadEx[30May2025 02:36:54.305] [Server thread/INFO] [Console/]: %vault_prefix% RICHARDESC207 is bleeding so bad..
+Server threadEx[30May2025 02:36:54.453] [Server thread/INFO] [Console/]: %vault_prefix% Trejos1111 is bleeding so bad..
+Server threadEx[30May2025 02:36:58.255] [Server thread/INFO] [Console/]: %vault_prefix% Trejos1111 bled until death..
+Server threadEx[30May2025 02:36:58.255] [Server thread/ERROR] [Minecraft/]: Could not pass event PlayerDeathEvent to Graves v4.9
+Server threadEx org.bukkit.event.EventException: null
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:600) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:587) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactoryMixin.java:928) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at net.minecraft.class_3222.method_6078(ServerPlayerMixin_Vanilla.java:2311) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_5643(LivingEntityMixin.java:4346) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1657.method_5643(PlayerMixin_Vanilla.java:2532) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3222.method_5643(ServerPlayerMixin_Vanilla.java:738) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_6121(MobMixin.java:1464) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1366.method_6288(class_1366.java:151) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1366.method_6268(class_1366.java:144) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4135.method_6268(class_4135.java:65) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1355.method_38849(class_1355.java:120) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_6023(MobMixin.java:783) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_6007(LivingEntityMixin.java:2697) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_6007(MobMixin.java:556) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1588.method_6007(class_1588.java:44) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3763.method_6007(RaiderMixin.java:114) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_5773(LivingEntityMixin.java:2446) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_5773(MobMixin.java:357) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_18762(ServerLevelMixin.java:761) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_18472(LevelMixin.java:492) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_31420(ServerLevelMixin.java:399) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5574.method_31791(class_5574.java:54) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_18765(ServerLevelMixin.java:363) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServerMixin.java:948) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3176.method_3813(DedicatedServerMixin_Vanilla.java:283) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServerMixin.java:845) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServerMixin.java:2127) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServerMixin.java:270) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.NoSuchMethodError: 'java.lang.String com.mojang.authlib.properties.Property.getValue()'
+	at com.ranull.graves.util.SkinUtil.getTexture(SkinUtil.java:48) ~[?:?]
+	at com.ranull.graves.listener.EntityDeathListener.onEntityDeath(EntityDeathListener.java:297) ~[?:?]
+	... 31 more
+[30May2025 02:37:01.339] [Netty Epoll Server IO #5/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "xaerominimap:main"
+Netty Epoll Server IO #5Ex[30May2025 02:37:01.339] [Netty Epoll Server IO #5/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "xaeroworldmap:main"
+Netty Epoll Server IO #5Ex[30May2025 02:37:10.444] [Server thread/INFO] [Console/]: %vault_prefix% RICHARDESC207 has been revived by %vault_prefix% electricidiZAP!
+Server threadEx[30May2025 02:37:35.753] [Server thread/INFO] [Console/]: %vault_prefix% Trejos1111 is bleeding..
+Server threadEx[30May2025 02:37:38.603] [Server thread/INFO] [Console/]: %vault_prefix% Trejos1111 bled until death..
+Server threadEx[30May2025 02:37:38.604] [Server thread/ERROR] [Minecraft/]: Could not pass event PlayerDeathEvent to Graves v4.9
+Server threadEx org.bukkit.event.EventException: null
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:600) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:587) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactoryMixin.java:928) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at net.minecraft.class_3222.method_6078(ServerPlayerMixin_Vanilla.java:2311) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_5643(LivingEntityMixin.java:4346) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1657.method_5643(PlayerMixin_Vanilla.java:2532) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3222.method_5643(ServerPlayerMixin_Vanilla.java:738) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_6121(MobMixin.java:1464) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1366.method_6288(class_1366.java:151) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1366.method_6268(class_1366.java:144) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4135.method_6268(class_4135.java:65) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1355.method_38849(class_1355.java:120) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1355.method_6275(class_1355.java:111) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_6023(MobMixin.java:775) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_6007(LivingEntityMixin.java:2697) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_6007(MobMixin.java:556) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1588.method_6007(class_1588.java:44) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3763.method_6007(RaiderMixin.java:114) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_5773(LivingEntityMixin.java:2446) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_5773(MobMixin.java:357) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_18762(ServerLevelMixin.java:761) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_18472(LevelMixin.java:492) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_31420(ServerLevelMixin.java:399) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5574.method_31791(class_5574.java:54) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_18765(ServerLevelMixin.java:363) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServerMixin.java:948) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3176.method_3813(DedicatedServerMixin_Vanilla.java:283) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServerMixin.java:845) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServerMixin.java:2127) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServerMixin.java:270) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.NoSuchMethodError: 'java.lang.String com.mojang.authlib.properties.Property.getValue()'
+	at com.ranull.graves.util.SkinUtil.getTexture(SkinUtil.java:48) ~[?:?]
+	at com.ranull.graves.listener.EntityDeathListener.onEntityDeath(EntityDeathListener.java:297) ~[?:?]
+	... 32 more
+[30May2025 02:37:40.488] [Netty Epoll Server IO #5/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "xaerominimap:main"
+Netty Epoll Server IO #5Ex[30May2025 02:37:40.488] [Netty Epoll Server IO #5/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "xaeroworldmap:main"
+Netty Epoll Server IO #5Ex[30May2025 02:38:50.802] [Server thread/INFO] [Console/]: %vault_prefix% Trejos1111 is bleeding..
+Server threadEx[30May2025 02:38:53.202] [Server thread/INFO] [Console/]: %vault_prefix% Trejos1111 bled until death..
+Server threadEx[30May2025 02:38:53.204] [Server thread/ERROR] [Minecraft/]: Could not pass event PlayerDeathEvent to Graves v4.9
+Server threadEx org.bukkit.event.EventException: null
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:600) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:587) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactoryMixin.java:928) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at net.minecraft.class_3222.method_6078(ServerPlayerMixin_Vanilla.java:2311) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_5643(LivingEntityMixin.java:4346) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1657.method_5643(PlayerMixin_Vanilla.java:2532) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3222.method_5643(ServerPlayerMixin_Vanilla.java:738) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_6121(MobMixin.java:1464) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1366.method_6288(class_1366.java:151) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1366.method_6268(class_1366.java:144) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4135.method_6268(class_4135.java:65) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1355.method_38849(class_1355.java:120) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1355.method_6275(class_1355.java:111) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_6023(MobMixin.java:775) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_6007(LivingEntityMixin.java:2697) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_6007(MobMixin.java:556) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1588.method_6007(class_1588.java:44) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3763.method_6007(RaiderMixin.java:114) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_5773(LivingEntityMixin.java:2446) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_5773(MobMixin.java:357) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_18762(ServerLevelMixin.java:761) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_18472(LevelMixin.java:492) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_31420(ServerLevelMixin.java:399) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5574.method_31791(class_5574.java:54) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_18765(ServerLevelMixin.java:363) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServerMixin.java:948) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3176.method_3813(DedicatedServerMixin_Vanilla.java:283) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServerMixin.java:845) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServerMixin.java:2127) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServerMixin.java:270) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.NoSuchMethodError: 'java.lang.String com.mojang.authlib.properties.Property.getValue()'
+	at com.ranull.graves.util.SkinUtil.getTexture(SkinUtil.java:48) ~[?:?]
+	at com.ranull.graves.listener.EntityDeathListener.onEntityDeath(EntityDeathListener.java:297) ~[?:?]
+	... 32 more
+[30May2025 02:38:54.977] [Netty Epoll Server IO #5/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "xaerominimap:main"
+Netty Epoll Server IO #5Ex[30May2025 02:38:54.977] [Netty Epoll Server IO #5/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "xaeroworldmap:main"
+Netty Epoll Server IO #5Ex[30May2025 02:38:59.102] [Server thread/INFO] [Console/]: %vault_prefix% Trejos1111 is bleeding..
+Server threadEx[30May2025 02:39:03.102] [Server thread/INFO] [Console/]: %vault_prefix% Trejos1111 bled until death..
+Server threadEx[30May2025 02:39:03.103] [Server thread/ERROR] [Minecraft/]: Could not pass event PlayerDeathEvent to Graves v4.9
+Server threadEx org.bukkit.event.EventException: null
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:600) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:587) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactoryMixin.java:928) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at net.minecraft.class_3222.method_6078(ServerPlayerMixin_Vanilla.java:2311) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_5643(LivingEntityMixin.java:4346) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1657.method_5643(PlayerMixin_Vanilla.java:2532) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3222.method_5643(ServerPlayerMixin_Vanilla.java:738) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_6121(MobMixin.java:1464) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1366.method_6288(class_1366.java:151) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1366.method_6268(class_1366.java:144) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4135.method_6268(class_4135.java:65) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1355.method_38849(class_1355.java:120) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1355.method_6275(class_1355.java:111) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_6023(MobMixin.java:775) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_6007(LivingEntityMixin.java:2697) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_6007(MobMixin.java:556) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1588.method_6007(class_1588.java:44) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3763.method_6007(RaiderMixin.java:114) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_5773(LivingEntityMixin.java:2446) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_5773(MobMixin.java:357) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_18762(ServerLevelMixin.java:761) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_18472(LevelMixin.java:492) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_31420(ServerLevelMixin.java:399) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5574.method_31791(class_5574.java:54) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_18765(ServerLevelMixin.java:363) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServerMixin.java:948) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3176.method_3813(DedicatedServerMixin_Vanilla.java:283) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServerMixin.java:845) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServerMixin.java:2127) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServerMixin.java:270) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.NoSuchMethodError: 'java.lang.String com.mojang.authlib.properties.Property.getValue()'
+	at com.ranull.graves.util.SkinUtil.getTexture(SkinUtil.java:48) ~[?:?]
+	at com.ranull.graves.listener.EntityDeathListener.onEntityDeath(EntityDeathListener.java:297) ~[?:?]
+	... 32 more
+[30May2025 02:39:05.076] [Netty Epoll Server IO #5/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "xaerominimap:main"
+Netty Epoll Server IO #5Ex[30May2025 02:39:05.077] [Netty Epoll Server IO #5/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "xaeroworldmap:main"
+Netty Epoll Server IO #5Ex[30May2025 02:39:31.051] [Server thread/INFO] [Console/]: %vault_prefix% Trejos1111 is bleeding so bad..
+Server threadEx[30May2025 02:39:33.453] [Server thread/INFO] [Console/]: %vault_prefix% Trejos1111 bled until death..
+Server threadEx[30May2025 02:39:33.453] [Server thread/ERROR] [Minecraft/]: Could not pass event PlayerDeathEvent to Graves v4.9
+Server threadEx org.bukkit.event.EventException: null
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:600) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:587) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactoryMixin.java:928) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at net.minecraft.class_3222.method_6078(ServerPlayerMixin_Vanilla.java:2311) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_5643(LivingEntityMixin.java:4346) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1657.method_5643(PlayerMixin_Vanilla.java:2532) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3222.method_5643(ServerPlayerMixin_Vanilla.java:738) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_6121(MobMixin.java:1464) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1366.method_6288(class_1366.java:151) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1366.method_6268(class_1366.java:144) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4135.method_6268(class_4135.java:65) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1355.method_38849(class_1355.java:120) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1355.method_6275(class_1355.java:111) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_6023(MobMixin.java:775) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_6007(LivingEntityMixin.java:2697) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_6007(MobMixin.java:556) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1588.method_6007(class_1588.java:44) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3763.method_6007(RaiderMixin.java:114) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_5773(LivingEntityMixin.java:2446) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_5773(MobMixin.java:357) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_18762(ServerLevelMixin.java:761) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_18472(LevelMixin.java:492) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_31420(ServerLevelMixin.java:399) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5574.method_31791(class_5574.java:54) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_18765(ServerLevelMixin.java:363) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServerMixin.java:948) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3176.method_3813(DedicatedServerMixin_Vanilla.java:283) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServerMixin.java:845) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServerMixin.java:2127) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServerMixin.java:270) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.NoSuchMethodError: 'java.lang.String com.mojang.authlib.properties.Property.getValue()'
+	at com.ranull.graves.util.SkinUtil.getTexture(SkinUtil.java:48) ~[?:?]
+	at com.ranull.graves.listener.EntityDeathListener.onEntityDeath(EntityDeathListener.java:297) ~[?:?]
+	... 32 more
+[30May2025 02:39:36.383] [Netty Epoll Server IO #5/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "xaerominimap:main"
+Netty Epoll Server IO #5Ex[30May2025 02:39:36.383] [Netty Epoll Server IO #5/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "xaeroworldmap:main"
+Netty Epoll Server IO #5Ex[30May2025 02:39:43.505] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=813, y=82, z=-192} class_2338{x=813, y=81, z=-193}
+Server threadEx[30May2025 02:42:38.108] [Server thread/INFO] [net.minecraft.class_1646/]: Villager class_1646['Villager'/112830, l='ServerLevel[world]', x=-7007.90, y=71.00, z=-2119.58] died, message: 'Villager was slain by Vex'
+Server threadEx[30May2025 02:42:42.305] [Server thread/INFO] [Console/]: %vault_prefix% Trejos1111 is bleeding..
+Server threadEx[30May2025 02:42:42.666] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-6999, y=71, z=-2088} class_2338{x=-7028, y=69, z=-2114}
+Server threadEx[30May2025 02:42:47.319] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /giveup
+Server threadEx[30May2025 02:42:47.321] [Server thread/ERROR] [Minecraft/]: Could not pass event PlayerDeathEvent to Graves v4.9
+Server threadEx org.bukkit.event.EventException: null
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:600) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:587) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactoryMixin.java:928) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at net.minecraft.class_3222.method_6078(ServerPlayerMixin_Vanilla.java:2311) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_5643(LivingEntityMixin.java:4346) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1657.method_5643(PlayerMixin_Vanilla.java:2532) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3222.method_5643(ServerPlayerMixin_Vanilla.java:738) ~[server-intermediary.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.entity.CraftLivingEntity.damage(CraftLivingEntity.java:327) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.entity.CraftLivingEntity.damage(CraftLivingEntity.java:300) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at com.alonsoaliaga.betterrevive.commands.GiveUpCommand.onCommand(GiveUpCommand.java:86) ~[?:?]
+	at com.alonsoaliaga.betterrevive.commands.AbstractCommand$ReflectCommand.execute(AbstractCommand.java:66) ~[?:?]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:149) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.CraftServer.dispatchCommand(CraftServerMixin.java:887) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:50) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.2.9.jar:?]
+	at net.minecraft.class_8865.method_54416(class_8865.java:29) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8865.execute(class_8865.java:13) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8856.method_54405(class_8856.java:8) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8847.method_54388(class_8847.java:8) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8854.method_54390(class_8854.java:107) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2170.method_54313(CommandsMixin.java:378) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2170.method_9249(CommandsMixin.java:308) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_45010(ServerPlayNetHandlerMixin.java:2896) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_44356(ServerPlayNetHandlerMixin.java:1285) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_5386(class_1255.java:67) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServerMixin.java:797) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServerMixin.java:165) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:130) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServerMixin.java:779) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServerMixin.java:773) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:139) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServerMixin.java:758) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServerMixin.java:2131) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServerMixin.java:270) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.NoSuchMethodError: 'java.lang.String com.mojang.authlib.properties.Property.getValue()'
+	at com.ranull.graves.util.SkinUtil.getTexture(SkinUtil.java:48) ~[?:?]
+	at com.ranull.graves.listener.EntityDeathListener.onEntityDeath(EntityDeathListener.java:297) ~[?:?]
+	... 40 more
+[30May2025 02:42:47.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trejos1111 died because of Evoker
+Server threadEx[30May2025 02:42:50.009] [Netty Epoll Server IO #5/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "xaerominimap:main"
+Netty Epoll Server IO #5Ex[30May2025 02:42:50.009] [Netty Epoll Server IO #5/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "xaeroworldmap:main"
+Netty Epoll Server IO #5Ex[30May2025 02:43:01.715] [Server thread/INFO] [Console/]: %vault_prefix% Trejos1111 is bleeding..
+Server threadEx[30May2025 02:43:02.311] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-7029, y=67, z=-2112}
+Server threadEx[30May2025 02:43:03.114] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-7031, y=68, z=-2112}
+Server threadEx[30May2025 02:43:03.114] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-7030, y=68, z=-2112}
+Server threadEx[30May2025 02:43:03.452] [Server thread/INFO] [Console/]: %vault_prefix% Trejos1111 died after bleeding..
+Server threadEx[30May2025 02:43:03.453] [Server thread/ERROR] [Minecraft/]: Could not pass event PlayerDeathEvent to Graves v4.9
+Server threadEx org.bukkit.event.EventException: null
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:600) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:587) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactoryMixin.java:928) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at net.minecraft.class_3222.method_6078(ServerPlayerMixin_Vanilla.java:2311) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_5643(LivingEntityMixin.java:4346) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1657.method_5643(PlayerMixin_Vanilla.java:2532) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3222.method_5643(ServerPlayerMixin_Vanilla.java:738) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_6121(MobMixin.java:1464) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1366.method_6288(class_1366.java:151) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1366.method_6268(class_1366.java:144) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4135.method_6268(class_4135.java:65) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1355.method_38849(class_1355.java:120) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1355.method_6275(class_1355.java:111) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_6023(MobMixin.java:775) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_6007(LivingEntityMixin.java:2697) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_6007(MobMixin.java:556) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1588.method_6007(class_1588.java:44) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3763.method_6007(RaiderMixin.java:114) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_5773(LivingEntityMixin.java:2446) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_5773(MobMixin.java:357) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_18762(ServerLevelMixin.java:761) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_18472(LevelMixin.java:492) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_31420(ServerLevelMixin.java:399) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5574.method_31791(class_5574.java:54) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_18765(ServerLevelMixin.java:363) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServerMixin.java:948) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3176.method_3813(DedicatedServerMixin_Vanilla.java:283) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServerMixin.java:845) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServerMixin.java:2127) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServerMixin.java:270) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.NoSuchMethodError: 'java.lang.String com.mojang.authlib.properties.Property.getValue()'
+	at com.ranull.graves.util.SkinUtil.getTexture(SkinUtil.java:48) ~[?:?]
+	at com.ranull.graves.listener.EntityDeathListener.onEntityDeath(EntityDeathListener.java:297) ~[?:?]
+	... 32 more
+[30May2025 02:43:05.717] [Netty Epoll Server IO #5/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "xaerominimap:main"
+Netty Epoll Server IO #5Ex[30May2025 02:43:05.717] [Netty Epoll Server IO #5/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "xaeroworldmap:main"
+Netty Epoll Server IO #5Ex[30May2025 02:43:26.103] [Server thread/INFO] [Console/]: %vault_prefix% Trejos1111 is bleeding so bad..
+Server threadEx[30May2025 02:43:31.956] [Server thread/INFO] [Console/]: %vault_prefix% Trejos1111 bled until death..
+Server threadEx[30May2025 02:43:31.956] [Server thread/ERROR] [Minecraft/]: Could not pass event PlayerDeathEvent to Graves v4.9
+Server threadEx org.bukkit.event.EventException: null
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:600) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:587) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactoryMixin.java:928) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at net.minecraft.class_3222.method_6078(ServerPlayerMixin_Vanilla.java:2311) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_5643(LivingEntityMixin.java:4346) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1657.method_5643(PlayerMixin_Vanilla.java:2532) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3222.method_5643(ServerPlayerMixin_Vanilla.java:738) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_6121(MobMixin.java:1464) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1634$class_1635.method_6268(class_1634.java:323) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4135.method_6268(class_4135.java:65) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1355.method_38849(class_1355.java:120) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1355.method_6275(class_1355.java:111) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_6023(MobMixin.java:775) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_6007(LivingEntityMixin.java:2697) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_6007(MobMixin.java:556) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1588.method_6007(class_1588.java:44) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_5773(LivingEntityMixin.java:2446) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_5773(MobMixin.java:357) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1634.method_5773(class_1634.java:94) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_18762(ServerLevelMixin.java:761) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_18472(LevelMixin.java:492) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_31420(ServerLevelMixin.java:399) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5574.method_31791(class_5574.java:54) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_18765(ServerLevelMixin.java:363) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServerMixin.java:948) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3176.method_3813(DedicatedServerMixin_Vanilla.java:283) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServerMixin.java:845) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServerMixin.java:2127) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServerMixin.java:270) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.NoSuchMethodError: 'java.lang.String com.mojang.authlib.properties.Property.getValue()'
+	at com.ranull.graves.util.SkinUtil.getTexture(SkinUtil.java:48) ~[?:?]
+	at com.ranull.graves.listener.EntityDeathListener.onEntityDeath(EntityDeathListener.java:297) ~[?:?]
+	... 31 more
+[30May2025 02:43:33.881] [Netty Epoll Server IO #5/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "xaerominimap:main"
+Netty Epoll Server IO #5Ex[30May2025 02:43:33.881] [Netty Epoll Server IO #5/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "xaeroworldmap:main"
+Netty Epoll Server IO #5Ex[30May2025 02:43:38.356] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /back
+Server threadEx[30May2025 02:43:53.351] [Server thread/INFO] [Console/]: %vault_prefix% Trejos1111 is bleeding so bad..
+Server threadEx[30May2025 02:43:57.103] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /back
+Server threadEx[30May2025 02:43:59.955] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /back
+Server threadEx[30May2025 02:44:02.553] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /giveup
+Server threadEx[30May2025 02:44:02.554] [Server thread/ERROR] [Minecraft/]: Could not pass event PlayerDeathEvent to Graves v4.9
+Server threadEx org.bukkit.event.EventException: null
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:600) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:587) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactoryMixin.java:928) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at net.minecraft.class_3222.method_6078(ServerPlayerMixin_Vanilla.java:2311) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_5643(LivingEntityMixin.java:4346) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1657.method_5643(PlayerMixin_Vanilla.java:2532) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3222.method_5643(ServerPlayerMixin_Vanilla.java:738) ~[server-intermediary.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.entity.CraftLivingEntity.damage(CraftLivingEntity.java:327) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.entity.CraftLivingEntity.damage(CraftLivingEntity.java:300) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at com.alonsoaliaga.betterrevive.commands.GiveUpCommand.onCommand(GiveUpCommand.java:86) ~[?:?]
+	at com.alonsoaliaga.betterrevive.commands.AbstractCommand$ReflectCommand.execute(AbstractCommand.java:66) ~[?:?]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:149) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.CraftServer.dispatchCommand(CraftServerMixin.java:887) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:50) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.2.9.jar:?]
+	at net.minecraft.class_8865.method_54416(class_8865.java:29) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8865.execute(class_8865.java:13) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8856.method_54405(class_8856.java:8) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8847.method_54388(class_8847.java:8) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8854.method_54390(class_8854.java:107) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2170.method_54313(CommandsMixin.java:378) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2170.method_9249(CommandsMixin.java:308) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_45010(ServerPlayNetHandlerMixin.java:2896) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_44356(ServerPlayNetHandlerMixin.java:1285) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_5386(class_1255.java:67) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServerMixin.java:797) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServerMixin.java:165) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:130) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServerMixin.java:779) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServerMixin.java:773) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_5383(class_1255.java:115) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServerMixin.java:757) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServerMixin.java:2131) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServerMixin.java:270) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.NoSuchMethodError: 'java.lang.String com.mojang.authlib.properties.Property.getValue()'
+	at com.ranull.graves.util.SkinUtil.getTexture(SkinUtil.java:48) ~[?:?]
+	at com.ranull.graves.listener.EntityDeathListener.onEntityDeath(EntityDeathListener.java:297) ~[?:?]
+	... 40 more
+[30May2025 02:44:02.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trejos1111 died
+Server threadEx[30May2025 02:44:04.410] [Netty Epoll Server IO #5/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "xaerominimap:main"
+Netty Epoll Server IO #5Ex[30May2025 02:44:04.451] [Netty Epoll Server IO #5/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "xaeroworldmap:main"
+Netty Epoll Server IO #5Ex[30May2025 02:44:07.316] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /back
+Server threadEx[30May2025 02:44:12.156] [Server thread/INFO] [Console/]: %vault_prefix% Trejos1111 is bleeding..
+Server threadEx[30May2025 02:44:14.455] [Server thread/INFO] [net.minecraft.class_1646/]: Villager class_1646['Villager'/117195, l='ServerLevel[world]', x=-7004.53, y=70.00, z=-2120.00] died, message: 'Villager was slain by Vex'
+Server threadEx[30May2025 02:44:17.204] [Server thread/INFO] [net.minecraft.class_3244/]: Dezar68 lost connection: Disconnected
+Server threadEx[30May2025 02:44:17.204] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Dezar68
+Server threadEx[30May2025 02:44:17.205] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dezar68
+Server threadEx[30May2025 02:44:17.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dezar68 left the game
+Server threadEx[30May2025 02:44:17.849] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /giveup
+Server threadEx[30May2025 02:44:17.851] [Server thread/ERROR] [Minecraft/]: Could not pass event PlayerDeathEvent to Graves v4.9
+Server threadEx org.bukkit.event.EventException: null
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:600) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:587) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactoryMixin.java:928) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at net.minecraft.class_3222.method_6078(ServerPlayerMixin_Vanilla.java:2311) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_5643(LivingEntityMixin.java:4346) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1657.method_5643(PlayerMixin_Vanilla.java:2532) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3222.method_5643(ServerPlayerMixin_Vanilla.java:738) ~[server-intermediary.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.entity.CraftLivingEntity.damage(CraftLivingEntity.java:327) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.entity.CraftLivingEntity.damage(CraftLivingEntity.java:300) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at com.alonsoaliaga.betterrevive.commands.GiveUpCommand.onCommand(GiveUpCommand.java:86) ~[?:?]
+	at com.alonsoaliaga.betterrevive.commands.AbstractCommand$ReflectCommand.execute(AbstractCommand.java:66) ~[?:?]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:149) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.CraftServer.dispatchCommand(CraftServerMixin.java:887) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:50) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.2.9.jar:?]
+	at net.minecraft.class_8865.method_54416(class_8865.java:29) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8865.execute(class_8865.java:13) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8856.method_54405(class_8856.java:8) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8847.method_54388(class_8847.java:8) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8854.method_54390(class_8854.java:107) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2170.method_54313(CommandsMixin.java:378) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2170.method_9249(CommandsMixin.java:308) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_45010(ServerPlayNetHandlerMixin.java:2896) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_44356(ServerPlayNetHandlerMixin.java:1285) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_5386(class_1255.java:67) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServerMixin.java:797) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServerMixin.java:165) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:130) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServerMixin.java:779) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServerMixin.java:773) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_5383(class_1255.java:115) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServerMixin.java:757) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServerMixin.java:2131) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServerMixin.java:270) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.NoSuchMethodError: 'java.lang.String com.mojang.authlib.properties.Property.getValue()'
+	at com.ranull.graves.util.SkinUtil.getTexture(SkinUtil.java:48) ~[?:?]
+	at com.ranull.graves.listener.EntityDeathListener.onEntityDeath(EntityDeathListener.java:297) ~[?:?]
+	... 40 more
+[30May2025 02:44:17.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trejos1111 died because of Vex
+Server threadEx[30May2025 02:44:19.548] [Netty Epoll Server IO #5/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "xaerominimap:main"
+Netty Epoll Server IO #5Ex[30May2025 02:44:19.548] [Netty Epoll Server IO #5/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "xaeroworldmap:main"
+Netty Epoll Server IO #5Ex[30May2025 02:44:22.240] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /giveup
+Server threadEx[30May2025 02:44:24.800] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /back
+Server threadEx[30May2025 02:44:32.807] [Server thread/INFO] [Console/]: %vault_prefix% Trejos1111 is bleeding so bad..
+Server threadEx[30May2025 02:44:34.069] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-7067, y=63, z=-2120}
+Server threadEx[30May2025 02:44:34.117] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-7066, y=63, z=-2120}
+Server threadEx[30May2025 02:44:37.873] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /giveup
+Server threadEx[30May2025 02:44:37.875] [Server thread/ERROR] [Minecraft/]: Could not pass event PlayerDeathEvent to Graves v4.9
+Server threadEx org.bukkit.event.EventException: null
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:600) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:587) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactoryMixin.java:928) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at net.minecraft.class_3222.method_6078(ServerPlayerMixin_Vanilla.java:2311) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_5643(LivingEntityMixin.java:4346) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1657.method_5643(PlayerMixin_Vanilla.java:2532) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3222.method_5643(ServerPlayerMixin_Vanilla.java:738) ~[server-intermediary.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.entity.CraftLivingEntity.damage(CraftLivingEntity.java:327) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.entity.CraftLivingEntity.damage(CraftLivingEntity.java:300) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at com.alonsoaliaga.betterrevive.commands.GiveUpCommand.onCommand(GiveUpCommand.java:86) ~[?:?]
+	at com.alonsoaliaga.betterrevive.commands.AbstractCommand$ReflectCommand.execute(AbstractCommand.java:66) ~[?:?]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:149) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.CraftServer.dispatchCommand(CraftServerMixin.java:887) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:50) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.2.9.jar:?]
+	at net.minecraft.class_8865.method_54416(class_8865.java:29) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8865.execute(class_8865.java:13) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8856.method_54405(class_8856.java:8) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8847.method_54388(class_8847.java:8) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8854.method_54390(class_8854.java:107) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2170.method_54313(CommandsMixin.java:378) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2170.method_9249(CommandsMixin.java:308) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_45010(ServerPlayNetHandlerMixin.java:2896) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_44356(ServerPlayNetHandlerMixin.java:1285) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_5386(class_1255.java:67) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServerMixin.java:797) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServerMixin.java:165) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:130) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServerMixin.java:779) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServerMixin.java:773) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:139) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServerMixin.java:758) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServerMixin.java:2131) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServerMixin.java:270) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.NoSuchMethodError: 'java.lang.String com.mojang.authlib.properties.Property.getValue()'
+	at com.ranull.graves.util.SkinUtil.getTexture(SkinUtil.java:48) ~[?:?]
+	at com.ranull.graves.listener.EntityDeathListener.onEntityDeath(EntityDeathListener.java:297) ~[?:?]
+	... 40 more
+[30May2025 02:44:37.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trejos1111 died because of Vindicator
+Server threadEx[30May2025 02:44:39.370] [Netty Epoll Server IO #5/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "xaerominimap:main"
+Netty Epoll Server IO #5Ex[30May2025 02:44:39.370] [Netty Epoll Server IO #5/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "xaeroworldmap:main"
+Netty Epoll Server IO #5Ex[30May2025 02:44:41.413] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /back
+Server threadEx[30May2025 02:45:17.404] [Server thread/INFO] [Console/]: %vault_prefix% Trejos1111 is bleeding..
+Server threadEx[30May2025 02:45:22.199] [Server thread/INFO] [net.minecraft.class_1646/]: Villager class_1646['Villager'/118195, l='ServerLevel[world]', x=-7005.65, y=70.56, z=-2110.50] died, message: 'Villager was slain by Vex'
+Server threadEx[30May2025 02:45:23.287] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /giveup
+Server threadEx[30May2025 02:45:23.288] [Server thread/ERROR] [Minecraft/]: Could not pass event PlayerDeathEvent to Graves v4.9
+Server threadEx org.bukkit.event.EventException: null
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:600) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:587) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactoryMixin.java:928) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at net.minecraft.class_3222.method_6078(ServerPlayerMixin_Vanilla.java:2311) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_5643(LivingEntityMixin.java:4346) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1657.method_5643(PlayerMixin_Vanilla.java:2532) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3222.method_5643(ServerPlayerMixin_Vanilla.java:738) ~[server-intermediary.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.entity.CraftLivingEntity.damage(CraftLivingEntity.java:327) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.entity.CraftLivingEntity.damage(CraftLivingEntity.java:300) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at com.alonsoaliaga.betterrevive.commands.GiveUpCommand.onCommand(GiveUpCommand.java:86) ~[?:?]
+	at com.alonsoaliaga.betterrevive.commands.AbstractCommand$ReflectCommand.execute(AbstractCommand.java:66) ~[?:?]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:149) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.CraftServer.dispatchCommand(CraftServerMixin.java:887) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:50) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.2.9.jar:?]
+	at net.minecraft.class_8865.method_54416(class_8865.java:29) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8865.execute(class_8865.java:13) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8856.method_54405(class_8856.java:8) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8847.method_54388(class_8847.java:8) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8854.method_54390(class_8854.java:107) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2170.method_54313(CommandsMixin.java:378) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2170.method_9249(CommandsMixin.java:308) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_45010(ServerPlayNetHandlerMixin.java:2896) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_44356(ServerPlayNetHandlerMixin.java:1285) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_5386(class_1255.java:67) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServerMixin.java:797) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServerMixin.java:165) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:130) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServerMixin.java:779) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServerMixin.java:773) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:139) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServerMixin.java:758) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServerMixin.java:2131) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServerMixin.java:270) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.NoSuchMethodError: 'java.lang.String com.mojang.authlib.properties.Property.getValue()'
+	at com.ranull.graves.util.SkinUtil.getTexture(SkinUtil.java:48) ~[?:?]
+	at com.ranull.graves.listener.EntityDeathListener.onEntityDeath(EntityDeathListener.java:297) ~[?:?]
+	... 40 more
+[30May2025 02:45:23.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trejos1111 died because of Vex
+Server threadEx[30May2025 02:45:25.149] [Netty Epoll Server IO #5/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "xaerominimap:main"
+Netty Epoll Server IO #5Ex[30May2025 02:45:25.149] [Netty Epoll Server IO #5/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "xaeroworldmap:main"
+Netty Epoll Server IO #5Ex[30May2025 02:45:27.807] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /back
+Server threadEx[30May2025 02:45:28.002] [Server thread/INFO] [net.minecraft.class_1646/]: Villager class_1646['Villager'/118890, l='ServerLevel[world]', x=-7005.23, y=70.56, z=-2110.50] died, message: 'Villager was slain by Vex'
+Server threadEx[30May2025 02:45:34.250] [Server thread/INFO] [Console/]: %vault_prefix% Trejos1111 is bleeding so bad..
+Server threadEx[30May2025 02:45:38.003] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /giveup
+Server threadEx[30May2025 02:45:38.004] [Server thread/ERROR] [Minecraft/]: Could not pass event PlayerDeathEvent to Graves v4.9
+Server threadEx org.bukkit.event.EventException: null
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:600) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:587) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactoryMixin.java:928) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at net.minecraft.class_3222.method_6078(ServerPlayerMixin_Vanilla.java:2311) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_5643(LivingEntityMixin.java:4346) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1657.method_5643(PlayerMixin_Vanilla.java:2532) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3222.method_5643(ServerPlayerMixin_Vanilla.java:738) ~[server-intermediary.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.entity.CraftLivingEntity.damage(CraftLivingEntity.java:327) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.entity.CraftLivingEntity.damage(CraftLivingEntity.java:300) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at com.alonsoaliaga.betterrevive.commands.GiveUpCommand.onCommand(GiveUpCommand.java:86) ~[?:?]
+	at com.alonsoaliaga.betterrevive.commands.AbstractCommand$ReflectCommand.execute(AbstractCommand.java:66) ~[?:?]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:149) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.CraftServer.dispatchCommand(CraftServerMixin.java:887) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:50) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.2.9.jar:?]
+	at net.minecraft.class_8865.method_54416(class_8865.java:29) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8865.execute(class_8865.java:13) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8856.method_54405(class_8856.java:8) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8847.method_54388(class_8847.java:8) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8854.method_54390(class_8854.java:107) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2170.method_54313(CommandsMixin.java:378) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2170.method_9249(CommandsMixin.java:308) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_45010(ServerPlayNetHandlerMixin.java:2896) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_44356(ServerPlayNetHandlerMixin.java:1285) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_5386(class_1255.java:67) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServerMixin.java:797) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServerMixin.java:165) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:130) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServerMixin.java:779) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServerMixin.java:773) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:139) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServerMixin.java:758) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServerMixin.java:2131) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServerMixin.java:270) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.NoSuchMethodError: 'java.lang.String com.mojang.authlib.properties.Property.getValue()'
+	at com.ranull.graves.util.SkinUtil.getTexture(SkinUtil.java:48) ~[?:?]
+	at com.ranull.graves.listener.EntityDeathListener.onEntityDeath(EntityDeathListener.java:297) ~[?:?]
+	... 40 more
+[30May2025 02:45:38.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trejos1111 died because of Vex
+Server threadEx[30May2025 02:45:39.720] [Netty Epoll Server IO #5/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "xaerominimap:main"
+Netty Epoll Server IO #5Ex[30May2025 02:45:39.720] [Netty Epoll Server IO #5/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "xaeroworldmap:main"
+Netty Epoll Server IO #5Ex[30May2025 02:45:41.818] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /back
+Server threadEx[30May2025 02:45:57.252] [Server thread/INFO] [Console/]: %vault_prefix% Trejos1111 is bleeding..
+Server threadEx[30May2025 02:46:07.801] [Server thread/INFO] [Console/]: %vault_prefix% Trejos1111 bled until death..
+Server threadEx[30May2025 02:46:07.801] [Server thread/ERROR] [Minecraft/]: Could not pass event PlayerDeathEvent to Graves v4.9
+Server threadEx org.bukkit.event.EventException: null
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:600) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:587) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactoryMixin.java:928) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at net.minecraft.class_3222.method_6078(ServerPlayerMixin_Vanilla.java:2311) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_5643(LivingEntityMixin.java:4346) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1657.method_5643(PlayerMixin_Vanilla.java:2532) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3222.method_5643(ServerPlayerMixin_Vanilla.java:738) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_6121(MobMixin.java:1464) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1634$class_1635.method_6268(class_1634.java:323) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4135.method_6268(class_4135.java:65) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1355.method_38849(class_1355.java:120) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_6023(MobMixin.java:783) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_6007(LivingEntityMixin.java:2697) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_6007(MobMixin.java:556) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1588.method_6007(class_1588.java:44) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_5773(LivingEntityMixin.java:2446) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_5773(MobMixin.java:357) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1634.method_5773(class_1634.java:94) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_18762(ServerLevelMixin.java:761) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_18472(LevelMixin.java:492) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_31420(ServerLevelMixin.java:399) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5574.method_31791(class_5574.java:54) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_18765(ServerLevelMixin.java:363) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServerMixin.java:948) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3176.method_3813(DedicatedServerMixin_Vanilla.java:283) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServerMixin.java:845) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServerMixin.java:2127) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServerMixin.java:270) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.NoSuchMethodError: 'java.lang.String com.mojang.authlib.properties.Property.getValue()'
+	at com.ranull.graves.util.SkinUtil.getTexture(SkinUtil.java:48) ~[?:?]
+	at com.ranull.graves.listener.EntityDeathListener.onEntityDeath(EntityDeathListener.java:297) ~[?:?]
+	... 30 more
+[30May2025 02:46:09.787] [Netty Epoll Server IO #5/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "xaerominimap:main"
+Netty Epoll Server IO #5Ex[30May2025 02:46:09.788] [Netty Epoll Server IO #5/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "xaeroworldmap:main"
+Netty Epoll Server IO #5Ex[30May2025 02:46:12.350] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /giveup
+Server threadEx[30May2025 02:46:14.241] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /back
+Server threadEx[30May2025 02:46:25.250] [Server thread/INFO] [Console/]: %vault_prefix% Trejos1111 is bleeding..
+Server threadEx[30May2025 02:46:30.315] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-7072, y=63, z=-2116}
+Server threadEx[30May2025 02:46:34.339] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /giveup
+Server threadEx[30May2025 02:46:34.340] [Server thread/ERROR] [Minecraft/]: Could not pass event PlayerDeathEvent to Graves v4.9
+Server threadEx org.bukkit.event.EventException: null
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:600) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:587) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactoryMixin.java:928) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at net.minecraft.class_3222.method_6078(ServerPlayerMixin_Vanilla.java:2311) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_5643(LivingEntityMixin.java:4346) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1657.method_5643(PlayerMixin_Vanilla.java:2532) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3222.method_5643(ServerPlayerMixin_Vanilla.java:738) ~[server-intermediary.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.entity.CraftLivingEntity.damage(CraftLivingEntity.java:327) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.entity.CraftLivingEntity.damage(CraftLivingEntity.java:300) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at com.alonsoaliaga.betterrevive.commands.GiveUpCommand.onCommand(GiveUpCommand.java:86) ~[?:?]
+	at com.alonsoaliaga.betterrevive.commands.AbstractCommand$ReflectCommand.execute(AbstractCommand.java:66) ~[?:?]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:149) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.CraftServer.dispatchCommand(CraftServerMixin.java:887) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:50) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.2.9.jar:?]
+	at net.minecraft.class_8865.method_54416(class_8865.java:29) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8865.execute(class_8865.java:13) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8856.method_54405(class_8856.java:8) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8847.method_54388(class_8847.java:8) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8854.method_54390(class_8854.java:107) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2170.method_54313(CommandsMixin.java:378) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2170.method_9249(CommandsMixin.java:308) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_45010(ServerPlayNetHandlerMixin.java:2896) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_44356(ServerPlayNetHandlerMixin.java:1285) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_5386(class_1255.java:67) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServerMixin.java:797) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServerMixin.java:165) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:130) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServerMixin.java:779) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServerMixin.java:773) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:139) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServerMixin.java:758) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServerMixin.java:2131) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServerMixin.java:270) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.NoSuchMethodError: 'java.lang.String com.mojang.authlib.properties.Property.getValue()'
+	at com.ranull.graves.util.SkinUtil.getTexture(SkinUtil.java:48) ~[?:?]
+	at com.ranull.graves.listener.EntityDeathListener.onEntityDeath(EntityDeathListener.java:297) ~[?:?]
+	... 40 more
+[30May2025 02:46:34.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trejos1111 died because of Ravager
+Server threadEx[30May2025 02:46:36.643] [Netty Epoll Server IO #5/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "xaerominimap:main"
+Netty Epoll Server IO #5Ex[30May2025 02:46:36.643] [Netty Epoll Server IO #5/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "xaeroworldmap:main"
+Netty Epoll Server IO #5Ex[30May2025 02:46:38.415] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /back
+Server threadEx[30May2025 02:46:42.150] [Server thread/INFO] [net.minecraft.class_1646/]: Villager class_1646['Villager'/120493, l='ServerLevel[world]', x=-6997.09, y=70.00, z=-2112.58] died, message: 'Villager was shot by Pillager'
+Server threadEx[30May2025 02:46:54.150] [Server thread/INFO] [Console/]: %vault_prefix% Trejos1111 is bleeding so bad..
+Server threadEx[30May2025 02:46:57.101] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /giveup
+Server threadEx[30May2025 02:46:57.102] [Server thread/ERROR] [Minecraft/]: Could not pass event PlayerDeathEvent to Graves v4.9
+Server threadEx org.bukkit.event.EventException: null
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:600) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:587) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactoryMixin.java:928) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at net.minecraft.class_3222.method_6078(ServerPlayerMixin_Vanilla.java:2311) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_5643(LivingEntityMixin.java:4346) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1657.method_5643(PlayerMixin_Vanilla.java:2532) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3222.method_5643(ServerPlayerMixin_Vanilla.java:738) ~[server-intermediary.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.entity.CraftLivingEntity.damage(CraftLivingEntity.java:327) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.entity.CraftLivingEntity.damage(CraftLivingEntity.java:300) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at com.alonsoaliaga.betterrevive.commands.GiveUpCommand.onCommand(GiveUpCommand.java:86) ~[?:?]
+	at com.alonsoaliaga.betterrevive.commands.AbstractCommand$ReflectCommand.execute(AbstractCommand.java:66) ~[?:?]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:149) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.CraftServer.dispatchCommand(CraftServerMixin.java:887) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:50) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.2.9.jar:?]
+	at net.minecraft.class_8865.method_54416(class_8865.java:29) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8865.execute(class_8865.java:13) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8856.method_54405(class_8856.java:8) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8847.method_54388(class_8847.java:8) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8854.method_54390(class_8854.java:107) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2170.method_54313(CommandsMixin.java:378) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2170.method_9249(CommandsMixin.java:308) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_45010(ServerPlayNetHandlerMixin.java:2896) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_44356(ServerPlayNetHandlerMixin.java:1285) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_5386(class_1255.java:67) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServerMixin.java:797) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServerMixin.java:165) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:130) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServerMixin.java:779) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServerMixin.java:773) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:139) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServerMixin.java:758) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServerMixin.java:2131) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServerMixin.java:270) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.NoSuchMethodError: 'java.lang.String com.mojang.authlib.properties.Property.getValue()'
+	at com.ranull.graves.util.SkinUtil.getTexture(SkinUtil.java:48) ~[?:?]
+	at com.ranull.graves.listener.EntityDeathListener.onEntityDeath(EntityDeathListener.java:297) ~[?:?]
+	... 40 more
+[30May2025 02:46:57.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trejos1111 died
+Server threadEx[30May2025 02:46:58.994] [Netty Epoll Server IO #5/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "xaerominimap:main"
+Netty Epoll Server IO #5Ex[30May2025 02:46:58.994] [Netty Epoll Server IO #5/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "xaeroworldmap:main"
+Netty Epoll Server IO #5Ex[30May2025 02:47:01.063] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /back
+Server threadEx[30May2025 02:47:20.848] [Server thread/INFO] [Console/]: %vault_prefix% Trejos1111 is bleeding so bad..
+Server threadEx[30May2025 02:47:21.980] [Server thread/INFO] [net.minecraft.class_3244/]: electricidiZAP issued server command: /tpa RICHARDESC207
+Server threadEx[30May2025 02:47:26.056] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /giveup
+Server threadEx[30May2025 02:47:26.057] [Server thread/ERROR] [Minecraft/]: Could not pass event PlayerDeathEvent to Graves v4.9
+Server threadEx org.bukkit.event.EventException: null
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:600) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:587) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactoryMixin.java:928) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at net.minecraft.class_3222.method_6078(ServerPlayerMixin_Vanilla.java:2311) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_5643(LivingEntityMixin.java:4346) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1657.method_5643(PlayerMixin_Vanilla.java:2532) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3222.method_5643(ServerPlayerMixin_Vanilla.java:738) ~[server-intermediary.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.entity.CraftLivingEntity.damage(CraftLivingEntity.java:327) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.entity.CraftLivingEntity.damage(CraftLivingEntity.java:300) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at com.alonsoaliaga.betterrevive.commands.GiveUpCommand.onCommand(GiveUpCommand.java:86) ~[?:?]
+	at com.alonsoaliaga.betterrevive.commands.AbstractCommand$ReflectCommand.execute(AbstractCommand.java:66) ~[?:?]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:149) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.CraftServer.dispatchCommand(CraftServerMixin.java:887) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:50) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.2.9.jar:?]
+	at net.minecraft.class_8865.method_54416(class_8865.java:29) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8865.execute(class_8865.java:13) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8856.method_54405(class_8856.java:8) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8847.method_54388(class_8847.java:8) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8854.method_54390(class_8854.java:107) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2170.method_54313(CommandsMixin.java:378) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2170.method_9249(CommandsMixin.java:308) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_45010(ServerPlayNetHandlerMixin.java:2896) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_44356(ServerPlayNetHandlerMixin.java:1285) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_5386(class_1255.java:67) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServerMixin.java:797) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServerMixin.java:165) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:130) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServerMixin.java:779) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServerMixin.java:773) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:139) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServerMixin.java:758) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServerMixin.java:2131) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServerMixin.java:270) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.NoSuchMethodError: 'java.lang.String com.mojang.authlib.properties.Property.getValue()'
+	at com.ranull.graves.util.SkinUtil.getTexture(SkinUtil.java:48) ~[?:?]
+	at com.ranull.graves.listener.EntityDeathListener.onEntityDeath(EntityDeathListener.java:297) ~[?:?]
+	... 40 more
+[30May2025 02:47:26.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trejos1111 died
+Server threadEx[30May2025 02:47:28.078] [Netty Epoll Server IO #5/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "xaerominimap:main"
+Netty Epoll Server IO #5Ex[30May2025 02:47:28.078] [Netty Epoll Server IO #5/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "xaeroworldmap:main"
+Netty Epoll Server IO #5Ex[30May2025 02:47:30.383] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /back
+Server threadEx[30May2025 02:47:31.336] [Server thread/INFO] [net.minecraft.class_3244/]: RICHARDESC207 issued server command: /tpayes electricidiZAP
+Server threadEx[30May2025 02:47:40.600] [Server thread/INFO] [Console/]: %vault_prefix% Trejos1111 is bleeding..
+Server threadEx[30May2025 02:47:44.599] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /giveup
+Server threadEx[30May2025 02:47:44.601] [Server thread/ERROR] [Minecraft/]: Could not pass event PlayerDeathEvent to Graves v4.9
+Server threadEx org.bukkit.event.EventException: null
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:600) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:587) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactoryMixin.java:928) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at net.minecraft.class_3222.method_6078(ServerPlayerMixin_Vanilla.java:2311) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_5643(LivingEntityMixin.java:4346) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1657.method_5643(PlayerMixin_Vanilla.java:2532) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3222.method_5643(ServerPlayerMixin_Vanilla.java:738) ~[server-intermediary.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.entity.CraftLivingEntity.damage(CraftLivingEntity.java:327) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.entity.CraftLivingEntity.damage(CraftLivingEntity.java:300) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at com.alonsoaliaga.betterrevive.commands.GiveUpCommand.onCommand(GiveUpCommand.java:86) ~[?:?]
+	at com.alonsoaliaga.betterrevive.commands.AbstractCommand$ReflectCommand.execute(AbstractCommand.java:66) ~[?:?]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:149) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.CraftServer.dispatchCommand(CraftServerMixin.java:887) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:50) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.2.9.jar:?]
+	at net.minecraft.class_8865.method_54416(class_8865.java:29) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8865.execute(class_8865.java:13) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8856.method_54405(class_8856.java:8) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8847.method_54388(class_8847.java:8) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8854.method_54390(class_8854.java:107) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2170.method_54313(CommandsMixin.java:378) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2170.method_9249(CommandsMixin.java:308) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_45010(ServerPlayNetHandlerMixin.java:2896) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_44356(ServerPlayNetHandlerMixin.java:1285) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_5386(class_1255.java:67) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServerMixin.java:797) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServerMixin.java:165) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:130) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServerMixin.java:779) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServerMixin.java:773) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_5383(class_1255.java:115) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServerMixin.java:757) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServerMixin.java:2131) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServerMixin.java:270) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.NoSuchMethodError: 'java.lang.String com.mojang.authlib.properties.Property.getValue()'
+	at com.ranull.graves.util.SkinUtil.getTexture(SkinUtil.java:48) ~[?:?]
+	at com.ranull.graves.listener.EntityDeathListener.onEntityDeath(EntityDeathListener.java:297) ~[?:?]
+	... 40 more
+[30May2025 02:47:44.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trejos1111 died because of Pillager
+Server threadEx[30May2025 02:47:46.110] [Netty Epoll Server IO #5/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "xaerominimap:main"
+Netty Epoll Server IO #5Ex[30May2025 02:47:46.110] [Netty Epoll Server IO #5/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "xaeroworldmap:main"
+Netty Epoll Server IO #5Ex[30May2025 02:47:47.985] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /back
+Server threadEx[30May2025 02:47:50.111] [Server thread/INFO] [net.minecraft.class_3244/]: electricidiZAP issued server command: /tpa RICHARDESC207
+Server threadEx[30May2025 02:47:53.033] [Server thread/INFO] [net.minecraft.class_3244/]: RICHARDESC207 issued server command: /tpayes electricidiZAP
+Server threadEx[30May2025 02:47:53.753] [Server thread/INFO] [net.minecraft.class_3244/]: RICHARDESC207 issued server command: /tpayes electricidiZAP
+Server threadEx[30May2025 02:47:54.510] [Server thread/INFO] [net.minecraft.class_3244/]: RICHARDESC207 issued server command: /tpayes electricidiZAP
+Server threadEx[30May2025 02:47:55.103] [Server thread/INFO] [net.minecraft.class_3244/]: RICHARDESC207 issued server command: /tpayes electricidiZAP
+Server threadEx[30May2025 02:47:56.170] [Server thread/INFO] [net.minecraft.class_3244/]: RICHARDESC207 issued server command: /tpayes electricidiZAP
+Server threadEx[30May2025 02:48:06.899] [Server thread/INFO] [Console/]: %vault_prefix% Trejos1111 is bleeding so bad..
+Server threadEx[30May2025 02:48:10.199] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /giveup
+Server threadEx[30May2025 02:48:10.200] [Server thread/ERROR] [Minecraft/]: Could not pass event PlayerDeathEvent to Graves v4.9
+Server threadEx org.bukkit.event.EventException: null
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:600) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:587) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactoryMixin.java:928) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at net.minecraft.class_3222.method_6078(ServerPlayerMixin_Vanilla.java:2311) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_5643(LivingEntityMixin.java:4346) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1657.method_5643(PlayerMixin_Vanilla.java:2532) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3222.method_5643(ServerPlayerMixin_Vanilla.java:738) ~[server-intermediary.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.entity.CraftLivingEntity.damage(CraftLivingEntity.java:327) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.entity.CraftLivingEntity.damage(CraftLivingEntity.java:300) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at com.alonsoaliaga.betterrevive.commands.GiveUpCommand.onCommand(GiveUpCommand.java:86) ~[?:?]
+	at com.alonsoaliaga.betterrevive.commands.AbstractCommand$ReflectCommand.execute(AbstractCommand.java:66) ~[?:?]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:149) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.CraftServer.dispatchCommand(CraftServerMixin.java:887) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:50) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.2.9.jar:?]
+	at net.minecraft.class_8865.method_54416(class_8865.java:29) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8865.execute(class_8865.java:13) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8856.method_54405(class_8856.java:8) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8847.method_54388(class_8847.java:8) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8854.method_54390(class_8854.java:107) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2170.method_54313(CommandsMixin.java:378) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2170.method_9249(CommandsMixin.java:308) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_45010(ServerPlayNetHandlerMixin.java:2896) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_44356(ServerPlayNetHandlerMixin.java:1285) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_5386(class_1255.java:67) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServerMixin.java:797) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServerMixin.java:165) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:130) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServerMixin.java:779) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServerMixin.java:773) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_5383(class_1255.java:115) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServerMixin.java:757) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServerMixin.java:2131) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServerMixin.java:270) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.NoSuchMethodError: 'java.lang.String com.mojang.authlib.properties.Property.getValue()'
+	at com.ranull.graves.util.SkinUtil.getTexture(SkinUtil.java:48) ~[?:?]
+	at com.ranull.graves.listener.EntityDeathListener.onEntityDeath(EntityDeathListener.java:297) ~[?:?]
+	... 40 more
+[30May2025 02:48:10.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trejos1111 died
+Server threadEx[30May2025 02:48:11.886] [Netty Epoll Server IO #5/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "xaerominimap:main"
+Netty Epoll Server IO #5Ex[30May2025 02:48:11.886] [Netty Epoll Server IO #5/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "xaeroworldmap:main"
+Netty Epoll Server IO #5Ex[30May2025 02:48:14.424] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /back
+Server threadEx[30May2025 02:48:16.801] [Server thread/INFO] [Console/]: %vault_prefix% RICHARDESC207 is bleeding so bad..
+Server threadEx[30May2025 02:48:30.149] [Server thread/INFO] [Console/]: %vault_prefix% Trejos1111 is bleeding..
+Server threadEx[30May2025 02:48:33.749] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /giveup
+Server threadEx[30May2025 02:48:33.750] [Server thread/ERROR] [Minecraft/]: Could not pass event PlayerDeathEvent to Graves v4.9
+Server threadEx org.bukkit.event.EventException: null
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:600) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:587) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactoryMixin.java:928) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at net.minecraft.class_3222.method_6078(ServerPlayerMixin_Vanilla.java:2311) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_5643(LivingEntityMixin.java:4346) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1657.method_5643(PlayerMixin_Vanilla.java:2532) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3222.method_5643(ServerPlayerMixin_Vanilla.java:738) ~[server-intermediary.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.entity.CraftLivingEntity.damage(CraftLivingEntity.java:327) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.entity.CraftLivingEntity.damage(CraftLivingEntity.java:300) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at com.alonsoaliaga.betterrevive.commands.GiveUpCommand.onCommand(GiveUpCommand.java:86) ~[?:?]
+	at com.alonsoaliaga.betterrevive.commands.AbstractCommand$ReflectCommand.execute(AbstractCommand.java:66) ~[?:?]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:149) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.CraftServer.dispatchCommand(CraftServerMixin.java:887) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:50) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.2.9.jar:?]
+	at net.minecraft.class_8865.method_54416(class_8865.java:29) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8865.execute(class_8865.java:13) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8856.method_54405(class_8856.java:8) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8847.method_54388(class_8847.java:8) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8854.method_54390(class_8854.java:107) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2170.method_54313(CommandsMixin.java:378) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2170.method_9249(CommandsMixin.java:308) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_45010(ServerPlayNetHandlerMixin.java:2896) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_44356(ServerPlayNetHandlerMixin.java:1285) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_5386(class_1255.java:67) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServerMixin.java:797) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServerMixin.java:165) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:130) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServerMixin.java:779) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServerMixin.java:773) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:139) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServerMixin.java:758) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServerMixin.java:2131) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServerMixin.java:270) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.NoSuchMethodError: 'java.lang.String com.mojang.authlib.properties.Property.getValue()'
+	at com.ranull.graves.util.SkinUtil.getTexture(SkinUtil.java:48) ~[?:?]
+	at com.ranull.graves.listener.EntityDeathListener.onEntityDeath(EntityDeathListener.java:297) ~[?:?]
+	... 40 more
+[30May2025 02:48:33.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trejos1111 died because of Pillager
+Server threadEx[30May2025 02:48:35.411] [Netty Epoll Server IO #5/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "xaerominimap:main"
+Netty Epoll Server IO #5Ex[30May2025 02:48:35.412] [Netty Epoll Server IO #5/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "xaeroworldmap:main"
+Netty Epoll Server IO #5Ex[30May2025 02:48:37.164] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /back
+Server threadEx[30May2025 02:48:49.094] [Server thread/INFO] [Console/]: %vault_prefix% RICHARDESC207 has been revived by %vault_prefix% electricidiZAP!
+Server threadEx[30May2025 02:49:40.249] [Server thread/INFO] [Console/]: %vault_prefix% Trejos1111 is bleeding so bad..
+Server threadEx[30May2025 02:49:43.498] [Server thread/INFO] [Console/]: %vault_prefix% Trejos1111 died after bleeding..
+Server threadEx[30May2025 02:49:43.498] [Server thread/ERROR] [Minecraft/]: Could not pass event PlayerDeathEvent to Graves v4.9
+Server threadEx org.bukkit.event.EventException: null
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:600) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:587) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactoryMixin.java:928) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at net.minecraft.class_3222.method_6078(ServerPlayerMixin_Vanilla.java:2311) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_5643(LivingEntityMixin.java:4346) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1657.method_5643(PlayerMixin_Vanilla.java:2532) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3222.method_5643(ServerPlayerMixin_Vanilla.java:738) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_6121(MobMixin.java:1464) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1366.method_6288(class_1366.java:151) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1366.method_6268(class_1366.java:144) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4135.method_6268(class_4135.java:65) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1355.method_38849(class_1355.java:120) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_6023(MobMixin.java:783) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_6007(LivingEntityMixin.java:2697) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_6007(MobMixin.java:556) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1588.method_6007(class_1588.java:44) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3763.method_6007(RaiderMixin.java:114) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_5773(LivingEntityMixin.java:2446) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_5773(MobMixin.java:357) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_18762(ServerLevelMixin.java:761) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_18472(LevelMixin.java:492) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_31420(ServerLevelMixin.java:399) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5574.method_31791(class_5574.java:54) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_18765(ServerLevelMixin.java:363) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServerMixin.java:948) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3176.method_3813(DedicatedServerMixin_Vanilla.java:283) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServerMixin.java:845) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServerMixin.java:2127) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServerMixin.java:270) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.NoSuchMethodError: 'java.lang.String com.mojang.authlib.properties.Property.getValue()'
+	at com.ranull.graves.util.SkinUtil.getTexture(SkinUtil.java:48) ~[?:?]
+	at com.ranull.graves.listener.EntityDeathListener.onEntityDeath(EntityDeathListener.java:297) ~[?:?]
+	... 31 more
+[30May2025 02:49:45.774] [Netty Epoll Server IO #5/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "xaerominimap:main"
+Netty Epoll Server IO #5Ex[30May2025 02:49:45.774] [Netty Epoll Server IO #5/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "xaeroworldmap:main"
+Netty Epoll Server IO #5Ex[30May2025 02:49:54.186] [Async Chat Thread - #62/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Trejos1111> me estan detonando
+Async Chat Thread - #62Ex[30May2025 02:50:33.348] [Server thread/INFO] [Console/]: %vault_prefix% Trejos1111 is bleeding..
+Server threadEx[30May2025 02:50:37.148] [Server thread/INFO] [Console/]: %vault_prefix% Trejos1111 died after bleeding..
+Server threadEx[30May2025 02:50:37.148] [Server thread/ERROR] [Minecraft/]: Could not pass event PlayerDeathEvent to Graves v4.9
+Server threadEx org.bukkit.event.EventException: null
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:600) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:587) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactoryMixin.java:928) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at net.minecraft.class_3222.method_6078(ServerPlayerMixin_Vanilla.java:2311) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_5643(LivingEntityMixin.java:4346) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1657.method_5643(PlayerMixin_Vanilla.java:2532) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3222.method_5643(ServerPlayerMixin_Vanilla.java:738) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_6121(MobMixin.java:1464) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1366.method_6288(class_1366.java:151) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1366.method_6268(class_1366.java:144) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4135.method_6268(class_4135.java:65) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1355.method_38849(class_1355.java:120) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_6023(MobMixin.java:783) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_6007(LivingEntityMixin.java:2697) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_6007(MobMixin.java:556) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1588.method_6007(class_1588.java:44) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3763.method_6007(RaiderMixin.java:114) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_5773(LivingEntityMixin.java:2446) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_5773(MobMixin.java:357) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_18762(ServerLevelMixin.java:761) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_18472(LevelMixin.java:492) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_31420(ServerLevelMixin.java:399) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5574.method_31791(class_5574.java:54) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_18765(ServerLevelMixin.java:363) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServerMixin.java:948) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3176.method_3813(DedicatedServerMixin_Vanilla.java:283) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServerMixin.java:845) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServerMixin.java:2127) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServerMixin.java:270) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.NoSuchMethodError: 'java.lang.String com.mojang.authlib.properties.Property.getValue()'
+	at com.ranull.graves.util.SkinUtil.getTexture(SkinUtil.java:48) ~[?:?]
+	at com.ranull.graves.listener.EntityDeathListener.onEntityDeath(EntityDeathListener.java:297) ~[?:?]
+	... 31 more
+[30May2025 02:50:38.690] [Netty Epoll Server IO #5/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "xaerominimap:main"
+Netty Epoll Server IO #5Ex[30May2025 02:50:38.690] [Netty Epoll Server IO #5/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "xaeroworldmap:main"
+Netty Epoll Server IO #5Ex[30May2025 02:50:41.261] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /back
+Server threadEx[30May2025 02:50:46.501] [Server thread/INFO] [Console/]: %vault_prefix% Trejos1111 is bleeding..
+Server threadEx[30May2025 02:50:46.713] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-7016, y=69, z=-2116} class_2338{x=-7015, y=72, z=-2109}
+Server threadEx[30May2025 02:50:48.398] [Server thread/INFO] [Console/]: %vault_prefix% Trejos1111 bled until death..
+Server threadEx[30May2025 02:50:48.399] [Server thread/ERROR] [Minecraft/]: Could not pass event PlayerDeathEvent to Graves v4.9
+Server threadEx org.bukkit.event.EventException: null
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:600) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:587) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactoryMixin.java:928) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at net.minecraft.class_3222.method_6078(ServerPlayerMixin_Vanilla.java:2311) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_5643(LivingEntityMixin.java:4346) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1657.method_5643(PlayerMixin_Vanilla.java:2532) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3222.method_5643(ServerPlayerMixin_Vanilla.java:738) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_6121(MobMixin.java:1464) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1634$class_1635.method_6268(class_1634.java:323) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4135.method_6268(class_4135.java:65) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1355.method_38849(class_1355.java:120) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1355.method_6275(class_1355.java:111) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_6023(MobMixin.java:775) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_6007(LivingEntityMixin.java:2697) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_6007(MobMixin.java:556) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1588.method_6007(class_1588.java:44) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_5773(LivingEntityMixin.java:2446) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_5773(MobMixin.java:357) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1634.method_5773(class_1634.java:94) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_18762(ServerLevelMixin.java:761) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_18472(LevelMixin.java:492) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_31420(ServerLevelMixin.java:399) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5574.method_31791(class_5574.java:54) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_18765(ServerLevelMixin.java:363) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServerMixin.java:948) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3176.method_3813(DedicatedServerMixin_Vanilla.java:283) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServerMixin.java:845) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServerMixin.java:2127) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServerMixin.java:270) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.NoSuchMethodError: 'java.lang.String com.mojang.authlib.properties.Property.getValue()'
+	at com.ranull.graves.util.SkinUtil.getTexture(SkinUtil.java:48) ~[?:?]
+	at com.ranull.graves.listener.EntityDeathListener.onEntityDeath(EntityDeathListener.java:297) ~[?:?]
+	... 31 more
+[30May2025 02:50:49.973] [Netty Epoll Server IO #5/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "xaerominimap:main"
+Netty Epoll Server IO #5Ex[30May2025 02:50:49.973] [Netty Epoll Server IO #5/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "xaeroworldmap:main"
+Netty Epoll Server IO #5Ex[30May2025 02:50:57.748] [Server thread/INFO] [Console/]: %vault_prefix% Trejos1111 is bleeding so bad..
+Server threadEx[30May2025 02:51:00.049] [Server thread/INFO] [Console/]: %vault_prefix% Trejos1111 bled until death..
+Server threadEx[30May2025 02:51:00.050] [Server thread/ERROR] [Minecraft/]: Could not pass event PlayerDeathEvent to Graves v4.9
+Server threadEx org.bukkit.event.EventException: null
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:600) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:587) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactoryMixin.java:928) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at net.minecraft.class_3222.method_6078(ServerPlayerMixin_Vanilla.java:2311) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_5643(LivingEntityMixin.java:4346) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1657.method_5643(PlayerMixin_Vanilla.java:2532) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3222.method_5643(ServerPlayerMixin_Vanilla.java:738) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_6121(MobMixin.java:1464) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1366.method_6288(class_1366.java:151) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1366.method_6268(class_1366.java:144) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4135.method_6268(class_4135.java:65) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1355.method_38849(class_1355.java:120) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_6023(MobMixin.java:783) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_6007(LivingEntityMixin.java:2697) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_6007(MobMixin.java:556) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1588.method_6007(class_1588.java:44) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3763.method_6007(RaiderMixin.java:114) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_5773(LivingEntityMixin.java:2446) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_5773(MobMixin.java:357) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_18762(ServerLevelMixin.java:761) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_18472(LevelMixin.java:492) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_31420(ServerLevelMixin.java:399) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5574.method_31791(class_5574.java:54) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_18765(ServerLevelMixin.java:363) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServerMixin.java:948) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3176.method_3813(DedicatedServerMixin_Vanilla.java:283) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServerMixin.java:845) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServerMixin.java:2127) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServerMixin.java:270) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.NoSuchMethodError: 'java.lang.String com.mojang.authlib.properties.Property.getValue()'
+	at com.ranull.graves.util.SkinUtil.getTexture(SkinUtil.java:48) ~[?:?]
+	at com.ranull.graves.listener.EntityDeathListener.onEntityDeath(EntityDeathListener.java:297) ~[?:?]
+	... 31 more
+[30May2025 02:51:01.431] [Netty Epoll Server IO #5/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "xaerominimap:main"
+Netty Epoll Server IO #5Ex[30May2025 02:51:01.431] [Netty Epoll Server IO #5/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "xaeroworldmap:main"
+Netty Epoll Server IO #5Ex[30May2025 02:51:39.999] [Server thread/INFO] [Console/]: %vault_prefix% Trejos1111 is bleeding so bad..
+Server threadEx[30May2025 02:51:42.947] [Async Chat Thread - #64/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Trejos1111> me estan detonando
+Async Chat Thread - #64Ex[30May2025 02:51:45.248] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /back
+Server threadEx[30May2025 02:51:50.510] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /giveup
+Server threadEx[30May2025 02:51:50.511] [Server thread/ERROR] [Minecraft/]: Could not pass event PlayerDeathEvent to Graves v4.9
+Server threadEx org.bukkit.event.EventException: null
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:600) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:587) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactoryMixin.java:928) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at net.minecraft.class_3222.method_6078(ServerPlayerMixin_Vanilla.java:2311) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_5643(LivingEntityMixin.java:4346) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1657.method_5643(PlayerMixin_Vanilla.java:2532) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3222.method_5643(ServerPlayerMixin_Vanilla.java:738) ~[server-intermediary.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.entity.CraftLivingEntity.damage(CraftLivingEntity.java:327) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.entity.CraftLivingEntity.damage(CraftLivingEntity.java:300) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at com.alonsoaliaga.betterrevive.commands.GiveUpCommand.onCommand(GiveUpCommand.java:86) ~[?:?]
+	at com.alonsoaliaga.betterrevive.commands.AbstractCommand$ReflectCommand.execute(AbstractCommand.java:66) ~[?:?]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:149) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.CraftServer.dispatchCommand(CraftServerMixin.java:887) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:50) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.2.9.jar:?]
+	at net.minecraft.class_8865.method_54416(class_8865.java:29) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8865.execute(class_8865.java:13) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8856.method_54405(class_8856.java:8) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8847.method_54388(class_8847.java:8) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8854.method_54390(class_8854.java:107) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2170.method_54313(CommandsMixin.java:378) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2170.method_9249(CommandsMixin.java:308) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_45010(ServerPlayNetHandlerMixin.java:2896) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_44356(ServerPlayNetHandlerMixin.java:1285) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_5386(class_1255.java:67) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServerMixin.java:797) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServerMixin.java:165) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:130) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServerMixin.java:779) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServerMixin.java:773) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:139) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServerMixin.java:758) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServerMixin.java:2131) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServerMixin.java:270) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.NoSuchMethodError: 'java.lang.String com.mojang.authlib.properties.Property.getValue()'
+	at com.ranull.graves.util.SkinUtil.getTexture(SkinUtil.java:48) ~[?:?]
+	at com.ranull.graves.listener.EntityDeathListener.onEntityDeath(EntityDeathListener.java:297) ~[?:?]
+	... 40 more
+[30May2025 02:51:50.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trejos1111 died
+Server threadEx[30May2025 02:51:52.688] [Netty Epoll Server IO #5/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "xaerominimap:main"
+Netty Epoll Server IO #5Ex[30May2025 02:51:52.688] [Netty Epoll Server IO #5/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "xaeroworldmap:main"
+Netty Epoll Server IO #5Ex[30May2025 02:51:55.425] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /giveup
+Server threadEx[30May2025 02:51:57.660] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /back
+Server threadEx[30May2025 02:52:16.649] [Server thread/INFO] [Console/]: %vault_prefix% Trejos1111 is bleeding..
+Server threadEx[30May2025 02:52:18.935] [Async Chat Thread - #63/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RICHARDESC207> electricidiZAP
+Async Chat Thread - #63Ex[30May2025 02:52:24.661] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /giveup
+Server threadEx[30May2025 02:52:24.662] [Server thread/ERROR] [Minecraft/]: Could not pass event PlayerDeathEvent to Graves v4.9
+Server threadEx org.bukkit.event.EventException: null
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:600) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:587) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactoryMixin.java:928) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at net.minecraft.class_3222.method_6078(ServerPlayerMixin_Vanilla.java:2311) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_5643(LivingEntityMixin.java:4346) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1657.method_5643(PlayerMixin_Vanilla.java:2532) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3222.method_5643(ServerPlayerMixin_Vanilla.java:738) ~[server-intermediary.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.entity.CraftLivingEntity.damage(CraftLivingEntity.java:327) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.entity.CraftLivingEntity.damage(CraftLivingEntity.java:300) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at com.alonsoaliaga.betterrevive.commands.GiveUpCommand.onCommand(GiveUpCommand.java:86) ~[?:?]
+	at com.alonsoaliaga.betterrevive.commands.AbstractCommand$ReflectCommand.execute(AbstractCommand.java:66) ~[?:?]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:149) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.CraftServer.dispatchCommand(CraftServerMixin.java:887) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:50) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.2.9.jar:?]
+	at net.minecraft.class_8865.method_54416(class_8865.java:29) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8865.execute(class_8865.java:13) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8856.method_54405(class_8856.java:8) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8847.method_54388(class_8847.java:8) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8854.method_54390(class_8854.java:107) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2170.method_54313(CommandsMixin.java:378) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2170.method_9249(CommandsMixin.java:308) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_45010(ServerPlayNetHandlerMixin.java:2896) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_44356(ServerPlayNetHandlerMixin.java:1285) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_5386(class_1255.java:67) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServerMixin.java:797) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServerMixin.java:165) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:130) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServerMixin.java:779) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServerMixin.java:773) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:139) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServerMixin.java:758) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServerMixin.java:2131) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServerMixin.java:270) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.NoSuchMethodError: 'java.lang.String com.mojang.authlib.properties.Property.getValue()'
+	at com.ranull.graves.util.SkinUtil.getTexture(SkinUtil.java:48) ~[?:?]
+	at com.ranull.graves.listener.EntityDeathListener.onEntityDeath(EntityDeathListener.java:297) ~[?:?]
+	... 40 more
+[30May2025 02:52:24.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trejos1111 died
+Server threadEx[30May2025 02:52:26.320] [Netty Epoll Server IO #5/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "xaerominimap:main"
+Netty Epoll Server IO #5Ex[30May2025 02:52:26.320] [Netty Epoll Server IO #5/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "xaeroworldmap:main"
+Netty Epoll Server IO #5Ex[30May2025 02:52:28.313] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /back
+Server threadEx[30May2025 02:52:41.100] [Server thread/INFO] [Console/]: %vault_prefix% Trejos1111 is bleeding..
+Server threadEx[30May2025 02:52:48.455] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /giveup
+Server threadEx[30May2025 02:52:48.456] [Server thread/ERROR] [Minecraft/]: Could not pass event PlayerDeathEvent to Graves v4.9
+Server threadEx org.bukkit.event.EventException: null
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:600) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:587) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactoryMixin.java:928) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at net.minecraft.class_3222.method_6078(ServerPlayerMixin_Vanilla.java:2311) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_5643(LivingEntityMixin.java:4346) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1657.method_5643(PlayerMixin_Vanilla.java:2532) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3222.method_5643(ServerPlayerMixin_Vanilla.java:738) ~[server-intermediary.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.entity.CraftLivingEntity.damage(CraftLivingEntity.java:327) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.entity.CraftLivingEntity.damage(CraftLivingEntity.java:300) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at com.alonsoaliaga.betterrevive.commands.GiveUpCommand.onCommand(GiveUpCommand.java:86) ~[?:?]
+	at com.alonsoaliaga.betterrevive.commands.AbstractCommand$ReflectCommand.execute(AbstractCommand.java:66) ~[?:?]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:149) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.CraftServer.dispatchCommand(CraftServerMixin.java:887) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:50) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.2.9.jar:?]
+	at net.minecraft.class_8865.method_54416(class_8865.java:29) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8865.execute(class_8865.java:13) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8856.method_54405(class_8856.java:8) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8847.method_54388(class_8847.java:8) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8854.method_54390(class_8854.java:107) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2170.method_54313(CommandsMixin.java:378) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2170.method_9249(CommandsMixin.java:308) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_45010(ServerPlayNetHandlerMixin.java:2896) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_44356(ServerPlayNetHandlerMixin.java:1285) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_5386(class_1255.java:67) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServerMixin.java:797) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServerMixin.java:165) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:130) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServerMixin.java:779) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServerMixin.java:773) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:139) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServerMixin.java:758) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServerMixin.java:2131) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServerMixin.java:270) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.NoSuchMethodError: 'java.lang.String com.mojang.authlib.properties.Property.getValue()'
+	at com.ranull.graves.util.SkinUtil.getTexture(SkinUtil.java:48) ~[?:?]
+	at com.ranull.graves.listener.EntityDeathListener.onEntityDeath(EntityDeathListener.java:297) ~[?:?]
+	... 40 more
+[30May2025 02:52:48.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trejos1111 died because of Witch
+Server threadEx[30May2025 02:52:50.623] [Netty Epoll Server IO #5/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "xaerominimap:main"
+Netty Epoll Server IO #5Ex[30May2025 02:52:50.623] [Netty Epoll Server IO #5/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "xaeroworldmap:main"
+Netty Epoll Server IO #5Ex[30May2025 02:52:53.027] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /back
+Server threadEx[30May2025 02:53:29.732] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /effect clear Trejos1111
+Server threadEx[30May2025 02:53:29.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Trejos1111: Removed every effect from Trejos1111]
+Server threadEx[30May2025 02:54:15.482] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /sethome aldea
+Server threadEx[30May2025 02:54:22.763] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /tpa electricidiZAP
+Server threadEx[30May2025 02:54:28.298] [Server thread/INFO] [net.minecraft.class_3244/]: electricidiZAP issued server command: /tpano Trejos1111
+Server threadEx[30May2025 02:54:57.115] [Async Chat Thread - #66/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Trejos1111> bro
+Async Chat Thread - #66Ex[30May2025 02:54:59.520] [Async Chat Thread - #65/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <electricidiZAP> q
+Async Chat Thread - #65Ex[30May2025 02:55:10.724] [Async Chat Thread - #66/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Trejos1111> yo ya me voy
+Async Chat Thread - #66Ex[30May2025 02:55:19.562] [Async Chat Thread - #65/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <electricidiZAP> entonces
+Async Chat Thread - #65Ex[30May2025 02:55:23.988] [Async Chat Thread - #66/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Trejos1111> bye
+Async Chat Thread - #66Ex[30May2025 02:55:25.638] [Async Chat Thread - #65/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <electricidiZAP> deje el server abierto
+Async Chat Thread - #65Ex[30May2025 02:55:25.799] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 lost connection: Disconnected
+Server threadEx[30May2025 02:55:25.800] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Trejos1111
+Server threadEx[30May2025 02:55:25.800] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Trejos1111
+Server threadEx[30May2025 02:55:25.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trejos1111 left the game
+Server threadEx[30May2025 02:55:54.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] me escribe para apagar el server
+Server threadEx[30May2025 02:56:01.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] :9
+Server threadEx[30May2025 02:56:07.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] :)
 Server threadEx

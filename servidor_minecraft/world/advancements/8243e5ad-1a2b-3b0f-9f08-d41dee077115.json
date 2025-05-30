@@ -471,6 +471,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-05-30 02:25:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-05-30 01:32:05 +0000"
@@ -600,6 +606,12 @@
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2025-05-30 01:44:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-05-30 02:25:55 +0000"
     },
     "done": true
   },
@@ -798,6 +810,12 @@
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-05-30 01:48:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-05-30 02:25:55 +0000"
     },
     "done": true
   },
@@ -1049,6 +1067,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-05-30 02:27:11 +0000",
       "minecraft:spider": "2025-05-30 01:36:20 +0000",
       "minecraft:zombie": "2025-05-30 01:48:20 +0000",
       "minecraft:creeper": "2025-05-30 01:49:24 +0000",
@@ -1137,6 +1156,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-05-30 01:36:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-05-30 02:27:12 +0000"
     },
     "done": true
   },
