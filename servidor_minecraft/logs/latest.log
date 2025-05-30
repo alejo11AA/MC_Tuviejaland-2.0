@@ -910,4 +910,21 @@ Server threadEx[30May2025 19:35:13.616] [Server thread/INFO] [net.minecraft.clas
 Server threadEx[30May2025 19:35:25.015] [Server thread/INFO] [net.minecraft.class_3244/]: RASTEROL lost connection: Disconnected
 Server threadEx[30May2025 19:35:25.015] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RASTEROL
 Server threadEx[30May2025 19:35:25.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RASTEROL left the game
+Server threadEx[30May2025 19:37:06.182] [User Authenticator #12/INFO] [net.minecraft.class_3248/]: UUID of player RASTEROL is 7275d4a0-d030-3899-88db-6233bb178a88
+User Authenticator #12Ex[30May2025 19:37:07.058] [Server thread/INFO] [net.minecraft.class_3324/]: RASTEROL[/127.154.181.90:45769] logged in with entity id 56853 at (921.3302028196147, -45.0, -183.37076505007943)
+Server threadEx[30May2025 19:37:07.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RASTEROL joined the game
+Server threadEx[30May2025 19:37:08.287] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RASTEROL (18)
+Server threadEx[30May2025 19:37:08.287] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RASTEROL
+Server threadEx[30May2025 19:37:08.962] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7275d4a0-d030-3899-88db-6233bb178a88
+VoiceChatPacketProcessingThreadEx[30May2025 19:37:09.954] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7275d4a0-d030-3899-88db-6233bb178a88
+VoiceChatPacketProcessingThreadEx[30May2025 19:37:09.954] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player RASTEROL (7275d4a0-d030-3899-88db-6233bb178a88) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[30May2025 19:37:14.975] [Server thread/INFO] [net.minecraft.class_3244/]: RASTEROL issued server command: /tpa Dezar68
+Server threadEx[30May2025 19:37:17.184] [Server thread/INFO] [net.minecraft.class_3244/]: Dezar68 issued server command: /tpayes RASTEROL
+Server threadEx[30May2025 19:38:37.302] [Server thread/INFO] [net.minecraft.class_3244/]: RASTEROL issued server command: /skin RASTEROL
+Server threadEx[30May2025 19:39:04.216] [Server thread/INFO] [net.minecraft.class_3244/]: RASTEROL lost connection: Disconnected
+Server threadEx[30May2025 19:39:04.216] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RASTEROL
+Server threadEx[30May2025 19:39:04.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RASTEROL left the game
+Server threadEx[30May2025 19:40:27.438] [Async Chat Thread - #27/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RICHARDESC207> alguien puede dormir por fa
+Async Chat Thread - #27Ex[30May2025 19:40:50.066] [Async Chat Thread - #27/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RICHARDESC207> gracias
+Async Chat Thread - #27Ex[30May2025 19:45:40.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IlarilarieOhOHIO has made the advancement [Hot Stuff]
 Server threadEx

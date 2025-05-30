@@ -120,6 +120,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-05-30 19:07:11 +0000",
+      "apple": "2025-05-30 19:44:04 +0000",
       "rotten_flesh": "2025-05-30 18:54:17 +0000",
       "cooked_mutton": "2025-05-30 18:37:56 +0000",
       "cooked_beef": "2025-05-30 19:03:53 +0000"
