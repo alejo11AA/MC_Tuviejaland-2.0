@@ -507,6 +507,7 @@
     "criteria": {
       "minecraft:cave_spider": "2025-05-30 02:20:38 +0000",
       "minecraft:skeleton": "2025-05-30 02:31:41 +0000",
+      "minecraft:piglin": "2025-05-30 20:05:59 +0000",
       "minecraft:enderman": "2025-05-30 19:25:35 +0000",
       "minecraft:spider": "2025-05-30 01:21:00 +0000",
       "minecraft:zombie": "2025-05-30 01:18:38 +0000",
@@ -1668,6 +1669,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-05-30 20:07:17 +0000",
       "minecraft:nether_wastes": "2025-05-30 20:01:34 +0000"
     },
     "done": false

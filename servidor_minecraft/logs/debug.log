@@ -7041,4 +7041,7 @@ Worker-Main-1Ex[30May2025 20:04:45.019] [Server thread/INFO] [net.minecraft.clas
 Server threadEx[30May2025 20:04:45.019] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Mori_Jun
 Server threadEx[30May2025 20:04:45.019] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mori_Jun
 Server threadEx[30May2025 20:04:45.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mori_Jun left the game
+Server threadEx[30May2025 20:13:24.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] siguen vivos?
+Server threadEx[30May2025 20:13:31.351] [Async Chat Thread - #33/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dezar68> si
+Async Chat Thread - #33Ex[30May2025 20:13:40.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] me salio un error en consola
 Server threadEx
