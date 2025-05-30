@@ -5955,4 +5955,885 @@ Server threadEx[30May2025 01:13:28.105] [Server thread/INFO] [net.minecraft.serv
 Server threadEx[30May2025 01:13:28.368] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 39a4115d-3442-3afd-aa2c-3b3a6673e363 does not have a secret
 VoiceChatPacketProcessingThreadEx[30May2025 01:15:05.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: electricidiZAP has made the advancement [Getting an Upgrade]
 Server threadEx[30May2025 01:15:17.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RICHARDESC207 has made the advancement [Getting an Upgrade]
+Server threadEx[30May2025 01:16:39.748] [Server thread/INFO] [Console/]: %vault_prefix% electricidiZAP is bleeding..
+Server threadEx[30May2025 01:16:40.038] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-97, y=62, z=-203} class_2338{x=-97, y=63, z=-205}
+Server threadEx[30May2025 01:16:47.149] [Server thread/INFO] [Console/]: %vault_prefix% RICHARDESC207 is bleeding..
+Server threadEx[30May2025 01:16:47.461] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-102, y=60, z=-198} class_2338{x=-98, y=62, z=-206}
+Server threadEx[30May2025 01:16:47.512] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-102, y=60, z=-198} class_2338{x=-98, y=64, z=-206}
+Server threadEx[30May2025 01:16:50.141] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-102, y=60, z=-198} class_2338{x=-97, y=63, z=-209}
+Server threadEx[30May2025 01:16:50.161] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-102, y=60, z=-198} class_2338{x=-96, y=63, z=-209}
+Server threadEx[30May2025 01:16:50.211] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-102, y=60, z=-198} class_2338{x=-96, y=63, z=-208}
+Server threadEx[30May2025 01:16:51.949] [Async Chat Thread - #53/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Trejos1111> xdd
+Async Chat Thread - #53Ex[30May2025 01:16:57.066] [Server thread/INFO] [net.minecraft.class_3244/]: electricidiZAP issued server command: /giveup
+Server threadEx[30May2025 01:16:57.071] [Server thread/ERROR] [Minecraft/]: Could not pass event PlayerDeathEvent to Graves v4.9
+Server threadEx org.bukkit.event.EventException: null
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:600) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:587) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactoryMixin.java:928) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at net.minecraft.class_3222.method_6078(ServerPlayerMixin_Vanilla.java:2311) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_5643(LivingEntityMixin.java:4346) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1657.method_5643(PlayerMixin_Vanilla.java:2532) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3222.method_5643(ServerPlayerMixin_Vanilla.java:738) ~[server-intermediary.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.entity.CraftLivingEntity.damage(CraftLivingEntity.java:327) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.entity.CraftLivingEntity.damage(CraftLivingEntity.java:300) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at com.alonsoaliaga.betterrevive.commands.GiveUpCommand.onCommand(GiveUpCommand.java:86) ~[?:?]
+	at com.alonsoaliaga.betterrevive.commands.AbstractCommand$ReflectCommand.execute(AbstractCommand.java:66) ~[?:?]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:149) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.CraftServer.dispatchCommand(CraftServerMixin.java:887) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:50) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.2.9.jar:?]
+	at net.minecraft.class_8865.method_54416(class_8865.java:29) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8865.execute(class_8865.java:13) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8856.method_54405(class_8856.java:8) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8847.method_54388(class_8847.java:8) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8854.method_54390(class_8854.java:107) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2170.method_54313(CommandsMixin.java:378) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2170.method_9249(CommandsMixin.java:308) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_45010(ServerPlayNetHandlerMixin.java:2896) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_44356(ServerPlayNetHandlerMixin.java:1285) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_5386(class_1255.java:67) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServerMixin.java:797) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServerMixin.java:165) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:130) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServerMixin.java:779) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServerMixin.java:773) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:139) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServerMixin.java:758) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServerMixin.java:2131) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServerMixin.java:270) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.NoSuchMethodError: 'java.lang.String com.mojang.authlib.properties.Property.getValue()'
+	at com.ranull.graves.util.SkinUtil.getTexture(SkinUtil.java:48) ~[?:?]
+	at com.ranull.graves.listener.EntityDeathListener.onEntityDeath(EntityDeathListener.java:297) ~[?:?]
+	... 40 more
+[30May2025 01:16:57.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: electricidiZAP died
+Server threadEx[30May2025 01:16:59.326] [Netty Epoll Server IO #3/DEBUG] [ServerPlayNetworkAddon for literal{electricidiZAP}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell electricidiZAP '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@5cc64b3a],insertion=electricidiZAP}]/]: Handling inbound packet from channel with name "xaerominimap:main"
+Netty Epoll Server IO #3Ex[30May2025 01:16:59.326] [Netty Epoll Server IO #3/DEBUG] [ServerPlayNetworkAddon for literal{electricidiZAP}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell electricidiZAP '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@5cc64b3a],insertion=electricidiZAP}]/]: Handling inbound packet from channel with name "xaeroworldmap:main"
+Netty Epoll Server IO #3Ex[30May2025 01:17:05.042] [Server thread/INFO] [net.minecraft.class_3244/]: electricidiZAP issued server command: /tpa RICHARDESC207
+Server threadEx[30May2025 01:17:16.413] [Server thread/INFO] [net.minecraft.class_3244/]: RICHARDESC207 issued server command: /giveup
+Server threadEx[30May2025 01:17:16.416] [Server thread/ERROR] [Minecraft/]: Could not pass event PlayerDeathEvent to Graves v4.9
+Server threadEx org.bukkit.event.EventException: null
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:600) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:587) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactoryMixin.java:928) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at net.minecraft.class_3222.method_6078(ServerPlayerMixin_Vanilla.java:2311) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_5643(LivingEntityMixin.java:4346) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1657.method_5643(PlayerMixin_Vanilla.java:2532) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3222.method_5643(ServerPlayerMixin_Vanilla.java:738) ~[server-intermediary.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.entity.CraftLivingEntity.damage(CraftLivingEntity.java:327) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.entity.CraftLivingEntity.damage(CraftLivingEntity.java:300) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at com.alonsoaliaga.betterrevive.commands.GiveUpCommand.onCommand(GiveUpCommand.java:86) ~[?:?]
+	at com.alonsoaliaga.betterrevive.commands.AbstractCommand$ReflectCommand.execute(AbstractCommand.java:66) ~[?:?]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:149) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.CraftServer.dispatchCommand(CraftServerMixin.java:887) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:50) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.2.9.jar:?]
+	at net.minecraft.class_8865.method_54416(class_8865.java:29) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8865.execute(class_8865.java:13) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8856.method_54405(class_8856.java:8) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8847.method_54388(class_8847.java:8) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8854.method_54390(class_8854.java:107) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2170.method_54313(CommandsMixin.java:378) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2170.method_9249(CommandsMixin.java:308) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_45010(ServerPlayNetHandlerMixin.java:2896) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_44356(ServerPlayNetHandlerMixin.java:1285) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_5386(class_1255.java:67) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServerMixin.java:797) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServerMixin.java:165) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:130) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServerMixin.java:779) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServerMixin.java:773) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:139) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServerMixin.java:758) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServerMixin.java:2131) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServerMixin.java:270) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.NoSuchMethodError: 'java.lang.String com.mojang.authlib.properties.Property.getValue()'
+	at com.ranull.graves.util.SkinUtil.getTexture(SkinUtil.java:48) ~[?:?]
+	at com.ranull.graves.listener.EntityDeathListener.onEntityDeath(EntityDeathListener.java:297) ~[?:?]
+	... 40 more
+[30May2025 01:17:16.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RICHARDESC207 died
+Server threadEx[30May2025 01:17:18.989] [Netty Epoll Server IO #5/DEBUG] [ServerPlayNetworkAddon for literal{RICHARDESC207}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell RICHARDESC207 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@a5f1d542],insertion=RICHARDESC207}]/]: Handling inbound packet from channel with name "xaerominimap:main"
+Netty Epoll Server IO #5Ex[30May2025 01:17:18.990] [Netty Epoll Server IO #5/DEBUG] [ServerPlayNetworkAddon for literal{RICHARDESC207}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell RICHARDESC207 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@a5f1d542],insertion=RICHARDESC207}]/]: Handling inbound packet from channel with name "xaeroworldmap:main"
+Netty Epoll Server IO #5Ex[30May2025 01:17:25.020] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /spawn
+Server threadEx[30May2025 01:18:00.849] [Async Chat Thread - #55/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Trejos1111> con /back vuelven a la tumba
+Async Chat Thread - #55Ex[30May2025 01:18:33.347] [Server thread/INFO] [Console/]: %vault_prefix% electricidiZAP is bleeding so bad..
+Server threadEx[30May2025 01:18:33.585] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-75, y=65, z=-215} class_2338{x=-73, y=65, z=-215}
+Server threadEx[30May2025 01:18:33.788] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-75, y=65, z=-215} class_2338{x=-78, y=66, z=-215}
+Server threadEx[30May2025 01:18:34.084] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-75, y=65, z=-215} class_2338{x=-75, y=65, z=-216}
+Server threadEx[30May2025 01:18:34.133] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-75, y=65, z=-215} class_2338{x=-74, y=65, z=-216}
+Server threadEx[30May2025 01:18:38.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RICHARDESC207 has made the advancement [Monster Hunter]
+Server threadEx[30May2025 01:19:10.586] [Server thread/INFO] [Console/]: %vault_prefix% electricidiZAP bled until death..
+Server threadEx[30May2025 01:19:10.587] [Server thread/ERROR] [Minecraft/]: Could not pass event PlayerDeathEvent to Graves v4.9
+Server threadEx org.bukkit.event.EventException: null
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:600) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:587) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactoryMixin.java:928) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at net.minecraft.class_3222.method_6078(ServerPlayerMixin_Vanilla.java:2311) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_5643(LivingEntityMixin.java:4346) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1657.method_5643(PlayerMixin_Vanilla.java:2532) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3222.method_5643(ServerPlayerMixin_Vanilla.java:738) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_5670(LivingEntityMixin.java:407) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1297.method_5773(EntityMixin_Vanilla.java:477) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_5773(LivingEntityMixin.java:2407) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1657.method_5773(PlayerMixin_Vanilla.java:284) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3222.method_14226(ServerPlayerMixin_Vanilla.java:519) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_18784(ServerPlayNetHandlerMixin.java:257) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2535.method_10754(ConnectionMixin.java:379) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3242.method_14357(class_3242.java:176) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServerMixin.java:959) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3176.method_3813(DedicatedServerMixin_Vanilla.java:283) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServerMixin.java:845) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServerMixin.java:2127) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServerMixin.java:270) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.NoSuchMethodError: 'java.lang.String com.mojang.authlib.properties.Property.getValue()'
+	at com.ranull.graves.util.SkinUtil.getTexture(SkinUtil.java:48) ~[?:?]
+	at com.ranull.graves.listener.EntityDeathListener.onEntityDeath(EntityDeathListener.java:297) ~[?:?]
+	... 22 more
+[30May2025 01:19:11.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RICHARDESC207 has made the advancement [Stone Age]
+Server threadEx[30May2025 01:19:11.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RICHARDESC207 has made the advancement [Diamonds!]
+Server threadEx[30May2025 01:19:12.684] [Netty Epoll Server IO #3/DEBUG] [ServerPlayNetworkAddon for literal{electricidiZAP}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell electricidiZAP '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@5cc64b3a],insertion=electricidiZAP}]/]: Handling inbound packet from channel with name "xaerominimap:main"
+Netty Epoll Server IO #3Ex[30May2025 01:19:12.684] [Netty Epoll Server IO #3/DEBUG] [ServerPlayNetworkAddon for literal{electricidiZAP}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell electricidiZAP '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@5cc64b3a],insertion=electricidiZAP}]/]: Handling inbound packet from channel with name "xaeroworldmap:main"
+Netty Epoll Server IO #3Ex[30May2025 01:19:18.998] [Server thread/INFO] [Console/]: %vault_prefix% RICHARDESC207 is bleeding so bad..
+Server threadEx[30May2025 01:19:19.805] [Server thread/INFO] [net.minecraft.class_3244/]: electricidiZAP issued server command: /tpa RICHARDESC207
+Server threadEx[30May2025 01:19:28.744] [Server thread/INFO] [net.minecraft.class_3244/]: RICHARDESC207 issued server command: /tpayes electricidiZAP
+Server threadEx[30May2025 01:19:29.122] [Server thread/INFO] [net.minecraft.class_3244/]: RICHARDESC207 issued server command: /tpayes electricidiZAP
+Server threadEx[30May2025 01:19:29.653] [Server thread/INFO] [net.minecraft.class_3244/]: RICHARDESC207 issued server command: /tpayes electricidiZAP
+Server threadEx[30May2025 01:19:29.829] [Server thread/INFO] [net.minecraft.class_3244/]: RICHARDESC207 issued server command: /tpayes electricidiZAP
+Server threadEx[30May2025 01:19:30.006] [Server thread/INFO] [net.minecraft.class_3244/]: RICHARDESC207 issued server command: /tpayes electricidiZAP
+Server threadEx[30May2025 01:19:30.166] [Server thread/INFO] [net.minecraft.class_3244/]: RICHARDESC207 issued server command: /tpayes electricidiZAP
+Server threadEx[30May2025 01:19:30.355] [Server thread/INFO] [net.minecraft.class_3244/]: RICHARDESC207 issued server command: /tpayes electricidiZAP
+Server threadEx[30May2025 01:19:30.513] [Server thread/INFO] [net.minecraft.class_3244/]: RICHARDESC207 issued server command: /tpayes electricidiZAP
+Server threadEx[30May2025 01:19:30.707] [Server thread/INFO] [net.minecraft.class_3244/]: RICHARDESC207 issued server command: /tpayes electricidiZAP
+Server threadEx[30May2025 01:19:30.856] [Server thread/INFO] [net.minecraft.class_3244/]: RICHARDESC207 issued server command: /tpayes electricidiZAP
+Server threadEx[30May2025 01:19:31.389] [Server thread/INFO] [net.minecraft.class_3244/]: RICHARDESC207 issued server command: /tpano electricidiZAP
+Server threadEx[30May2025 01:19:31.798] [Server thread/INFO] [net.minecraft.class_3244/]: RICHARDESC207 issued server command: /tpayes electricidiZAP
+Server threadEx[30May2025 01:19:31.965] [Server thread/INFO] [net.minecraft.class_3244/]: RICHARDESC207 issued server command: /tpayes electricidiZAP
+Server threadEx[30May2025 01:19:32.127] [Server thread/INFO] [net.minecraft.class_3244/]: RICHARDESC207 issued server command: /tpayes electricidiZAP
+Server threadEx[30May2025 01:19:32.129] [Server thread/INFO] [net.minecraft.class_3244/]: RICHARDESC207 lost connection: Kicked for spamming
+Server threadEx[30May2025 01:19:32.130] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of RICHARDESC207
+Server threadEx[30May2025 01:19:32.130] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RICHARDESC207
+Server threadEx[30May2025 01:19:32.132] [Server thread/INFO] [Console/]: %vault_prefix% RICHARDESC207 disconnected while bleeding..
+Server threadEx[30May2025 01:19:32.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RICHARDESC207 left the game.
+Server threadEx[30May2025 01:19:32.198] [Server thread/WARN] [net.minecraft.class_2535/]: handleDisconnection() called twice
+Server threadEx[30May2025 01:19:32.201] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 28a214db-3f8e-3c87-a1f8-75c3acbe8cd0 does not have a secret
+VoiceChatPacketProcessingThreadEx[30May2025 01:19:32.202] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 28a214db-3f8e-3c87-a1f8-75c3acbe8cd0 does not have a secret
+VoiceChatPacketProcessingThreadEx[30May2025 01:19:32.219] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 28a214db-3f8e-3c87-a1f8-75c3acbe8cd0 does not have a secret
+VoiceChatPacketProcessingThreadEx[30May2025 01:19:32.239] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 28a214db-3f8e-3c87-a1f8-75c3acbe8cd0 does not have a secret
+VoiceChatPacketProcessingThreadEx[30May2025 01:19:32.263] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 28a214db-3f8e-3c87-a1f8-75c3acbe8cd0 does not have a secret
+VoiceChatPacketProcessingThreadEx[30May2025 01:19:32.275] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 28a214db-3f8e-3c87-a1f8-75c3acbe8cd0 does not have a secret
+VoiceChatPacketProcessingThreadEx[30May2025 01:19:32.303] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 28a214db-3f8e-3c87-a1f8-75c3acbe8cd0 does not have a secret
+VoiceChatPacketProcessingThreadEx[30May2025 01:19:32.319] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 28a214db-3f8e-3c87-a1f8-75c3acbe8cd0 does not have a secret
+VoiceChatPacketProcessingThreadEx[30May2025 01:19:39.836] [User Authenticator #12/INFO] [net.minecraft.class_3248/]: UUID of player RICHARDESC207 is 28a214db-3f8e-3c87-a1f8-75c3acbe8cd0
+User Authenticator #12Ex[30May2025 01:19:40.410] [Netty Epoll Server IO #1/DEBUG] [ServerConfigurationNetworkAddon for RICHARDESC207/]: Handling inbound packet from channel with name "minecraft:register"
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.413] [Netty Epoll Server IO #1/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:command_argument_type
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.413] [Netty Epoll Server IO #1/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:item
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.413] [Netty Epoll Server IO #1/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:block_entity_type
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.413] [Netty Epoll Server IO #1/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:custom_stat
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.413] [Netty Epoll Server IO #1/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/foliage_placer_type
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.413] [Netty Epoll Server IO #1/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:number_format_type
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.413] [Netty Epoll Server IO #1/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:stat_type
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.413] [Netty Epoll Server IO #1/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/material_rule
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.413] [Netty Epoll Server IO #1/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_type
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.413] [Netty Epoll Server IO #1/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:attribute
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.413] [Netty Epoll Server IO #1/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:position_source_type
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.413] [Netty Epoll Server IO #1/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:height_provider_type
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.413] [Netty Epoll Server IO #1/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:rule_block_entity_modifier
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.413] [Netty Epoll Server IO #1/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/density_function_type
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.413] [Netty Epoll Server IO #1/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:fluid
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.413] [Netty Epoll Server IO #1/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_condition_type
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.413] [Netty Epoll Server IO #1/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_pool_element
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.413] [Netty Epoll Server IO #1/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:activity
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.413] [Netty Epoll Server IO #1/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:block_type
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.413] [Netty Epoll Server IO #1/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:recipe_serializer
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.413] [Netty Epoll Server IO #1/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:frog_variant
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.413] [Netty Epoll Server IO #1/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:banner_pattern
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.413] [Netty Epoll Server IO #1/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:instrument
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.413] [Netty Epoll Server IO #1/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:decorated_pot_patterns
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.413] [Netty Epoll Server IO #1/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/feature_size_type
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.413] [Netty Epoll Server IO #1/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:point_of_interest_type
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.413] [Netty Epoll Server IO #1/DEBUG] [FabricRegistrySync/]: Syncing registry: minecraft:mob_effect
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.413] [Netty Epoll Server IO #1/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_pool_entry_type
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.413] [Netty Epoll Server IO #1/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/block_state_provider_type
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.413] [Netty Epoll Server IO #1/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/chunk_generator
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.413] [Netty Epoll Server IO #1/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:float_provider_type
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.413] [Netty Epoll Server IO #1/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:chunk_status
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.413] [Netty Epoll Server IO #1/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:enchantment
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.413] [Netty Epoll Server IO #1/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_function_type
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.413] [Netty Epoll Server IO #1/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_processor
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.413] [Netty Epoll Server IO #1/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_score_provider_type
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.413] [Netty Epoll Server IO #1/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/tree_decorator_type
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.413] [Netty Epoll Server IO #1/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:schedule
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.413] [Netty Epoll Server IO #1/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/material_condition
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.413] [Netty Epoll Server IO #1/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/pool_alias_binding
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.413] [Netty Epoll Server IO #1/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:entity_type
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.413] [Netty Epoll Server IO #1/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:villager_profession
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.413] [Netty Epoll Server IO #1/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:potion
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.413] [Netty Epoll Server IO #1/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:recipe_type
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.413] [Netty Epoll Server IO #1/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:int_provider_type
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.413] [Netty Epoll Server IO #1/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/feature
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.413] [Netty Epoll Server IO #1/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:cat_variant
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.413] [Netty Epoll Server IO #1/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:pos_rule_test
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.413] [Netty Epoll Server IO #1/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_placement
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.413] [Netty Epoll Server IO #1/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_nbt_provider_type
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.413] [Netty Epoll Server IO #1/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:menu
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.413] [Netty Epoll Server IO #1/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/trunk_placer_type
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.413] [Netty Epoll Server IO #1/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:creative_mode_tab
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.413] [Netty Epoll Server IO #1/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/placement_modifier_type
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.413] [Netty Epoll Server IO #1/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/carver
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.413] [Netty Epoll Server IO #1/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_number_provider_type
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.413] [Netty Epoll Server IO #1/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_piece
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.413] [Netty Epoll Server IO #1/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:sound_event
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.413] [Netty Epoll Server IO #1/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:particle_type
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.413] [Netty Epoll Server IO #1/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:game_event
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.413] [Netty Epoll Server IO #1/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/biome_source
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.413] [Netty Epoll Server IO #1/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/root_placer_type
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.413] [Netty Epoll Server IO #1/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:villager_type
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.413] [Netty Epoll Server IO #1/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:painting_variant
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.413] [Netty Epoll Server IO #1/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:block_predicate_type
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.413] [Netty Epoll Server IO #1/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:block
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.413] [Netty Epoll Server IO #1/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:trigger_type
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.413] [Netty Epoll Server IO #1/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:sensor_type
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.413] [Netty Epoll Server IO #1/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:rule_test
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.413] [Netty Epoll Server IO #1/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:memory_module_type
+Netty Epoll Server IO #1Ex[30May2025 01:19:40.614] [Netty Epoll Server IO #1/DEBUG] [ServerConfigurationNetworkAddon for RICHARDESC207/]: Handling inbound packet from channel with name "fabric:registry/sync/complete"
+Netty Epoll Server IO #1Ex[30May2025 01:19:41.026] [Netty Epoll Server IO #1/DEBUG] [ServerConfigurationNetworkAddon for RICHARDESC207/]: Handling inbound packet from channel with name "c:version"
+Netty Epoll Server IO #1Ex[30May2025 01:19:41.026] [Netty Epoll Server IO #1/DEBUG] [ServerConfigurationNetworkAddon for RICHARDESC207/]: Negotiated common packet version 1
+Netty Epoll Server IO #1Ex[30May2025 01:19:41.220] [Netty Epoll Server IO #1/DEBUG] [ServerConfigurationNetworkAddon for RICHARDESC207/]: Handling inbound packet from channel with name "c:register"
+Netty Epoll Server IO #1Ex[30May2025 01:19:41.220] [Netty Epoll Server IO #1/DEBUG] [fabric-networking-api-v1/]: Received accepted channels from the client for play phase
+Netty Epoll Server IO #1Ex[30May2025 01:19:41.425] [Netty Epoll Server IO #1/DEBUG] [ServerConfigurationNetworkAddon for RICHARDESC207/]: Handling inbound packet from channel with name "fabric:custom_ingredient_sync"
+Netty Epoll Server IO #1Ex[30May2025 01:19:41.651] [Server thread/INFO] [net.minecraft.class_3324/]: RICHARDESC207[/127.42.195.91:47519] logged in with entity id 38117 at (-67.30000001192093, 62.0, -226.69999998807907)
+Server threadEx[30May2025 01:19:41.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RICHARDESC207 joined the game
+Server threadEx[30May2025 01:19:41.660] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting default state of RICHARDESC207: {disabled=false, disconnected=true, uuid=28a214db-3f8e-3c87-a1f8-75c3acbe8cd0, name=RICHARDESC207, group=null}
+Server threadEx[30May2025 01:19:42.082] [Netty Epoll Server IO #1/DEBUG] [ServerPlayNetworkAddon for literal{RICHARDESC207}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell RICHARDESC207 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@a5f1d542],insertion=RICHARDESC207}]/]: Handling inbound packet from channel with name "voicechat:request_secret"
+Netty Epoll Server IO #1Ex[30May2025 01:19:42.082] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RICHARDESC207 (18)
+Server threadEx[30May2025 01:19:42.082] [Server thread/DEBUG] [voicechat/]: [voicechat] Sending initial states to RICHARDESC207
+Server threadEx[30May2025 01:19:42.082] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with RICHARDESC207
+Server threadEx[30May2025 01:19:42.083] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with RICHARDESC207
+Server threadEx[30May2025 01:19:42.083] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RICHARDESC207
+Server threadEx[30May2025 01:19:42.096] [Netty Epoll Server IO #1/DEBUG] [ServerPlayNetworkAddon for literal{RICHARDESC207}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell RICHARDESC207 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@a5f1d542],insertion=RICHARDESC207}]/]: Handling inbound packet from channel with name "minecraft:register"
+Netty Epoll Server IO #1Ex[30May2025 01:19:42.182] [Netty Epoll Server IO #1/DEBUG] [ServerPlayNetworkAddon for literal{RICHARDESC207}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell RICHARDESC207 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@a5f1d542],insertion=RICHARDESC207}]/]: Handling inbound packet from channel with name "xaerominimap:main"
+Netty Epoll Server IO #1Ex[30May2025 01:19:42.196] [Netty Epoll Server IO #1/DEBUG] [ServerPlayNetworkAddon for literal{RICHARDESC207}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell RICHARDESC207 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@a5f1d542],insertion=RICHARDESC207}]/]: Handling inbound packet from channel with name "xaeroworldmap:main"
+Netty Epoll Server IO #1Ex[30May2025 01:19:42.337] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 28a214db-3f8e-3c87-a1f8-75c3acbe8cd0
+VoiceChatPacketProcessingThreadEx[30May2025 01:19:43.002] [Netty Epoll Server IO #1/DEBUG] [ServerPlayNetworkAddon for literal{RICHARDESC207}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell RICHARDESC207 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@a5f1d542],insertion=RICHARDESC207}]/]: Handling inbound packet from channel with name "xaerominimap:main"
+Netty Epoll Server IO #1Ex[30May2025 01:19:43.002] [Netty Epoll Server IO #1/DEBUG] [ServerPlayNetworkAddon for literal{RICHARDESC207}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell RICHARDESC207 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@a5f1d542],insertion=RICHARDESC207}]/]: Handling inbound packet from channel with name "xaeroworldmap:main"
+Netty Epoll Server IO #1Ex[30May2025 01:19:43.343] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 28a214db-3f8e-3c87-a1f8-75c3acbe8cd0
+VoiceChatPacketProcessingThreadEx[30May2025 01:19:43.343] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of RICHARDESC207 to connected: {disabled=false, disconnected=false, uuid=28a214db-3f8e-3c87-a1f8-75c3acbe8cd0, name=RICHARDESC207, group=null}
+VoiceChatPacketProcessingThreadEx[30May2025 01:19:43.344] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player RICHARDESC207 (28a214db-3f8e-3c87-a1f8-75c3acbe8cd0) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[30May2025 01:19:43.483] [Netty Epoll Server IO #1/DEBUG] [ServerPlayNetworkAddon for literal{RICHARDESC207}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell RICHARDESC207 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@a5f1d542],insertion=RICHARDESC207}]/]: Handling inbound packet from channel with name "voicechat:update_state"
+Netty Epoll Server IO #1Ex[30May2025 01:19:43.483] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of RICHARDESC207: {disabled=false, disconnected=false, uuid=28a214db-3f8e-3c87-a1f8-75c3acbe8cd0, name=RICHARDESC207, group=null}
+Server threadEx[30May2025 01:19:48.994] [Worker-Main-3/DEBUG] [FabricLoader/Mixin/]: Mixing world.level.block.SculkSpreaderMixin from mixins.arclight.core.json into net.minecraft.class_7128
+Worker-Main-3Ex[30May2025 01:19:48.998] [Worker-Main-3/DEBUG] [FabricLoader/Mixin/]: mixins.arclight.core.json:world.level.block.SculkSpreaderMixin from mod arclight->@Inject::arclight$bloomEvent(Lnet/minecraft/class_7128$class_7129;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V does use it's CallbackInfo
+Worker-Main-3Ex[30May2025 01:20:13.982] [Server thread/DEBUG] [FabricLoader/Mixin/]: Mixing world.level.gameevent.vibrations.VibrationListenerMixin from mixins.arclight.core.json into net.minecraft.class_8514$class_8516
+Server threadEx[30May2025 01:20:17.017] [Async Chat Thread - #56/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RICHARDESC207> tengo nauseas por 8 minutos
+Async Chat Thread - #56Ex[30May2025 01:20:23.614] [Server thread/DEBUG] [FabricLoader/Mixin/]: Mixing world.level.block.entity.SculkCatalystBlockEntity_CatalystListenerMixin from mixins.arclight.core.json into net.minecraft.class_7132$class_8510
+Server threadEx[30May2025 01:20:33.186] [Async Chat Thread - #56/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Trejos1111> pero ya revivio
+Async Chat Thread - #56Ex[30May2025 01:20:38.094] [Async Chat Thread - #57/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Trejos1111> ?
+Async Chat Thread - #57Ex[30May2025 01:20:41.675] [Async Chat Thread - #56/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RICHARDESC207> si
+Async Chat Thread - #56Ex[30May2025 01:20:52.240] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /effect clear RICHARDESC207
+Server threadEx[30May2025 01:20:52.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Trejos1111: Removed every effect from RICHARDESC207]
+Server threadEx[30May2025 01:21:00.244] [Async Chat Thread - #57/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Trejos1111> listo
+Async Chat Thread - #57Ex[30May2025 01:21:12.001] [Async Chat Thread - #57/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RICHARDESC207> bien
+Async Chat Thread - #57Ex[30May2025 01:21:13.826] [Netty Epoll Server IO #1/DEBUG] [ServerPlayNetworkAddon for literal{RICHARDESC207}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell RICHARDESC207 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@a5f1d542],insertion=RICHARDESC207}]/]: Handling inbound packet from channel with name "voicechat:update_state"
+Netty Epoll Server IO #1Ex[30May2025 01:21:13.827] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of RICHARDESC207: {disabled=false, disconnected=false, uuid=28a214db-3f8e-3c87-a1f8-75c3acbe8cd0, name=RICHARDESC207, group=null}
+Server threadEx[30May2025 01:21:14.746] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 28a214db-3f8e-3c87-a1f8-75c3acbe8cd0 timed out
+VoiceChatPacketProcessingThreadEx[30May2025 01:21:14.746] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player RICHARDESC207
+VoiceChatPacketProcessingThreadEx[30May2025 01:21:14.746] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to RICHARDESC207
+VoiceChatPacketProcessingThreadEx[30May2025 01:21:14.747] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with RICHARDESC207
+VoiceChatPacketProcessingThreadEx[30May2025 01:21:14.747] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with RICHARDESC207
+VoiceChatPacketProcessingThreadEx[30May2025 01:21:14.747] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to RICHARDESC207
+VoiceChatPacketProcessingThreadEx[30May2025 01:21:14.747] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 28a214db-3f8e-3c87-a1f8-75c3acbe8cd0 to disconnected: {disabled=false, disconnected=true, uuid=28a214db-3f8e-3c87-a1f8-75c3acbe8cd0, name=RICHARDESC207, group=null}
+VoiceChatPacketProcessingThreadEx[30May2025 01:21:14.885] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 28a214db-3f8e-3c87-a1f8-75c3acbe8cd0
+VoiceChatPacketProcessingThreadEx[30May2025 01:21:15.891] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 28a214db-3f8e-3c87-a1f8-75c3acbe8cd0
+VoiceChatPacketProcessingThreadEx[30May2025 01:21:15.891] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of RICHARDESC207 to connected: {disabled=false, disconnected=false, uuid=28a214db-3f8e-3c87-a1f8-75c3acbe8cd0, name=RICHARDESC207, group=null}
+VoiceChatPacketProcessingThreadEx[30May2025 01:21:15.891] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player RICHARDESC207 (28a214db-3f8e-3c87-a1f8-75c3acbe8cd0) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[30May2025 01:21:16.024] [Netty Epoll Server IO #1/DEBUG] [ServerPlayNetworkAddon for literal{RICHARDESC207}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell RICHARDESC207 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@a5f1d542],insertion=RICHARDESC207}]/]: Handling inbound packet from channel with name "voicechat:update_state"
+Netty Epoll Server IO #1Ex[30May2025 01:21:16.024] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of RICHARDESC207: {disabled=false, disconnected=false, uuid=28a214db-3f8e-3c87-a1f8-75c3acbe8cd0, name=RICHARDESC207, group=null}
+Server threadEx[30May2025 01:22:42.349] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 lost connection: Disconnected
+Server threadEx[30May2025 01:22:42.349] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Trejos1111
+Server threadEx[30May2025 01:22:42.349] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Trejos1111
+Server threadEx[30May2025 01:22:42.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trejos1111 left the game
+Server threadEx[30May2025 01:25:33.255] [User Authenticator #13/INFO] [net.minecraft.class_3248/]: UUID of player Trejos1111 is a9438318-3f43-38b6-893d-7245ccfe2514
+User Authenticator #13Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [ServerConfigurationNetworkAddon for Trejos1111/]: Handling inbound packet from channel with name "minecraft:register"
+Netty Epoll Server IO #5Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:command_argument_type
+Netty Epoll Server IO #5Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:item
+Netty Epoll Server IO #5Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:block_entity_type
+Netty Epoll Server IO #5Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:custom_stat
+Netty Epoll Server IO #5Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/foliage_placer_type
+Netty Epoll Server IO #5Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:number_format_type
+Netty Epoll Server IO #5Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:stat_type
+Netty Epoll Server IO #5Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/material_rule
+Netty Epoll Server IO #5Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_type
+Netty Epoll Server IO #5Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:attribute
+Netty Epoll Server IO #5Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:position_source_type
+Netty Epoll Server IO #5Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:height_provider_type
+Netty Epoll Server IO #5Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:rule_block_entity_modifier
+Netty Epoll Server IO #5Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/density_function_type
+Netty Epoll Server IO #5Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:fluid
+Netty Epoll Server IO #5Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_condition_type
+Netty Epoll Server IO #5Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_pool_element
+Netty Epoll Server IO #5Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:activity
+Netty Epoll Server IO #5Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:block_type
+Netty Epoll Server IO #5Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:recipe_serializer
+Netty Epoll Server IO #5Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:frog_variant
+Netty Epoll Server IO #5Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:banner_pattern
+Netty Epoll Server IO #5Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:instrument
+Netty Epoll Server IO #5Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:decorated_pot_patterns
+Netty Epoll Server IO #5Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/feature_size_type
+Netty Epoll Server IO #5Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:point_of_interest_type
+Netty Epoll Server IO #5Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [FabricRegistrySync/]: Syncing registry: minecraft:mob_effect
+Netty Epoll Server IO #5Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_pool_entry_type
+Netty Epoll Server IO #5Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/block_state_provider_type
+Netty Epoll Server IO #5Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/chunk_generator
+Netty Epoll Server IO #5Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:float_provider_type
+Netty Epoll Server IO #5Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:chunk_status
+Netty Epoll Server IO #5Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:enchantment
+Netty Epoll Server IO #5Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_function_type
+Netty Epoll Server IO #5Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_processor
+Netty Epoll Server IO #5Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_score_provider_type
+Netty Epoll Server IO #5Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/tree_decorator_type
+Netty Epoll Server IO #5Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:schedule
+Netty Epoll Server IO #5Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/material_condition
+Netty Epoll Server IO #5Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/pool_alias_binding
+Netty Epoll Server IO #5Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:entity_type
+Netty Epoll Server IO #5Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:villager_profession
+Netty Epoll Server IO #5Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:potion
+Netty Epoll Server IO #5Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:recipe_type
+Netty Epoll Server IO #5Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:int_provider_type
+Netty Epoll Server IO #5Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/feature
+Netty Epoll Server IO #5Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:cat_variant
+Netty Epoll Server IO #5Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:pos_rule_test
+Netty Epoll Server IO #5Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_placement
+Netty Epoll Server IO #5Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_nbt_provider_type
+Netty Epoll Server IO #5Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:menu
+Netty Epoll Server IO #5Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/trunk_placer_type
+Netty Epoll Server IO #5Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:creative_mode_tab
+Netty Epoll Server IO #5Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/placement_modifier_type
+Netty Epoll Server IO #5Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/carver
+Netty Epoll Server IO #5Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_number_provider_type
+Netty Epoll Server IO #5Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_piece
+Netty Epoll Server IO #5Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:sound_event
+Netty Epoll Server IO #5Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:particle_type
+Netty Epoll Server IO #5Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:game_event
+Netty Epoll Server IO #5Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/biome_source
+Netty Epoll Server IO #5Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/root_placer_type
+Netty Epoll Server IO #5Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:villager_type
+Netty Epoll Server IO #5Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:painting_variant
+Netty Epoll Server IO #5Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:block_predicate_type
+Netty Epoll Server IO #5Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:block
+Netty Epoll Server IO #5Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:trigger_type
+Netty Epoll Server IO #5Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:sensor_type
+Netty Epoll Server IO #5Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:rule_test
+Netty Epoll Server IO #5Ex[30May2025 01:25:33.873] [Netty Epoll Server IO #5/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:memory_module_type
+Netty Epoll Server IO #5Ex[30May2025 01:25:34.178] [Netty Epoll Server IO #5/DEBUG] [ServerConfigurationNetworkAddon for Trejos1111/]: Handling inbound packet from channel with name "fabric:registry/sync/complete"
+Netty Epoll Server IO #5Ex[30May2025 01:25:34.455] [Netty Epoll Server IO #5/DEBUG] [ServerConfigurationNetworkAddon for Trejos1111/]: Handling inbound packet from channel with name "c:version"
+Netty Epoll Server IO #5Ex[30May2025 01:25:34.455] [Netty Epoll Server IO #5/DEBUG] [ServerConfigurationNetworkAddon for Trejos1111/]: Negotiated common packet version 1
+Netty Epoll Server IO #5Ex[30May2025 01:25:34.559] [Netty Epoll Server IO #5/DEBUG] [ServerConfigurationNetworkAddon for Trejos1111/]: Handling inbound packet from channel with name "c:register"
+Netty Epoll Server IO #5Ex[30May2025 01:25:34.559] [Netty Epoll Server IO #5/DEBUG] [fabric-networking-api-v1/]: Received accepted channels from the client for play phase
+Netty Epoll Server IO #5Ex[30May2025 01:25:34.660] [Netty Epoll Server IO #5/DEBUG] [ServerConfigurationNetworkAddon for Trejos1111/]: Handling inbound packet from channel with name "fabric:custom_ingredient_sync"
+Netty Epoll Server IO #5Ex[30May2025 01:25:34.781] [Server thread/INFO] [net.minecraft.class_3324/]: Trejos1111[/127.156.60.163:58947] logged in with entity id 41007 at (-818.3078371636467, 62.0, -687.3952122946185)
+Server threadEx[30May2025 01:25:34.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trejos1111 joined the game
+Server threadEx[30May2025 01:25:34.792] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting default state of Trejos1111: {disabled=false, disconnected=true, uuid=a9438318-3f43-38b6-893d-7245ccfe2514, name=Trejos1111, group=null}
+Server threadEx[30May2025 01:25:35.246] [Netty Epoll Server IO #5/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "voicechat:request_secret"
+Netty Epoll Server IO #5Ex[30May2025 01:25:35.417] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Trejos1111 (18)
+Server threadEx[30May2025 01:25:35.417] [Server thread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Trejos1111
+Server threadEx[30May2025 01:25:35.417] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Trejos1111
+Server threadEx[30May2025 01:25:35.417] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Trejos1111
+Server threadEx[30May2025 01:25:35.417] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Trejos1111
+Server threadEx[30May2025 01:25:35.441] [Netty Epoll Server IO #5/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "minecraft:register"
+Netty Epoll Server IO #5Ex[30May2025 01:25:35.511] [Netty Epoll Server IO #5/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "xaerominimap:main"
+Netty Epoll Server IO #5Ex[30May2025 01:25:35.511] [Netty Epoll Server IO #5/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "xaeroworldmap:main"
+Netty Epoll Server IO #5Ex[30May2025 01:25:35.560] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a9438318-3f43-38b6-893d-7245ccfe2514
+VoiceChatPacketProcessingThreadEx[30May2025 01:25:36.561] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a9438318-3f43-38b6-893d-7245ccfe2514
+VoiceChatPacketProcessingThreadEx[30May2025 01:25:36.561] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Trejos1111 to connected: {disabled=false, disconnected=false, uuid=a9438318-3f43-38b6-893d-7245ccfe2514, name=Trejos1111, group=null}
+VoiceChatPacketProcessingThreadEx[30May2025 01:25:36.561] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Trejos1111 (a9438318-3f43-38b6-893d-7245ccfe2514) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[30May2025 01:25:36.664] [Netty Epoll Server IO #5/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "voicechat:update_state"
+Netty Epoll Server IO #5Ex[30May2025 01:25:36.665] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Trejos1111: {disabled=false, disconnected=false, uuid=a9438318-3f43-38b6-893d-7245ccfe2514, name=Trejos1111, group=null}
+Server threadEx[30May2025 01:25:36.988] [Netty Epoll Server IO #5/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "xaerominimap:main"
+Netty Epoll Server IO #5Ex[30May2025 01:25:36.988] [Netty Epoll Server IO #5/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "xaeroworldmap:main"
+Netty Epoll Server IO #5Ex[30May2025 01:26:27.708] [User Authenticator #14/INFO] [net.minecraft.class_3248/]: UUID of player Dezar68 is 8243e5ad-1a2b-3b0f-9f08-d41dee077115
+User Authenticator #14Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [ServerConfigurationNetworkAddon for Dezar68/]: Handling inbound packet from channel with name "minecraft:register"
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:command_argument_type
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:item
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:block_entity_type
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:custom_stat
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/foliage_placer_type
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:number_format_type
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:stat_type
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/material_rule
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_type
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:attribute
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:position_source_type
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:height_provider_type
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:rule_block_entity_modifier
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/density_function_type
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:fluid
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_condition_type
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_pool_element
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:activity
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:block_type
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:recipe_serializer
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:frog_variant
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:banner_pattern
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:instrument
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:decorated_pot_patterns
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/feature_size_type
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:point_of_interest_type
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Syncing registry: minecraft:mob_effect
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_pool_entry_type
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/block_state_provider_type
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/chunk_generator
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:float_provider_type
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:chunk_status
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:enchantment
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_function_type
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_processor
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_score_provider_type
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/tree_decorator_type
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:schedule
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/material_condition
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/pool_alias_binding
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:entity_type
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:villager_profession
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:potion
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:recipe_type
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:int_provider_type
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/feature
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:cat_variant
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:pos_rule_test
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_placement
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_nbt_provider_type
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:menu
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/trunk_placer_type
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:creative_mode_tab
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/placement_modifier_type
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/carver
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_number_provider_type
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_piece
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:sound_event
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:particle_type
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:game_event
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/biome_source
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/root_placer_type
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:villager_type
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:painting_variant
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:block_predicate_type
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Skipping un-modded registry: minecraft:block
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:trigger_type
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:sensor_type
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:rule_test
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.104] [Netty Epoll Server IO #0/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:memory_module_type
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.330] [Netty Epoll Server IO #0/DEBUG] [ServerConfigurationNetworkAddon for Dezar68/]: Handling inbound packet from channel with name "fabric:registry/sync/complete"
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.570] [Netty Epoll Server IO #0/DEBUG] [ServerConfigurationNetworkAddon for Dezar68/]: Handling inbound packet from channel with name "c:version"
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.570] [Netty Epoll Server IO #0/DEBUG] [ServerConfigurationNetworkAddon for Dezar68/]: Negotiated common packet version 1
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.696] [Netty Epoll Server IO #0/DEBUG] [ServerConfigurationNetworkAddon for Dezar68/]: Handling inbound packet from channel with name "c:register"
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.696] [Netty Epoll Server IO #0/DEBUG] [fabric-networking-api-v1/]: Received accepted channels from the client for play phase
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.815] [Netty Epoll Server IO #0/DEBUG] [ServerConfigurationNetworkAddon for Dezar68/]: Handling inbound packet from channel with name "fabric:custom_ingredient_sync"
+Netty Epoll Server IO #0Ex[30May2025 01:26:28.957] [Server thread/INFO] [net.minecraft.class_3324/]: Dezar68[/127.129.89.92:38209] logged in with entity id 41869 at (35.5, 71.0, -62.5)
+Server threadEx[30May2025 01:26:28.960] [Server thread/WARN] [AdvancedTeleport/]: First-join teleport point  does not exist.
+Server threadEx[30May2025 01:26:28.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dezar68 joined the game
+Server threadEx[30May2025 01:26:28.962] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting default state of Dezar68: {disabled=false, disconnected=true, uuid=8243e5ad-1a2b-3b0f-9f08-d41dee077115, name=Dezar68, group=null}
+Server threadEx[30May2025 01:26:29.877] [Netty Epoll Server IO #0/DEBUG] [ServerPlayNetworkAddon for literal{Dezar68}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Dezar68 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@241dbd58],insertion=Dezar68}]/]: Handling inbound packet from channel with name "voicechat:request_secret"
+Netty Epoll Server IO #0Ex[30May2025 01:26:29.877] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dezar68 (18)
+Server threadEx[30May2025 01:26:29.877] [Server thread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Dezar68
+Server threadEx[30May2025 01:26:29.877] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Dezar68
+Server threadEx[30May2025 01:26:29.877] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Dezar68
+Server threadEx[30May2025 01:26:29.877] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dezar68
+Server threadEx[30May2025 01:26:29.914] [Netty Epoll Server IO #0/DEBUG] [ServerPlayNetworkAddon for literal{Dezar68}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Dezar68 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@241dbd58],insertion=Dezar68}]/]: Handling inbound packet from channel with name "minecraft:register"
+Netty Epoll Server IO #0Ex[30May2025 01:26:30.157] [Netty Epoll Server IO #0/DEBUG] [ServerPlayNetworkAddon for literal{Dezar68}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Dezar68 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@241dbd58],insertion=Dezar68}]/]: Handling inbound packet from channel with name "xaerominimap:main"
+Netty Epoll Server IO #0Ex[30May2025 01:26:30.157] [Netty Epoll Server IO #0/DEBUG] [ServerPlayNetworkAddon for literal{Dezar68}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Dezar68 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@241dbd58],insertion=Dezar68}]/]: Handling inbound packet from channel with name "xaeroworldmap:main"
+Netty Epoll Server IO #0Ex[30May2025 01:26:30.205] [Netty Epoll Server IO #0/DEBUG] [ServerPlayNetworkAddon for literal{Dezar68}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Dezar68 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@241dbd58],insertion=Dezar68}]/]: Handling inbound packet from channel with name "xaerominimap:main"
+Netty Epoll Server IO #0Ex[30May2025 01:26:30.205] [Netty Epoll Server IO #0/DEBUG] [ServerPlayNetworkAddon for literal{Dezar68}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Dezar68 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@241dbd58],insertion=Dezar68}]/]: Handling inbound packet from channel with name "xaeroworldmap:main"
+Netty Epoll Server IO #0Ex[30May2025 01:26:30.216] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8243e5ad-1a2b-3b0f-9f08-d41dee077115
+VoiceChatPacketProcessingThreadEx[30May2025 01:26:31.215] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8243e5ad-1a2b-3b0f-9f08-d41dee077115
+VoiceChatPacketProcessingThreadEx[30May2025 01:26:31.215] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Dezar68 to connected: {disabled=false, disconnected=false, uuid=8243e5ad-1a2b-3b0f-9f08-d41dee077115, name=Dezar68, group=null}
+VoiceChatPacketProcessingThreadEx[30May2025 01:26:31.215] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dezar68 (8243e5ad-1a2b-3b0f-9f08-d41dee077115) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[30May2025 01:26:31.310] [Netty Epoll Server IO #0/DEBUG] [ServerPlayNetworkAddon for literal{Dezar68}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Dezar68 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@241dbd58],insertion=Dezar68}]/]: Handling inbound packet from channel with name "voicechat:update_state"
+Netty Epoll Server IO #0Ex[30May2025 01:26:31.310] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dezar68: {disabled=true, disconnected=false, uuid=8243e5ad-1a2b-3b0f-9f08-d41dee077115, name=Dezar68, group=null}
+Server threadEx[30May2025 01:26:41.967] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=44, y=69, z=-77}
+Server threadEx[30May2025 01:26:42.466] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=44, y=70, z=-77}
+Server threadEx[30May2025 01:26:58.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: electricidiZAP has made the advancement [Acquire Hardware]
+Server threadEx[30May2025 01:26:58.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RICHARDESC207 has made the advancement [Acquire Hardware]
+Server threadEx[30May2025 01:28:06.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dezar68 has made the advancement [Stone Age]
+Server threadEx[30May2025 01:28:22.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dezar68 has made the advancement [Getting an Upgrade]
+Server threadEx[30May2025 01:30:34.891] [Netty Epoll Server IO #3/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class io/netty/handler/timeout/IdleStateHandler$2
+Netty Epoll Server IO #3Ex[30May2025 01:31:27.618] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /grave
+Server threadEx[30May2025 01:31:43.021] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /reload
+Server threadEx[30May2025 01:31:43.022] [Server thread/INFO] [Console/]: Trejos1111: Please note that this command is not supported and may cause issues when using some plugins.
+Server threadEx[30May2025 01:31:43.023] [Server thread/INFO] [Console/]: Trejos1111: If you encounter any issues please use the /stop command to restart your server.
+Server threadEx[30May2025 01:31:43.025] [Server thread/INFO] [BetterRevive/]: Disabling BetterRevive v0.9.1-BETA
+Server threadEx[30May2025 01:31:43.027] [Server thread/INFO] [Console/]:  
+Server threadEx[30May2025 01:31:43.027] [Server thread/INFO] [Console/]: [BetterRevive] Plugin has been disabled!
+Server threadEx[30May2025 01:31:43.027] [Server thread/INFO] [Console/]: [BetterRevive] Thank you for using my plugin!
+Server threadEx[30May2025 01:31:43.027] [Server thread/INFO] [Console/]:  
+Server threadEx[30May2025 01:31:43.029] [Server thread/INFO] [AdvancedTeleport/]: Disabling AdvancedTeleport v6.1.3
+Server threadEx[30May2025 01:31:43.031] [Server thread/INFO] [NBTAPI/]: Disabling NBTAPI v2.15.0
+Server threadEx[30May2025 01:31:43.032] [Server thread/INFO] [ConditionalEvents/]: Disabling ConditionalEvents v4.62.2
+Server threadEx[30May2025 01:31:43.032] [Server thread/INFO] [Console/]: [ConditionalEvents] Has been disabled! Version: 4.62.2
+Server threadEx[30May2025 01:31:43.032] [Server thread/INFO] [SkinsRestorer/]: Disabling SkinsRestorer v15.6.4
+Server threadEx[30May2025 01:31:43.065] [Server thread/INFO] [LuckPerms/]: Disabling LuckPerms v5.5.0
+Server threadEx[30May2025 01:31:43.065] [Server thread/INFO] [LuckPerms/]: Starting shutdown process...
+Server threadEx[30May2025 01:31:43.073] [Server thread/INFO] [LuckPerms/]: Closing storage...
+Server threadEx[30May2025 01:31:43.078] [Server thread/INFO] [LuckPerms/]: Goodbye!
+Server threadEx[30May2025 01:31:43.079] [Server thread/INFO] [Graves/]: Disabling Graves v4.9
+Server threadEx[30May2025 01:31:43.091] [Server thread/DEBUG] [net.fabricmc.fabric.impl.resource.loader.ModResourcePackUtil/]: [Fabric] Starting internal pack sorting with: [vanilla, fabric, fabric-convention-tags-v1]
+Server threadEx[30May2025 01:31:43.091] [Server thread/DEBUG] [net.fabricmc.fabric.impl.resource.loader.ModResourcePackUtil/]: [Fabric] Removed all internal packs, result: [vanilla, fabric]
+Server threadEx[30May2025 01:31:43.091] [Server thread/DEBUG] [net.fabricmc.fabric.impl.resource.loader.ModResourcePackUtil/]: [Fabric] cur @ fabric, auto-enabled fabric-convention-tags-v1, currently enabled: [vanilla, fabric, fabric-convention-tags-v1]
+Server threadEx[30May2025 01:31:43.091] [Server thread/DEBUG] [net.fabricmc.fabric.impl.resource.loader.ModResourcePackUtil/]: [Fabric] Final sorting result: [vanilla, fabric, fabric-convention-tags-v1]
+Server threadEx[30May2025 01:31:43.315] [Server thread/INFO] [net.minecraft.class_1863/]: Loaded 7 recipes
+Server threadEx[30May2025 01:31:43.394] [Server thread/INFO] [net.minecraft.class_163/]: Loaded 1271 advancements
+Server threadEx[30May2025 01:31:43.397] [Server thread/DEBUG] [net.fabricmc.fabric.impl.resource.loader.ModResourcePackUtil/]: [Fabric] Starting internal pack sorting with: [vanilla, fabric, fabric-convention-tags-v1]
+Server threadEx[30May2025 01:31:43.397] [Server thread/DEBUG] [net.fabricmc.fabric.impl.resource.loader.ModResourcePackUtil/]: [Fabric] Removed all internal packs, result: [vanilla, fabric]
+Server threadEx[30May2025 01:31:43.397] [Server thread/DEBUG] [net.fabricmc.fabric.impl.resource.loader.ModResourcePackUtil/]: [Fabric] cur @ fabric, auto-enabled fabric-convention-tags-v1, currently enabled: [vanilla, fabric, fabric-convention-tags-v1]
+Server threadEx[30May2025 01:31:43.397] [Server thread/DEBUG] [net.fabricmc.fabric.impl.resource.loader.ModResourcePackUtil/]: [Fabric] Final sorting result: [vanilla, fabric, fabric-convention-tags-v1]
+Server threadEx[30May2025 01:31:43.872] [Server thread/DEBUG] [org.eclipse.aether.internal.impl.DefaultLocalRepositoryProvider/]: Using manager EnhancedLocalRepositoryManager with priority 10.0 for libraries
+Server threadEx[30May2025 01:31:43.969] [Server thread/ERROR] [Minecraft/]: Could not load 'plugins/homes-2.0.jar'
+Server threadEx org.bukkit.plugin.InvalidPluginException: Unsupported API version 1.21
+	at org.bukkit.craftbukkit.v1_20_R3.util.CraftMagicNumbers.checkSupported(CraftMagicNumbers.java:305) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoaderMixin.java:141) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugin(SimplePluginManager.java:405) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:312) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:121) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.CraftServer.loadPlugins(CraftServerMixin.java:430) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.CraftServer.reload(CraftServerMixin.java:3257) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.Bukkit.reload(Bukkit.java:864) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:27) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:149) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.CraftServer.dispatchCommand(CraftServerMixin.java:887) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:50) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.2.9.jar:?]
+	at net.minecraft.class_8865.method_54416(class_8865.java:29) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8865.execute(class_8865.java:13) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8856.method_54405(class_8856.java:8) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8847.method_54388(class_8847.java:8) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8854.method_54390(class_8854.java:107) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2170.method_54313(CommandsMixin.java:378) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2170.method_9249(CommandsMixin.java:308) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_45010(ServerPlayNetHandlerMixin.java:2896) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_44356(ServerPlayNetHandlerMixin.java:1285) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_5386(class_1255.java:67) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServerMixin.java:797) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServerMixin.java:165) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:130) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServerMixin.java:779) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServerMixin.java:773) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:139) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServerMixin.java:758) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServerMixin.java:2131) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServerMixin.java:270) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[30May2025 01:31:43.976] [Server thread/INFO] [Graves/]: Loading Graves v4.9
+Server threadEx[30May2025 01:31:44.042] [Server thread/INFO] [LuckPerms/]: Loading LuckPerms v5.5.0
+Server threadEx[30May2025 01:31:44.229] [Server thread/INFO] [SkinsRestorer/]: Loading SkinsRestorer v15.6.4
+Server threadEx[30May2025 01:31:44.229] [Server thread/INFO] [ConditionalEvents/]: Loading ConditionalEvents v4.62.2
+Server threadEx[30May2025 01:31:44.230] [Server thread/INFO] [NBTAPI/]: Loading NBTAPI v2.15.0
+Server threadEx[30May2025 01:31:44.235] [Server thread/INFO] [NBTAPI/]: [NBTAPI] Found Minecraft: v1_20_R3! Trying to find NMS support
+Server threadEx[30May2025 01:31:44.235] [Server thread/INFO] [NBTAPI/]: [NBTAPI] NMS support 'MC1_20_R3' loaded!
+Server threadEx[30May2025 01:31:44.236] [Server thread/INFO] [NBTAPI/]: [NBTAPI] Using the plugin 'NBTAPI' to create a bStats instance!
+Server threadEx[30May2025 01:31:44.248] [Server thread/INFO] [AdvancedTeleport/]: Loading AdvancedTeleport v6.1.3
+Server threadEx[30May2025 01:31:44.273] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for gson
+Server threadEx[30May2025 01:31:44.274] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for gson
+Server threadEx[30May2025 01:31:44.280] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for jar-relocator
+Server threadEx[30May2025 01:31:44.280] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for jar-relocator
+Server threadEx[30May2025 01:31:44.280] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for asm
+Server threadEx[30May2025 01:31:44.281] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for asm
+Server threadEx[30May2025 01:31:44.281] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for asm-commons
+Server threadEx[30May2025 01:31:44.281] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for asm-commons
+Server threadEx[30May2025 01:31:44.289] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for gson
+Server threadEx[30May2025 01:31:44.290] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for gson
+Server threadEx[30May2025 01:31:44.449] [Thread-176/INFO] [NBTAPI/]: [NBTAPI] The NBT-API seems to be up-to-date!
+Thread-176Ex[30May2025 01:31:46.741] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for adventure-api
+Server threadEx[30May2025 01:31:46.742] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for adventure-api
+Server threadEx[30May2025 01:31:46.743] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for adventure-key
+Server threadEx[30May2025 01:31:46.744] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for adventure-key
+Server threadEx[30May2025 01:31:46.744] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for examination-api
+Server threadEx[30May2025 01:31:46.744] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for examination-api
+Server threadEx[30May2025 01:31:46.744] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for examination-string
+Server threadEx[30May2025 01:31:46.745] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for examination-string
+Server threadEx[30May2025 01:31:46.745] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for adventure-text-minimessage
+Server threadEx[30May2025 01:31:46.746] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for adventure-text-minimessage
+Server threadEx[30May2025 01:31:46.746] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for adventure-nbt
+Server threadEx[30May2025 01:31:46.746] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for adventure-nbt
+Server threadEx[30May2025 01:31:46.746] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for adventure-text-serializer-plain
+Server threadEx[30May2025 01:31:46.747] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for adventure-text-serializer-plain
+Server threadEx[30May2025 01:31:46.747] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for adventure-platform-bukkit
+Server threadEx[30May2025 01:31:46.748] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for adventure-platform-bukkit
+Server threadEx[30May2025 01:31:46.748] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for adventure-text-serializer-gson-legacy-impl
+Server threadEx[30May2025 01:31:46.748] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for adventure-text-serializer-gson-legacy-impl
+Server threadEx[30May2025 01:31:46.748] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for adventure-text-serializer-gson
+Server threadEx[30May2025 01:31:46.749] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for adventure-text-serializer-gson
+Server threadEx[30May2025 01:31:46.749] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for adventure-text-serializer-json
+Server threadEx[30May2025 01:31:46.749] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for adventure-text-serializer-json
+Server threadEx[30May2025 01:31:46.750] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for option
+Server threadEx[30May2025 01:31:46.750] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for option
+Server threadEx[30May2025 01:31:46.750] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for adventure-platform-facet
+Server threadEx[30May2025 01:31:46.750] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for adventure-platform-facet
+Server threadEx[30May2025 01:31:46.751] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for adventure-platform-api
+Server threadEx[30May2025 01:31:46.751] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for adventure-platform-api
+Server threadEx[30May2025 01:31:46.751] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for adventure-platform-viaversion
+Server threadEx[30May2025 01:31:46.751] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for adventure-platform-viaversion
+Server threadEx[30May2025 01:31:46.752] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for adventure-text-serializer-bungeecord
+Server threadEx[30May2025 01:31:46.752] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for adventure-text-serializer-bungeecord
+Server threadEx[30May2025 01:31:46.752] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for adventure-text-serializer-legacy
+Server threadEx[30May2025 01:31:46.752] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for adventure-text-serializer-legacy
+Server threadEx[30May2025 01:31:46.752] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for bstats-bukkit
+Server threadEx[30May2025 01:31:46.753] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for bstats-bukkit
+Server threadEx[30May2025 01:31:46.753] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for bstats-base
+Server threadEx[30May2025 01:31:46.753] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for bstats-base
+Server threadEx[30May2025 01:31:46.753] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for paperlib
+Server threadEx[30May2025 01:31:46.754] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for paperlib
+Server threadEx[30May2025 01:31:46.754] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for ConfigurationMaster-API
+Server threadEx[30May2025 01:31:46.754] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for ConfigurationMaster-API
+Server threadEx[30May2025 01:31:46.754] [Server thread/INFO] [BetterRevive/]: Loading BetterRevive v0.9.1-BETA
+Server threadEx[30May2025 01:31:46.756] [Server thread/INFO] [LuckPerms/]: Enabling LuckPerms v5.5.0
+Server threadEx[30May2025 01:31:46.911] [Server thread/WARN] [LuckPerms/]: Loaded class net.kyori.adventure.text.Component from AdvancedTeleport v6.1.3 which is not a depend or softdepend of this plugin.
+Server threadEx[30May2025 01:31:47.036] [Server thread/INFO] [Console/]:         __    
+Server threadEx[30May2025 01:31:47.036] [Server thread/INFO] [Console/]:   |    |__)   LuckPerms v5.5.0
+Server threadEx[30May2025 01:31:47.036] [Server thread/INFO] [Console/]:   |___ |      Running on Bukkit - Arclight
+Server threadEx[30May2025 01:31:47.036] [Server thread/INFO] [Console/]: 
+Server threadEx[30May2025 01:31:47.037] [Server thread/INFO] [LuckPerms/]: Loading configuration...
+Server threadEx[30May2025 01:31:47.172] [Server thread/INFO] [LuckPerms/]: Loading storage provider... [H2]
+Server threadEx[30May2025 01:31:47.651] [Server thread/INFO] [LuckPerms/]: Loading internal permission managers...
+Server threadEx[30May2025 01:31:47.708] [Server thread/INFO] [LuckPerms/]: Performing initial data load...
+Server threadEx[30May2025 01:31:47.880] [Server thread/INFO] [LuckPerms/]: Successfully enabled. (took 1124ms)
+Server threadEx[30May2025 01:31:47.881] [Server thread/INFO] [SkinsRestorer/]: Enabling SkinsRestorer v15.6.4
+Server threadEx[30May2025 01:31:48.055] [Server thread/WARN] [SkinsRestorer/]: Loaded class net.kyori.adventure.text.Component from AdvancedTeleport v6.1.3 which is not a depend or softdepend of this plugin.
+Server threadEx[30May2025 01:31:48.073] [Server thread/ERROR] [Minecraft/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mSkinsRestorer was already loaded in this JVM. You must've used a plugin like PlugMan to reload it. This is not supported and will cause issues with the plugin! Please restart your server to reload the plugin properly.[0;39m
+Server threadEx[30May2025 01:31:48.443] [Server thread/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.20.4[32;1m.[0;39m
+Server threadEx[30May2025 01:31:48.715] [Server thread/INFO] [Graves/]: Enabling Graves v4.9
+Server threadEx[30May2025 01:31:48.717] [Server thread/WARN] [Graves/]: Loaded class net.kyori.adventure.text.minimessage.MiniMessage from AdvancedTeleport v6.1.3 which is not a depend or softdepend of this plugin.
+Server threadEx[30May2025 01:31:48.746] [Server thread/INFO] [Graves/]: Integration: Hooked into MiniMessage.
+Server threadEx[30May2025 01:31:48.791] [Server thread/INFO] [ConditionalEvents/]: Enabling ConditionalEvents v4.62.2
+Server threadEx[30May2025 01:31:48.819] [Server thread/INFO] [Console/]: [ConditionalEvents] Has been enabled! Version: 4.62.2
+Server threadEx[30May2025 01:31:48.819] [Server thread/INFO] [Console/]: [ConditionalEvents] Thanks for using my plugin!   ~Ajneb97
+Server threadEx[30May2025 01:31:48.876] [Server thread/INFO] [NBTAPI/]: Enabling NBTAPI v2.15.0
+Server threadEx[30May2025 01:31:48.876] [Server thread/INFO] [NBTAPI/]: Checking bindings...
+Server threadEx[30May2025 01:31:48.896] [Server thread/INFO] [NBTAPI/]: All Classes were able to link!
+Server threadEx[30May2025 01:31:48.915] [Server thread/INFO] [NBTAPI/]: All Methods were able to link!
+Server threadEx[30May2025 01:31:48.915] [Server thread/INFO] [NBTAPI/]: Running NBT reflection test...
+Server threadEx[30May2025 01:31:48.986] [Server thread/INFO] [NBTAPI/]: Success! This version of NBT-API is compatible with your server.
+Server threadEx[30May2025 01:31:48.988] [Server thread/INFO] [AdvancedTeleport/]: Enabling AdvancedTeleport v6.1.3
+Server threadEx[30May2025 01:31:48.997] [Server thread/INFO] [AdvancedTeleport/]: Performing server version check.
+Server threadEx[30May2025 01:31:48.997] [Server thread/INFO] [AdvancedTeleport/]: Detected major version: 20
+Server threadEx[30May2025 01:31:48.997] [Server thread/INFO] [AdvancedTeleport/]: Advanced Teleport is now enabling...
+Server threadEx[30May2025 01:31:48.997] [Server thread/INFO] [AdvancedTeleport/]: Setting up permissions integration with Vault.
+Server threadEx[30May2025 01:31:48.997] [Server thread/INFO] [AdvancedTeleport/]: Vault is not on the server, skipping.
+Server threadEx[30May2025 01:31:49.001] [Server thread/INFO] [AdvancedTeleport/]: Loading MainConfig.
+Server threadEx[30May2025 01:31:49.026] [Server thread/WARN] [AdvancedTeleport/]: Failed to parse payment 0 for command tpa! Error message: net/milkbowl/vault/economy/Economy
+Server threadEx[30May2025 01:31:49.026] [Server thread/WARN] [AdvancedTeleport/]: Failed to parse payment 0 for command tpahere! Error message: net/milkbowl/vault/economy/Economy
+Server threadEx[30May2025 01:31:49.026] [Server thread/WARN] [AdvancedTeleport/]: Failed to parse payment 0 for command tpr! Error message: net/milkbowl/vault/economy/Economy
+Server threadEx[30May2025 01:31:49.026] [Server thread/WARN] [AdvancedTeleport/]: Failed to parse payment 0 for command spawn! Error message: net/milkbowl/vault/economy/Economy
+Server threadEx[30May2025 01:31:49.027] [Server thread/WARN] [AdvancedTeleport/]: Failed to parse payment 0 for command warp! Error message: net/milkbowl/vault/economy/Economy
+Server threadEx[30May2025 01:31:49.027] [Server thread/WARN] [AdvancedTeleport/]: Failed to parse payment 0 for command home! Error message: net/milkbowl/vault/economy/Economy
+Server threadEx[30May2025 01:31:49.027] [Server thread/WARN] [AdvancedTeleport/]: Failed to parse payment 0 for command back! Error message: net/milkbowl/vault/economy/Economy
+Server threadEx[30May2025 01:31:49.173] [Server thread/INFO] [AdvancedTeleport/]: Registered the image warp_default!
+Server threadEx[30May2025 01:31:49.173] [Server thread/INFO] [AdvancedTeleport/]: Registered the image home_default!
+Server threadEx[30May2025 01:31:49.173] [Server thread/INFO] [AdvancedTeleport/]: Registered the image spawn_default!
+Server threadEx[30May2025 01:31:49.218] [Server thread/INFO] [BetterRevive/]: Enabling BetterRevive v0.9.1-BETA
+Server threadEx[30May2025 01:31:49.222] [Server thread/INFO] [Console/]: [BetterRevive] Inventory title with support for more than 32 characters. Skipping..
+Server threadEx[30May2025 01:31:49.222] [Server thread/INFO] [Console/]: [BetterRevive] Hex colors are available! Ready for RGB..
+Server threadEx[30May2025 01:31:49.222] [Server thread/INFO] [Console/]: [BetterRevive] Old constructor for HoverEvent found! Using it..
+Server threadEx[30May2025 01:31:49.222] [Server thread/INFO] [Console/]: [BetterRevive] New sendTitle method found! Using it..
+Server threadEx[30May2025 01:31:49.222] [Server thread/INFO] [Console/]: [BetterRevive] New setUnbreakable method found! Using it..
+Server threadEx[30May2025 01:31:49.222] [Server thread/INFO] [Console/]: [BetterRevive] New isUnbreakable method found! Using it..
+Server threadEx[30May2025 01:31:49.227] [Server thread/INFO] [Console/]:   ___      _   _           ___         _         
+Server threadEx[30May2025 01:31:49.227] [Server thread/INFO] [Console/]:  | _ ) ___| |_| |_ ___ _ _| _ \_____ _(_)_ _____ 
+Server threadEx[30May2025 01:31:49.227] [Server thread/INFO] [Console/]:  | _ \/ -_)  _|  _/ -_) '_|   / -_) V / \ V / -_)
+Server threadEx[30May2025 01:31:49.227] [Server thread/INFO] [Console/]:  |___/\___|\__|\__\___|_| |_|_\___|\_/|_|\_/\___|
+Server threadEx[30May2025 01:31:49.227] [Server thread/INFO] [Console/]: 
+Server threadEx[30May2025 01:31:49.227] [Server thread/INFO] [Console/]:    Running plugin BetterRevive v0.9.1-BETA (v2_0)
+Server threadEx[30May2025 01:31:49.227] [Server thread/INFO] [Console/]:    Server running Arclight version arclight-1.20.4-1.0.4-80ec5df (MC: 1.20.4)
+Server threadEx[30May2025 01:31:49.227] [Server thread/INFO] [Console/]:    (Implementing API version arclight-1.20.4-1.0.4-80ec5df (MC: 1.20.4))
+Server threadEx[30May2025 01:31:49.227] [Server thread/INFO] [Console/]:    (Developed by  AlonsoAliaga - Thanks for using my plugin ❤)
+Server threadEx[30May2025 01:31:49.227] [Server thread/INFO] [Console/]:    If you loved the plugin consider leaving a review and mentioning your server IP in it!
+Server threadEx[30May2025 01:31:49.227] [Server thread/INFO] [Console/]: 
+Server threadEx[30May2025 01:31:49.227] [Server thread/INFO] [Console/]: ==============================================================================================
+Server threadEx[30May2025 01:31:49.227] [Server thread/INFO] [Console/]: [BetterRevive] You are using a Spigot or a Spigot fork (Arclight), plugin should work fine!
+Server threadEx[30May2025 01:31:49.227] [Server thread/INFO] [Console/]: [BetterRevive] If you have issues, join us on our official support server on alonsoaliaga.com/discord
+Server threadEx[30May2025 01:31:49.227] [Server thread/INFO] [Console/]: ==============================================================================================
+Server threadEx[30May2025 01:31:49.227] [Server thread/INFO] [Console/]: 
+Server threadEx[30May2025 01:31:49.228] [Server thread/INFO] [Console/]: [BetterRevive] BungeeCord action bar available. Hooking..
+Server threadEx[30May2025 01:31:49.228] [Server thread/INFO] [Console/]: [BetterRevive] ProtocolLib not found! Skipping..
+Server threadEx[30May2025 01:31:49.231] [Server thread/INFO] [Console/]: [Auto-update] Configuration config.yml is up-to-date!
+Server threadEx[30May2025 01:31:49.231] [Server thread/INFO] [Console/]: [BetterRevive] Factions hook is enabled but couldn't find any supported faction plugin were found. Disabling hook..
+Server threadEx[30May2025 01:31:49.231] [Server thread/INFO] [Console/]: [BetterRevive] Finish off feature has been enabled! Players can finish off other player!
+Server threadEx[30May2025 01:31:49.231] [Server thread/INFO] [Console/]: [BetterRevive] Finish off health: 20 | Finish off damage multiplier: 0.5
+Server threadEx[30May2025 01:31:49.231] [Server thread/INFO] [Console/]: [BetterRevive] DamageCause for finish off is empty! All damage cause will be allowed to finish off players. (Includes DROWING, FIRE, LAVA, etc)
+Server threadEx[30May2025 01:31:49.231] [Server thread/INFO] [Console/]: [BetterRevive] Bleeding mode is 0! Plugin will select the best option for your server!
+Server threadEx[30May2025 01:31:49.231] [Server thread/INFO] [Console/]: [BetterRevive] Server version is v2_0. Players will look like swimming while bleeding! (Mode 2)
+Server threadEx[30May2025 01:31:49.232] [Server thread/INFO] [Console/]: [BetterRevive] Loaded 1 bleeding effects.
+Server threadEx[30May2025 01:31:49.232] [Server thread/INFO] [Console/]: [BetterRevive] Loaded 1 revived effect.
+Server threadEx[30May2025 01:31:49.271] [Server thread/INFO] [Minecraft/]: Server permissions file permissions.yml is empty, ignoring it
+Server threadEx[30May2025 01:31:49.292] [Server thread/INFO] [Console/]: Trejos1111: Reload complete.
+Server threadEx[30May2025 01:31:49.292] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6248ms or 124 ticks behind
+Server threadEx[30May2025 01:31:49.357] [Craft Scheduler Thread - 55/INFO] [AdvancedTeleport/]: Plugin is up to date!
+Craft Scheduler Thread - 55Ex[30May2025 01:31:49.368] [Server thread/WARN] [net.minecraft.class_3244/]: Dezar68 moved too quickly! 20.836400377878704,-0.49520087700592796,-0.26849112521676943
+Server threadEx[30May2025 01:31:49.374] [Server thread/WARN] [net.minecraft.class_3244/]: Trejos1111 moved too quickly! -4.428541464469163,5.166109260938214,-7.713043953026272
+Server threadEx[30May2025 01:31:49.391] [Craft Scheduler Thread - 50/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+Craft Scheduler Thread - 50Ex[30May2025 01:31:49.393] [Craft Scheduler Thread - 50/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+Craft Scheduler Thread - 50Ex[30May2025 01:31:49.393] [Craft Scheduler Thread - 50/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
+Craft Scheduler Thread - 50Ex[30May2025 01:31:49.394] [Craft Scheduler Thread - 50/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
+Craft Scheduler Thread - 50Ex[30May2025 01:31:49.394] [Craft Scheduler Thread - 50/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
+Craft Scheduler Thread - 50Ex[30May2025 01:31:49.394] [Craft Scheduler Thread - 50/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+Craft Scheduler Thread - 50Ex[30May2025 01:31:49.395] [Craft Scheduler Thread - 50/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+Craft Scheduler Thread - 50Ex[30May2025 01:31:49.395] [Craft Scheduler Thread - 50/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.6.4[0;39m
+Craft Scheduler Thread - 50Ex[30May2025 01:31:49.395] [Craft Scheduler Thread - 50/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1m7ee6269[0;39m
+Craft Scheduler Thread - 50Ex[30May2025 01:31:49.395] [Craft Scheduler Thread - 50/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
+Craft Scheduler Thread - 50Ex[30May2025 01:31:49.396] [Craft Scheduler Thread - 50/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+Craft Scheduler Thread - 50Ex[30May2025 01:31:49.396] [Craft Scheduler Thread - 50/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
+Craft Scheduler Thread - 50Ex[30May2025 01:31:49.396] [Craft Scheduler Thread - 50/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
+Craft Scheduler Thread - 50Ex[30May2025 01:31:51.277] [Craft Scheduler Thread - 51/INFO] [Console/]: [BetterRevive] Checking for updates...
+Craft Scheduler Thread - 51Ex[30May2025 01:31:51.277] [Craft Scheduler Thread - 51/INFO] [Console/]: [BetterRevive] Plugin up-to-date! You have the latest version!
+Craft Scheduler Thread - 51Ex[30May2025 01:32:14.629] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/class_2341$1
+Server threadEx[30May2025 01:33:30.529] [Netty Epoll Server IO #3/DEBUG] [ServerPlayNetworkAddon for literal{electricidiZAP}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell electricidiZAP '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@5cc64b3a],insertion=electricidiZAP}]/]: Handling inbound packet from channel with name "voicechat:create_group"
+Netty Epoll Server IO #3Ex[30May2025 01:33:30.533] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of electricidiZAP: {disabled=false, disconnected=false, uuid=6aa611ff-b2fa-3dfd-95c9-3e84212b9752, name=electricidiZAP, group=c0112508-e9ab-4849-a4bf-770513fcdca6}
+Server threadEx[30May2025 01:34:27.456] [Netty Epoll Server IO #0/DEBUG] [ServerPlayNetworkAddon for literal{Dezar68}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Dezar68 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@241dbd58],insertion=Dezar68}]/]: Handling inbound packet from channel with name "voicechat:update_state"
+Netty Epoll Server IO #0Ex[30May2025 01:34:27.456] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Dezar68: {disabled=false, disconnected=false, uuid=8243e5ad-1a2b-3b0f-9f08-d41dee077115, name=Dezar68, group=null}
+Server threadEx[30May2025 01:35:10.422] [Netty Epoll Server IO #1/DEBUG] [ServerPlayNetworkAddon for literal{RICHARDESC207}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell RICHARDESC207 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@a5f1d542],insertion=RICHARDESC207}]/]: Handling inbound packet from channel with name "voicechat:set_group"
+Netty Epoll Server IO #1Ex[30May2025 01:35:10.423] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of RICHARDESC207: {disabled=false, disconnected=false, uuid=28a214db-3f8e-3c87-a1f8-75c3acbe8cd0, name=RICHARDESC207, group=c0112508-e9ab-4849-a4bf-770513fcdca6}
+Server threadEx[30May2025 01:36:20.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dezar68 has made the advancement [Monster Hunter]
+Server threadEx[30May2025 01:36:50.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RICHARDESC207 has made the advancement [Sweet Dreams]
+Server threadEx[30May2025 01:38:22.258] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/class_2745$1
+Server threadEx[30May2025 01:38:22.913] [Server thread/DEBUG] [FabricLoader/Mixin/]: Mixing world.level.block.ChestBlock2_1Mixin from mixins.arclight.core.json into net.minecraft.class_2281$2$1
+Server threadEx[30May2025 01:39:01.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dezar68 has made the advancement [What a Deal!]
+Server threadEx[30May2025 01:40:13.958] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /w Dezar68 eo
+Server threadEx[30May2025 01:40:31.941] [Server thread/INFO] [net.minecraft.class_3244/]: Dezar68 issued server command: /tell Trejos1111 ?
+Server threadEx[30May2025 01:40:37.207] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /w Dezar68 de momento solo herramientas
+Server threadEx[30May2025 01:40:49.121] [Server thread/INFO] [net.minecraft.class_3244/]: Dezar68 issued server command: /tell Trejos1111 como asi ?
+Server threadEx[30May2025 01:40:52.021] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /w Dezar68 de dimanto
+Server threadEx[30May2025 01:40:54.784] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /w Dezar68 de dimante
+Server threadEx[30May2025 01:41:05.113] [Server thread/INFO] [net.minecraft.class_3244/]: Dezar68 issued server command: /tell Trejos1111 a
+Server threadEx[30May2025 01:41:10.418] [Server thread/INFO] [net.minecraft.class_3244/]: Dezar68 issued server command: /tell Trejos1111 ok
+Server threadEx[30May2025 01:41:14.417] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /w Dezar68 para que dure mas de un dia
+Server threadEx[30May2025 01:41:32.053] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /w Dezar68 :)
+Server threadEx[30May2025 01:43:28.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dezar68 has made the advancement [Acquire Hardware]
+Server threadEx[30May2025 01:43:44.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dezar68 has made the advancement [Isn't It Iron Pick]
+Server threadEx[30May2025 01:44:23.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RICHARDESC207 has made the advancement [Isn't It Iron Pick]
+Server threadEx[30May2025 01:44:31.719] [IO-Worker-109/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/class_2507$1
+IO-Worker-109Ex[30May2025 01:44:31.720] [IO-Worker-109/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/class_2487$2
+IO-Worker-109Ex[30May2025 01:47:13.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dezar68 has made the advancement [Diamonds!]
+Server threadEx[30May2025 01:48:16.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: electricidiZAP has made the advancement [Isn't It Iron Pick]
+Server threadEx[30May2025 01:49:12.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: electricidiZAP has made the advancement [Sweet Dreams]
+Server threadEx[30May2025 01:51:47.403] [Server thread/WARN] [net.minecraft.class_3244/]: Oak Boat (vehicle of Trejos1111) moved wrongly! 0.38079370412333446
+Server threadEx[30May2025 01:51:47.403] [Server thread/WARN] [net.minecraft.class_3244/]: Oak Boat (vehicle of Trejos1111) moved wrongly! 0.6674761043418584
+Server threadEx[30May2025 01:51:47.452] [Server thread/WARN] [net.minecraft.class_3244/]: Oak Boat (vehicle of Trejos1111) moved wrongly! 0.9581527182835998
+Server threadEx[30May2025 01:51:47.502] [Server thread/WARN] [net.minecraft.class_3244/]: Oak Boat (vehicle of Trejos1111) moved wrongly! 1.2597134798352272
+Server threadEx[30May2025 01:52:25.604] [Server thread/INFO] [Console/]: [BetterRevive] Absorption amount using reflections is not available!
+Server threadEx[30May2025 01:52:25.606] [Server thread/INFO] [Console/]: %vault_prefix% Dezar68 is bleeding so bad..
+Server threadEx[30May2025 01:52:40.891] [Server thread/INFO] [net.minecraft.class_3244/]: Dezar68 issued server command: /giveup
+Server threadEx[30May2025 01:52:40.916] [Server thread/ERROR] [Minecraft/]: Could not pass event PlayerDeathEvent to Graves v4.9
+Server threadEx org.bukkit.event.EventException: null
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:600) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:587) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactoryMixin.java:928) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at net.minecraft.class_3222.method_6078(ServerPlayerMixin_Vanilla.java:2311) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_5643(LivingEntityMixin.java:4346) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1657.method_5643(PlayerMixin_Vanilla.java:2532) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3222.method_5643(ServerPlayerMixin_Vanilla.java:738) ~[server-intermediary.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.entity.CraftLivingEntity.damage(CraftLivingEntity.java:327) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.entity.CraftLivingEntity.damage(CraftLivingEntity.java:300) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at com.alonsoaliaga.betterrevive.commands.GiveUpCommand.onCommand(GiveUpCommand.java:86) ~[?:?]
+	at com.alonsoaliaga.betterrevive.commands.AbstractCommand$ReflectCommand.execute(AbstractCommand.java:66) ~[?:?]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:149) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.CraftServer.dispatchCommand(CraftServerMixin.java:887) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:50) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.2.9.jar:?]
+	at net.minecraft.class_8865.method_54416(class_8865.java:29) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8865.execute(class_8865.java:13) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8856.method_54405(class_8856.java:8) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8847.method_54388(class_8847.java:8) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8854.method_54390(class_8854.java:107) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2170.method_54313(CommandsMixin.java:378) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2170.method_9249(CommandsMixin.java:308) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_45010(ServerPlayNetHandlerMixin.java:2896) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_44356(ServerPlayNetHandlerMixin.java:1285) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_5386(class_1255.java:67) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServerMixin.java:797) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServerMixin.java:165) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:130) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServerMixin.java:779) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServerMixin.java:773) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:139) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServerMixin.java:758) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServerMixin.java:2131) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServerMixin.java:270) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.NoSuchMethodError: 'java.lang.String com.mojang.authlib.properties.Property.getValue()'
+	at com.ranull.graves.util.SkinUtil.getTexture(SkinUtil.java:48) ~[?:?]
+	at com.ranull.graves.listener.EntityDeathListener.onEntityDeath(EntityDeathListener.java:297) ~[?:?]
+	... 40 more
+[30May2025 01:52:40.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dezar68 died
+Server threadEx[30May2025 01:52:42.226] [Worker-Main-3/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/class_2541$1
+Worker-Main-3Ex[30May2025 01:52:43.375] [Netty Epoll Server IO #0/DEBUG] [ServerPlayNetworkAddon for literal{Dezar68}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Dezar68 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@241dbd58],insertion=Dezar68}]/]: Handling inbound packet from channel with name "xaerominimap:main"
+Netty Epoll Server IO #0Ex[30May2025 01:52:43.376] [Netty Epoll Server IO #0/DEBUG] [ServerPlayNetworkAddon for literal{Dezar68}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Dezar68 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@241dbd58],insertion=Dezar68}]/]: Handling inbound packet from channel with name "xaeroworldmap:main"
+Netty Epoll Server IO #0Ex[30May2025 01:56:43.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trejos1111 has made the advancement [Voluntary Exile]
+Server threadEx[30May2025 01:57:13.355] [Netty Epoll Server IO #5/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "voicechat:update_state"
+Netty Epoll Server IO #5Ex[30May2025 01:57:13.356] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Trejos1111: {disabled=true, disconnected=false, uuid=a9438318-3f43-38b6-893d-7245ccfe2514, name=Trejos1111, group=null}
+Server threadEx[30May2025 01:58:31.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dezar68 has made the advancement [Suit Up]
+Server threadEx[30May2025 02:02:16.753] [Server thread/INFO] [net.minecraft.class_1646/]: Villager class_1646['Villager'/68239, l='ServerLevel[world]', x=706.54, y=63.00, z=-256.74] died, message: 'Villager was slain by Zombie'
+Server threadEx[30May2025 02:03:26.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dezar68 has made the advancement [Not Today, Thank You]
+Server threadEx[30May2025 02:04:22.392] [Worker-Main-1/DEBUG] [FabricLoader/Mixin/]: Mixing world.entity.animal.Panda_HurtByTargetGoalMixin from mixins.arclight.core.json into net.minecraft.class_1440$class_1444
+Worker-Main-1Ex[30May2025 02:04:22.395] [Worker-Main-1/DEBUG] [FabricLoader/Mixin/]: mixins.arclight.core.json:world.entity.animal.Panda_HurtByTargetGoalMixin from mod arclight->@Inject::arclight$reason(Lnet/minecraft/class_1308;Lnet/minecraft/class_1309;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+Worker-Main-1Ex[30May2025 02:04:22.395] [Worker-Main-1/DEBUG] [FabricLoader/Mixin/]: mixins.arclight.core.json:world.entity.animal.Panda_HurtByTargetGoalMixin from mod arclight->@Inject::arclight$reason(Lnet/minecraft/class_1308;Lnet/minecraft/class_1309;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V has 0 override(s) in child classes
+Worker-Main-1Ex[30May2025 02:04:22.395] [Worker-Main-1/DEBUG] [FabricLoader/Mixin/]: mixins.arclight.core.json:world.entity.animal.Panda_HurtByTargetGoalMixin from mod arclight->@Inject::arclight$reason(Lnet/minecraft/class_1308;Lnet/minecraft/class_1309;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V won't be passed a CallbackInfo as a result
+Worker-Main-1Ex[30May2025 02:10:43.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: electricidiZAP has made the advancement [Not Today, Thank You]
+Server threadEx[30May2025 02:11:49.411] [Netty Epoll Server IO #5/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "voicechat:update_state"
+Netty Epoll Server IO #5Ex[30May2025 02:11:49.411] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Trejos1111: {disabled=false, disconnected=false, uuid=a9438318-3f43-38b6-893d-7245ccfe2514, name=Trejos1111, group=null}
+Server threadEx[30May2025 02:11:50.161] [Netty Epoll Server IO #5/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "voicechat:update_state"
+Netty Epoll Server IO #5Ex[30May2025 02:11:50.163] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Trejos1111: {disabled=true, disconnected=false, uuid=a9438318-3f43-38b6-893d-7245ccfe2514, name=Trejos1111, group=null}
+Server threadEx[30May2025 02:14:08.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dezar68 has made the advancement [Sweet Dreams]
+Server threadEx[30May2025 02:14:23.412] [Server thread/INFO] [net.minecraft.class_3244/]: RICHARDESC207 issued server command: /tpa
+Server threadEx[30May2025 02:14:42.504] [Server thread/INFO] [net.minecraft.class_3244/]: RICHARDESC207 issued server command: /tpa
+Server threadEx[30May2025 02:14:47.806] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/class_3709$1
+Server threadEx[30May2025 02:15:14.120] [Server thread/INFO] [net.minecraft.class_3244/]: RICHARDESC207 issued server command: /tpa electricidiZAP
+Server threadEx[30May2025 02:21:09.902] [Worker-Main-3/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/class_2415$1
+Worker-Main-3Ex[30May2025 02:21:20.155] [Server thread/INFO] [Console/]: %vault_prefix% RICHARDESC207 is bleeding..
+Server threadEx[30May2025 02:21:20.265] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-561, y=42, z=-948} class_2338{x=-561, y=41, z=-948}
+Server threadEx[30May2025 02:21:20.443] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-561, y=42, z=-948} class_2338{x=-563, y=42, z=-948}
+Server threadEx[30May2025 02:21:20.466] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-561, y=42, z=-948} class_2338{x=-563, y=41, z=-947}
+Server threadEx[30May2025 02:21:20.616] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-561, y=42, z=-948} class_2338{x=-563, y=42, z=-948}
+Server threadEx[30May2025 02:21:20.716] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-561, y=42, z=-948} class_2338{x=-562, y=40, z=-948}
+Server threadEx[30May2025 02:21:21.223] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-561, y=42, z=-948} class_2338{x=-563, y=41, z=-947}
+Server threadEx[30May2025 02:21:21.418] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-561, y=42, z=-948} class_2338{x=-563, y=41, z=-947}
+Server threadEx[30May2025 02:21:21.607] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-561, y=42, z=-948} class_2338{x=-562, y=41, z=-949}
+Server threadEx[30May2025 02:21:21.614] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-561, y=42, z=-948} class_2338{x=-563, y=41, z=-949}
+Server threadEx[30May2025 02:21:21.665] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-561, y=42, z=-948} class_2338{x=-563, y=42, z=-947}
+Server threadEx[30May2025 02:21:21.867] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-561, y=42, z=-948} class_2338{x=-563, y=41, z=-947}
+Server threadEx[30May2025 02:21:22.165] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-561, y=42, z=-948} class_2338{x=-563, y=41, z=-947}
+Server threadEx[30May2025 02:21:22.365] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-561, y=42, z=-948} class_2338{x=-563, y=41, z=-947}
+Server threadEx[30May2025 02:21:22.693] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-561, y=42, z=-948} class_2338{x=-564, y=41, z=-949}
+Server threadEx[30May2025 02:21:22.715] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-561, y=42, z=-948} class_2338{x=-564, y=40, z=-948}
+Server threadEx[30May2025 02:21:22.916] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-561, y=42, z=-948} class_2338{x=-564, y=41, z=-947}
+Server threadEx[30May2025 02:21:23.114] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-561, y=42, z=-948} class_2338{x=-565, y=41, z=-947}
+Server threadEx[30May2025 02:21:23.170] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-561, y=42, z=-948} class_2338{x=-564, y=42, z=-947}
+Server threadEx[30May2025 02:21:23.765] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-561, y=42, z=-948} class_2338{x=-562, y=41, z=-945}
+Server threadEx[30May2025 02:21:24.916] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-561, y=42, z=-948} class_2338{x=-562, y=41, z=-945}
+Server threadEx[30May2025 02:21:24.964] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-561, y=42, z=-948} class_2338{x=-561, y=41, z=-945}
+Server threadEx[30May2025 02:21:25.593] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-561, y=42, z=-948} class_2338{x=-561, y=41, z=-945}
+Server threadEx[30May2025 02:21:25.965] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-561, y=42, z=-948} class_2338{x=-559, y=41, z=-944}
+Server threadEx[30May2025 02:21:26.256] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-561, y=42, z=-948} class_2338{x=-561, y=41, z=-945}
+Server threadEx[30May2025 02:21:44.945] [Server thread/INFO] [Console/]: %vault_prefix% electricidiZAP revived %vault_prefix% RICHARDESC207!
+Server threadEx[30May2025 02:21:54.144] [Worker-Main-1/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/class_2457$1
+Worker-Main-1Ex[30May2025 02:25:51.605] [Server thread/WARN] [net.minecraft.class_3244/]: RICHARDESC207 moved wrongly!
 Server threadEx
