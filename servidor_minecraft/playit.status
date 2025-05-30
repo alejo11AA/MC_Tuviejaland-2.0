@@ -1,394 +1,172 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1748559406033 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1748580436062 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 due-husband.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 already-cms.gl.at.ply.gg:3486 => 127.0.0.1:3486 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748559409126 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748580439161 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 due-husband.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 already-cms.gl.at.ply.gg:3486 => 127.0.0.1:3486 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748559412224 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748580442246 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 due-husband.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 already-cms.gl.at.ply.gg:3486 => 127.0.0.1:3486 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748559415317 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748580445336 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 due-husband.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 already-cms.gl.at.ply.gg:3486 => 127.0.0.1:3486 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748559418416 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748580448423 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 due-husband.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 already-cms.gl.at.ply.gg:3486 => 127.0.0.1:3486 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748559421508 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748580451510 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 due-husband.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 already-cms.gl.at.ply.gg:3486 => 127.0.0.1:3486 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748559424606 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748580454597 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 due-husband.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 already-cms.gl.at.ply.gg:3486 => 127.0.0.1:3486 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748559427699 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748580457689 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 due-husband.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 already-cms.gl.at.ply.gg:3486 => 127.0.0.1:3486 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748559430798 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748580460780 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 due-husband.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 already-cms.gl.at.ply.gg:3486 => 127.0.0.1:3486 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748559433888 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748580463871 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 due-husband.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 already-cms.gl.at.ply.gg:3486 => 127.0.0.1:3486 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748559436984 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748580466958 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 due-husband.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 already-cms.gl.at.ply.gg:3486 => 127.0.0.1:3486 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748559440081 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748580470045 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 due-husband.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 already-cms.gl.at.ply.gg:3486 => 127.0.0.1:3486 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748559443171 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748580473131 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 due-husband.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 already-cms.gl.at.ply.gg:3486 => 127.0.0.1:3486 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748559446268 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748580476216 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 due-husband.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 already-cms.gl.at.ply.gg:3486 => 127.0.0.1:3486 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748559449358 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748580479301 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 due-husband.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 already-cms.gl.at.ply.gg:3486 => 127.0.0.1:3486 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748559452449 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748580482391 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 due-husband.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 already-cms.gl.at.ply.gg:3486 => 127.0.0.1:3486 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748559455542 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748580485481 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 due-husband.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 already-cms.gl.at.ply.gg:3486 => 127.0.0.1:3486 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748559458636 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748580488571 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 due-husband.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 already-cms.gl.at.ply.gg:3486 => 127.0.0.1:3486 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748559461724 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748580491668 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 due-husband.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 already-cms.gl.at.ply.gg:3486 => 127.0.0.1:3486 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748559464816 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748580494760 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 due-husband.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 already-cms.gl.at.ply.gg:3486 => 127.0.0.1:3486 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748559467912 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748580497853 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 due-husband.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 already-cms.gl.at.ply.gg:3486 => 127.0.0.1:3486 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748559471002 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748580500939 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 due-husband.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 already-cms.gl.at.ply.gg:3486 => 127.0.0.1:3486 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748559474097 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748580504024 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 due-husband.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 already-cms.gl.at.ply.gg:3486 => 127.0.0.1:3486 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748559477195 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748580507113 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 due-husband.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 already-cms.gl.at.ply.gg:3486 => 127.0.0.1:3486 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748559480283 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748580510200 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 due-husband.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 already-cms.gl.at.ply.gg:3486 => 127.0.0.1:3486 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748559483401 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748580513286 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 due-husband.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 already-cms.gl.at.ply.gg:3486 => 127.0.0.1:3486 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748559486498 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748580516376 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 due-husband.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 already-cms.gl.at.ply.gg:3486 => 127.0.0.1:3486 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748559489595 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748580519463 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 due-husband.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 already-cms.gl.at.ply.gg:3486 => 127.0.0.1:3486 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748559492686 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-due-husband.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-already-cms.gl.at.ply.gg:3486 => 127.0.0.1:3486 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748559495778 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-due-husband.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-already-cms.gl.at.ply.gg:3486 => 127.0.0.1:3486 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748559498869 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-due-husband.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-already-cms.gl.at.ply.gg:3486 => 127.0.0.1:3486 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748559501958 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-due-husband.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-already-cms.gl.at.ply.gg:3486 => 127.0.0.1:3486 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748559505054 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-due-husband.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-already-cms.gl.at.ply.gg:3486 => 127.0.0.1:3486 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748559508157 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-due-husband.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-already-cms.gl.at.ply.gg:3486 => 127.0.0.1:3486 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748559511259 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-due-husband.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-already-cms.gl.at.ply.gg:3486 => 127.0.0.1:3486 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748559514352 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-due-husband.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-already-cms.gl.at.ply.gg:3486 => 127.0.0.1:3486 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748559517452 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-due-husband.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-already-cms.gl.at.ply.gg:3486 => 127.0.0.1:3486 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748559520551 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-due-husband.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-already-cms.gl.at.ply.gg:3486 => 127.0.0.1:3486 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748559523644 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-due-husband.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-already-cms.gl.at.ply.gg:3486 => 127.0.0.1:3486 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748559526733 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-due-husband.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-already-cms.gl.at.ply.gg:3486 => 127.0.0.1:3486 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748559529822 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-due-husband.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-already-cms.gl.at.ply.gg:3486 => 127.0.0.1:3486 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748559532917 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-due-husband.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-already-cms.gl.at.ply.gg:3486 => 127.0.0.1:3486 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748559536008 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-due-husband.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-already-cms.gl.at.ply.gg:3486 => 127.0.0.1:3486 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748559539105 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-due-husband.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-already-cms.gl.at.ply.gg:3486 => 127.0.0.1:3486 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748559542198 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-due-husband.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-already-cms.gl.at.ply.gg:3486 => 127.0.0.1:3486 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748559545289 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-due-husband.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-already-cms.gl.at.ply.gg:3486 => 127.0.0.1:3486 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748559548380 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-due-husband.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-already-cms.gl.at.ply.gg:3486 => 127.0.0.1:3486 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748559551482 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-due-husband.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-already-cms.gl.at.ply.gg:3486 => 127.0.0.1:3486 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748559554579 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-due-husband.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-already-cms.gl.at.ply.gg:3486 => 127.0.0.1:3486 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748559557670 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-due-husband.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-already-cms.gl.at.ply.gg:3486 => 127.0.0.1:3486 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748559560769 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-due-husband.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-already-cms.gl.at.ply.gg:3486 => 127.0.0.1:3486 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748559563861 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-due-husband.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-already-cms.gl.at.ply.gg:3486 => 127.0.0.1:3486 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748559566956 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-due-husband.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-already-cms.gl.at.ply.gg:3486 => 127.0.0.1:3486 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748559570050 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-due-husband.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-already-cms.gl.at.ply.gg:3486 => 127.0.0.1:3486 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748559573159 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-due-husband.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-already-cms.gl.at.ply.gg:3486 => 127.0.0.1:3486 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748559576254 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-due-husband.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-already-cms.gl.at.ply.gg:3486 => 127.0.0.1:3486 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748559579350 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-due-husband.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-already-cms.gl.at.ply.gg:3486 => 127.0.0.1:3486 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748559582452 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-due-husband.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-already-cms.gl.at.ply.gg:3486 => 127.0.0.1:3486 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748559585543 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-due-husband.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-already-cms.gl.at.ply.gg:3486 => 127.0.0.1:3486 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748559588635 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-due-husband.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-already-cms.gl.at.ply.gg:3486 => 127.0.0.1:3486 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748559591768 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-due-husband.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-already-cms.gl.at.ply.gg:3486 => 127.0.0.1:3486 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748559594864 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-due-husband.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-already-cms.gl.at.ply.gg:3486 => 127.0.0.1:3486 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748559597965 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-due-husband.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-already-cms.gl.at.ply.gg:3486 => 127.0.0.1:3486 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748559601068 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-due-husband.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-already-cms.gl.at.ply.gg:3486 => 127.0.0.1:3486 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748559604166 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-due-husband.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-already-cms.gl.at.ply.gg:3486 => 127.0.0.1:3486 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748559607263 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748580522554 tunnel running, 2 tunnels registered
 
 
 TUNNELS
