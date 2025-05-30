@@ -574,14 +574,15 @@
       "minecraft:pillager": "2025-05-30 01:02:28 +0000",
       "minecraft:skeleton": "2025-05-30 00:06:45 +0000",
       "minecraft:phantom": "2025-05-30 02:01:23 +0000",
-      "minecraft:vindicator": "2025-05-30 02:38:48 +0000",
       "minecraft:witch": "2025-05-30 02:35:36 +0000",
+      "minecraft:ravager": "2025-05-30 02:45:17 +0000",
+      "minecraft:husk": "2025-05-30 04:34:00 +0000",
+      "minecraft:vindicator": "2025-05-30 02:38:48 +0000",
       "minecraft:spider": "2025-05-29 23:52:05 +0000",
       "minecraft:vex": "2025-05-30 02:43:51 +0000",
       "minecraft:zombie": "2025-05-29 23:48:55 +0000",
       "minecraft:creeper": "2025-05-30 01:36:15 +0000",
       "minecraft:zombie_villager": "2025-05-29 23:52:47 +0000",
-      "minecraft:ravager": "2025-05-30 02:45:17 +0000",
       "minecraft:evoker": "2025-05-30 02:36:09 +0000"
     },
     "done": false
@@ -1546,6 +1547,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-05-30 04:37:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-30 04:06:14 +0000"
@@ -1600,6 +1607,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-05-30 04:30:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2025-05-30 04:06:45 +0000"
@@ -1609,6 +1622,12 @@
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2025-05-30 04:07:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-05-30 04:37:16 +0000"
     },
     "done": true
   },

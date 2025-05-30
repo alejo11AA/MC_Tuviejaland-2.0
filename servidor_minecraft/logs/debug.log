@@ -8764,4 +8764,573 @@ Server threadEx[30May2025 04:16:40.706] [Netty Epoll Server IO #2/DEBUG] [Server
 Netty Epoll Server IO #2Ex[30May2025 04:16:48.966] [Netty Epoll Server IO #2/DEBUG] [ServerPlayNetworkAddon for literal{RICHARDESC207}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell RICHARDESC207 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@a5f1d542],insertion=RICHARDESC207}]/]: Handling inbound packet from channel with name "voicechat:set_group"
 Netty Epoll Server IO #2Ex[30May2025 04:16:48.966] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of RICHARDESC207: {disabled=false, disconnected=false, uuid=28a214db-3f8e-3c87-a1f8-75c3acbe8cd0, name=RICHARDESC207, group=c0112508-e9ab-4849-a4bf-770513fcdca6}
 Server threadEx[30May2025 04:17:29.901] [Server thread/INFO] [Console/]: %vault_prefix% Trejos1111 is bleeding so bad..
-Server threadEx
+Server threadEx[30May2025 04:17:52.955] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /giveup
+Server threadEx[30May2025 04:17:52.957] [Server thread/ERROR] [Minecraft/]: Could not pass event PlayerDeathEvent to Graves v4.9
+Server threadEx org.bukkit.event.EventException: null
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:600) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:587) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactoryMixin.java:928) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at net.minecraft.class_3222.method_6078(ServerPlayerMixin_Vanilla.java:2311) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_5643(LivingEntityMixin.java:4346) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1657.method_5643(PlayerMixin_Vanilla.java:2532) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3222.method_5643(ServerPlayerMixin_Vanilla.java:738) ~[server-intermediary.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.entity.CraftLivingEntity.damage(CraftLivingEntity.java:327) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.entity.CraftLivingEntity.damage(CraftLivingEntity.java:300) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at com.alonsoaliaga.betterrevive.commands.GiveUpCommand.onCommand(GiveUpCommand.java:86) ~[?:?]
+	at com.alonsoaliaga.betterrevive.commands.AbstractCommand$ReflectCommand.execute(AbstractCommand.java:66) ~[?:?]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:149) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.CraftServer.dispatchCommand(CraftServerMixin.java:887) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:50) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.2.9.jar:?]
+	at net.minecraft.class_8865.method_54416(class_8865.java:29) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8865.execute(class_8865.java:13) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8856.method_54405(class_8856.java:8) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8847.method_54388(class_8847.java:8) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8854.method_54390(class_8854.java:107) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2170.method_54313(CommandsMixin.java:378) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2170.method_9249(CommandsMixin.java:308) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_45010(ServerPlayNetHandlerMixin.java:2896) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_44356(ServerPlayNetHandlerMixin.java:1285) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_5386(class_1255.java:67) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServerMixin.java:797) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServerMixin.java:165) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:130) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServerMixin.java:779) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServerMixin.java:773) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:139) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServerMixin.java:758) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServerMixin.java:2131) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServerMixin.java:270) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.NoSuchMethodError: 'java.lang.String com.mojang.authlib.properties.Property.getValue()'
+	at com.ranull.graves.util.SkinUtil.getTexture(SkinUtil.java:48) ~[?:?]
+	at com.ranull.graves.listener.EntityDeathListener.onEntityDeath(EntityDeathListener.java:297) ~[?:?]
+	... 40 more
+[30May2025 04:17:52.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trejos1111 died
+Server threadEx[30May2025 04:17:55.847] [Netty Epoll Server IO #6/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "xaerominimap:main"
+Netty Epoll Server IO #6Ex[30May2025 04:17:55.847] [Netty Epoll Server IO #6/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "xaeroworldmap:main"
+Netty Epoll Server IO #6Ex[30May2025 04:18:03.626] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /back
+Server threadEx[30May2025 04:19:49.854] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /tpa
+Server threadEx[30May2025 04:19:53.635] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /tpa electricidiZAP
+Server threadEx[30May2025 04:19:56.701] [Server thread/INFO] [net.minecraft.class_3244/]: electricidiZAP issued server command: /tpano Trejos1111
+Server threadEx[30May2025 04:21:29.304] [Server thread/INFO] [Console/]: %vault_prefix% Trejos1111 is bleeding..
+Server threadEx[30May2025 04:21:43.119] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /giveup
+Server threadEx[30May2025 04:21:43.121] [Server thread/ERROR] [Minecraft/]: Could not pass event PlayerDeathEvent to Graves v4.9
+Server threadEx org.bukkit.event.EventException: null
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:600) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:587) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactoryMixin.java:928) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at net.minecraft.class_3222.method_6078(ServerPlayerMixin_Vanilla.java:2311) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_5643(LivingEntityMixin.java:4346) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1657.method_5643(PlayerMixin_Vanilla.java:2532) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3222.method_5643(ServerPlayerMixin_Vanilla.java:738) ~[server-intermediary.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.entity.CraftLivingEntity.damage(CraftLivingEntity.java:327) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.entity.CraftLivingEntity.damage(CraftLivingEntity.java:300) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at com.alonsoaliaga.betterrevive.commands.GiveUpCommand.onCommand(GiveUpCommand.java:86) ~[?:?]
+	at com.alonsoaliaga.betterrevive.commands.AbstractCommand$ReflectCommand.execute(AbstractCommand.java:66) ~[?:?]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:149) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.CraftServer.dispatchCommand(CraftServerMixin.java:887) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:50) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.2.9.jar:?]
+	at net.minecraft.class_8865.method_54416(class_8865.java:29) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8865.execute(class_8865.java:13) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8856.method_54405(class_8856.java:8) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8847.method_54388(class_8847.java:8) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8854.method_54390(class_8854.java:107) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2170.method_54313(CommandsMixin.java:378) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2170.method_9249(CommandsMixin.java:308) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_45010(ServerPlayNetHandlerMixin.java:2896) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_44356(ServerPlayNetHandlerMixin.java:1285) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_5386(class_1255.java:67) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServerMixin.java:797) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServerMixin.java:165) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:130) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServerMixin.java:779) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServerMixin.java:773) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:139) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServerMixin.java:758) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServerMixin.java:2131) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServerMixin.java:270) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.NoSuchMethodError: 'java.lang.String com.mojang.authlib.properties.Property.getValue()'
+	at com.ranull.graves.util.SkinUtil.getTexture(SkinUtil.java:48) ~[?:?]
+	at com.ranull.graves.listener.EntityDeathListener.onEntityDeath(EntityDeathListener.java:297) ~[?:?]
+	... 40 more
+[30May2025 04:21:43.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trejos1111 died
+Server threadEx[30May2025 04:21:46.038] [Netty Epoll Server IO #6/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "xaerominimap:main"
+Netty Epoll Server IO #6Ex[30May2025 04:21:46.038] [Netty Epoll Server IO #6/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "xaeroworldmap:main"
+Netty Epoll Server IO #6Ex[30May2025 04:21:54.542] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /back
+Server threadEx[30May2025 04:22:58.234] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /tpa electricidiZAP
+Server threadEx[30May2025 04:24:58.851] [Server thread/INFO] [Console/]: %vault_prefix% Trejos1111 is bleeding so bad..
+Server threadEx[30May2025 04:25:09.191] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /giveup
+Server threadEx[30May2025 04:25:09.193] [Server thread/ERROR] [Minecraft/]: Could not pass event PlayerDeathEvent to Graves v4.9
+Server threadEx org.bukkit.event.EventException: null
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:600) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:587) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactoryMixin.java:928) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at net.minecraft.class_3222.method_6078(ServerPlayerMixin_Vanilla.java:2311) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_5643(LivingEntityMixin.java:4346) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1657.method_5643(PlayerMixin_Vanilla.java:2532) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3222.method_5643(ServerPlayerMixin_Vanilla.java:738) ~[server-intermediary.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.entity.CraftLivingEntity.damage(CraftLivingEntity.java:327) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.entity.CraftLivingEntity.damage(CraftLivingEntity.java:300) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at com.alonsoaliaga.betterrevive.commands.GiveUpCommand.onCommand(GiveUpCommand.java:86) ~[?:?]
+	at com.alonsoaliaga.betterrevive.commands.AbstractCommand$ReflectCommand.execute(AbstractCommand.java:66) ~[?:?]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:149) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.CraftServer.dispatchCommand(CraftServerMixin.java:887) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:50) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.2.9.jar:?]
+	at net.minecraft.class_8865.method_54416(class_8865.java:29) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8865.execute(class_8865.java:13) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8856.method_54405(class_8856.java:8) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8847.method_54388(class_8847.java:8) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8854.method_54390(class_8854.java:107) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2170.method_54313(CommandsMixin.java:378) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2170.method_9249(CommandsMixin.java:308) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_45010(ServerPlayNetHandlerMixin.java:2896) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_44356(ServerPlayNetHandlerMixin.java:1285) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_5386(class_1255.java:67) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServerMixin.java:797) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServerMixin.java:165) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:130) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServerMixin.java:779) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServerMixin.java:773) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:139) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServerMixin.java:758) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServerMixin.java:2131) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServerMixin.java:270) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.NoSuchMethodError: 'java.lang.String com.mojang.authlib.properties.Property.getValue()'
+	at com.ranull.graves.util.SkinUtil.getTexture(SkinUtil.java:48) ~[?:?]
+	at com.ranull.graves.listener.EntityDeathListener.onEntityDeath(EntityDeathListener.java:297) ~[?:?]
+	... 40 more
+[30May2025 04:25:09.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trejos1111 died
+Server threadEx[30May2025 04:25:10.713] [Netty Epoll Server IO #6/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "xaerominimap:main"
+Netty Epoll Server IO #6Ex[30May2025 04:25:10.713] [Netty Epoll Server IO #6/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "xaeroworldmap:main"
+Netty Epoll Server IO #6Ex[30May2025 04:25:29.961] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /tpa electricidiZAP
+Server threadEx[30May2025 04:25:33.993] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /back
+Server threadEx[30May2025 04:26:19.001] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-337, y=63, z=-1026} class_2338{x=-337, y=63, z=-1027}
+Server threadEx[30May2025 04:26:19.271] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-337, y=63, z=-1026} class_2338{x=-337, y=62, z=-1026}
+Server threadEx[30May2025 04:26:19.468] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-337, y=63, z=-1026} class_2338{x=-337, y=62, z=-1026}
+Server threadEx[30May2025 04:26:19.664] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-337, y=63, z=-1026} class_2338{x=-337, y=62, z=-1026}
+Server threadEx[30May2025 04:26:19.870] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-337, y=63, z=-1026} class_2338{x=-337, y=62, z=-1026}
+Server threadEx[30May2025 04:26:23.614] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-336, y=63, z=-1027} class_2338{x=-336, y=62, z=-1027}
+Server threadEx[30May2025 04:28:09.314] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-337, y=63, z=-1018} class_2338{x=-337, y=64, z=-1018}
+Server threadEx[30May2025 04:28:09.841] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-337, y=63, z=-1018} class_2338{x=-337, y=62, z=-1018}
+Server threadEx[30May2025 04:30:42.350] [Netty Epoll Server IO #6/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "voicechat:update_state"
+Netty Epoll Server IO #6Ex[30May2025 04:30:42.352] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Trejos1111: {disabled=true, disconnected=false, uuid=a9438318-3f43-38b6-893d-7245ccfe2514, name=Trejos1111, group=c0112508-e9ab-4849-a4bf-770513fcdca6}
+Server threadEx[30May2025 04:31:07.250] [Netty Epoll Server IO #6/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "voicechat:update_state"
+Netty Epoll Server IO #6Ex[30May2025 04:31:07.251] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Trejos1111: {disabled=false, disconnected=false, uuid=a9438318-3f43-38b6-893d-7245ccfe2514, name=Trejos1111, group=c0112508-e9ab-4849-a4bf-770513fcdca6}
+Server threadEx[30May2025 04:31:51.320] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /sethome granja
+Server threadEx[30May2025 04:31:58.159] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /home aldea
+Server threadEx[30May2025 04:33:35.973] [Server thread/INFO] [Console/]: %vault_prefix% RICHARDESC207 is bleeding..
+Server threadEx[30May2025 04:33:41.091] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-420, y=108, z=-999} class_2338{x=-429, y=83, z=-1007}
+Server threadEx[30May2025 04:33:41.650] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-420, y=108, z=-999} class_2338{x=-429, y=82, z=-1007}
+Server threadEx[30May2025 04:33:42.272] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-420, y=108, z=-999} class_2338{x=-429, y=82, z=-1008}
+Server threadEx[30May2025 04:33:42.721] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-420, y=108, z=-999} class_2338{x=-429, y=82, z=-1009}
+Server threadEx[30May2025 04:33:43.490] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-420, y=108, z=-999} class_2338{x=-428, y=82, z=-1008}
+Server threadEx[30May2025 04:33:43.523] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-420, y=108, z=-999} class_2338{x=-429, y=82, z=-1008}
+Server threadEx[30May2025 04:33:54.370] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-420, y=108, z=-999} class_2338{x=-421, y=74, z=-1006}
+Server threadEx[30May2025 04:34:21.744] [Server thread/INFO] [Console/]: %vault_prefix% RICHARDESC207 has been saved by %vault_prefix% electricidiZAP!
+Server threadEx[30May2025 04:35:13.500] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-337, y=63, z=-1026} class_2338{x=-336, y=63, z=-1026}
+Server threadEx[30May2025 04:37:32.867] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-337, y=63, z=-1027} class_2338{x=-336, y=63, z=-1027}
+Server threadEx[30May2025 04:37:33.216] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-337, y=63, z=-1027} class_2338{x=-337, y=62, z=-1027}
+Server threadEx[30May2025 04:37:33.422] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-337, y=63, z=-1027} class_2338{x=-337, y=62, z=-1027}
+Server threadEx[30May2025 04:37:33.616] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-337, y=63, z=-1027} class_2338{x=-337, y=62, z=-1027}
+Server threadEx[30May2025 04:37:33.821] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-337, y=63, z=-1027} class_2338{x=-337, y=62, z=-1027}
+Server threadEx[30May2025 04:38:13.151] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /home aldea
+Server threadEx[30May2025 04:40:10.855] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /home aldea
+Server threadEx[30May2025 04:45:43.208] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4463ms or 89 ticks behind
+Server threadEx[30May2025 04:45:43.226] [Server thread/WARN] [net.minecraft.class_3244/]: Trejos1111 moved too quickly! 6.003105557026174,-5.256470889257301,-19.503924295104298
+Server threadEx[30May2025 04:45:59.490] [Worker-Main-3/FATAL] [Arclight/]: Failed to schedule load callback for chunk [-427, -221]
+Worker-Main-3Ex java.util.concurrent.CompletionException: java.lang.AbstractMethodError: Receiver class org.bukkit.craftbukkit.v1_20_R3.util.TransformerGeneratorAccess does not define or inherit an implementation of the resolved method 'abstract void bridge$pushAddEntityReason(org.bukkit.event.entity.CreatureSpawnEvent$SpawnReason)' of interface io.izzel.arclight.common.bridge.core.world.IWorldWriterBridge.
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1159) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_3900.method_17634(class_3900.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3846.method_16907(class_3846.java:91) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3846.method_16900(class_3846.java:146) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3846.run(class_3846.java:102) ~[server-intermediary.jar:?]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1423) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+Caused by: java.lang.AbstractMethodError: Receiver class org.bukkit.craftbukkit.v1_20_R3.util.TransformerGeneratorAccess does not define or inherit an implementation of the resolved method 'abstract void bridge$pushAddEntityReason(org.bukkit.event.entity.CreatureSpawnEvent$SpawnReason)' of interface io.izzel.arclight.common.bridge.core.world.IWorldWriterBridge.
+	at net.minecraft.class_3447.handler$zmh000$arclight$spawnReason1(SwampHutPieceMixin.java:524) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3447.method_14931(SwampHutPieceMixin.java:117) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3449.method_14974(StructureStartMixin.java:571) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2794.method_38265(ChunkGeneratorMixin.java:320) ~[server-intermediary.jar:?]
+	at com.google.common.collect.ImmutableList.forEach(ImmutableList.java:422) ~[guava-32.1.2-jre.jar:?]
+	at net.minecraft.class_2794.method_12102(ChunkGeneratorMixin.java:319) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2806.method_51375(class_2806.java:108) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2806$class_3768.doWork(class_2806.java:309) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2806.method_12154(class_2806.java:252) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3898.method_17225(ChunkMapMixin.java:671) ~[server-intermediary.jar:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar:?]
+	at net.minecraft.class_3898.method_17224(ChunkMapMixin.java:660) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) ~[?:?]
+	... 11 more
+[30May2025 04:45:59.500] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/core_id
+Server threadEx[30May2025 04:45:59.500] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/core_id
+Server threadEx[30May2025 04:45:59.500] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/physical_package_id
+Server threadEx[30May2025 04:45:59.500] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/physical_package_id
+Server threadEx[30May2025 04:45:59.500] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cpu_capacity
+Server threadEx[30May2025 04:45:59.501] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index2/level
+Server threadEx[30May2025 04:45:59.501] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index2/level
+Server threadEx[30May2025 04:45:59.501] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index2/type
+Server threadEx[30May2025 04:45:59.501] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index2/type
+Server threadEx[30May2025 04:45:59.501] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index2/ways_of_associativity
+Server threadEx[30May2025 04:45:59.501] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index2/ways_of_associativity
+Server threadEx[30May2025 04:45:59.501] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index2/coherency_line_size
+Server threadEx[30May2025 04:45:59.501] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index2/coherency_line_size
+Server threadEx[30May2025 04:45:59.501] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index2/size
+Server threadEx[30May2025 04:45:59.501] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index2/size
+Server threadEx[30May2025 04:45:59.501] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index0/level
+Server threadEx[30May2025 04:45:59.501] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index0/level
+Server threadEx[30May2025 04:45:59.501] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index0/type
+Server threadEx[30May2025 04:45:59.501] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index0/type
+Server threadEx[30May2025 04:45:59.502] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index0/ways_of_associativity
+Server threadEx[30May2025 04:45:59.502] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index0/ways_of_associativity
+Server threadEx[30May2025 04:45:59.502] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index0/coherency_line_size
+Server threadEx[30May2025 04:45:59.502] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index0/coherency_line_size
+Server threadEx[30May2025 04:45:59.502] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index0/size
+Server threadEx[30May2025 04:45:59.502] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index0/size
+Server threadEx[30May2025 04:45:59.502] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index3/level
+Server threadEx[30May2025 04:45:59.502] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index3/level
+Server threadEx[30May2025 04:45:59.502] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index3/type
+Server threadEx[30May2025 04:45:59.502] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index3/type
+Server threadEx[30May2025 04:45:59.502] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index3/ways_of_associativity
+Server threadEx[30May2025 04:45:59.502] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index3/ways_of_associativity
+Server threadEx[30May2025 04:45:59.502] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index3/coherency_line_size
+Server threadEx[30May2025 04:45:59.502] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index3/coherency_line_size
+Server threadEx[30May2025 04:45:59.502] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index3/size
+Server threadEx[30May2025 04:45:59.502] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index3/size
+Server threadEx[30May2025 04:45:59.502] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index1/level
+Server threadEx[30May2025 04:45:59.502] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index1/level
+Server threadEx[30May2025 04:45:59.502] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index1/type
+Server threadEx[30May2025 04:45:59.502] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index1/type
+Server threadEx[30May2025 04:45:59.502] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index1/ways_of_associativity
+Server threadEx[30May2025 04:45:59.502] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index1/ways_of_associativity
+Server threadEx[30May2025 04:45:59.502] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index1/coherency_line_size
+Server threadEx[30May2025 04:45:59.502] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index1/coherency_line_size
+Server threadEx[30May2025 04:45:59.502] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index1/size
+Server threadEx[30May2025 04:45:59.502] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index1/size
+Server threadEx[30May2025 04:45:59.503] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/core_id
+Server threadEx[30May2025 04:45:59.503] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/core_id
+Server threadEx[30May2025 04:45:59.503] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/physical_package_id
+Server threadEx[30May2025 04:45:59.503] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/physical_package_id
+Server threadEx[30May2025 04:45:59.503] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cpu_capacity
+Server threadEx[30May2025 04:45:59.503] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index2/level
+Server threadEx[30May2025 04:45:59.503] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index2/level
+Server threadEx[30May2025 04:45:59.503] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index2/type
+Server threadEx[30May2025 04:45:59.503] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index2/type
+Server threadEx[30May2025 04:45:59.503] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index2/ways_of_associativity
+Server threadEx[30May2025 04:45:59.503] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index2/ways_of_associativity
+Server threadEx[30May2025 04:45:59.503] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index2/coherency_line_size
+Server threadEx[30May2025 04:45:59.503] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index2/coherency_line_size
+Server threadEx[30May2025 04:45:59.503] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index2/size
+Server threadEx[30May2025 04:45:59.503] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index2/size
+Server threadEx[30May2025 04:45:59.503] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index0/level
+Server threadEx[30May2025 04:45:59.504] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index0/level
+Server threadEx[30May2025 04:45:59.504] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index0/type
+Server threadEx[30May2025 04:45:59.504] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index0/type
+Server threadEx[30May2025 04:45:59.504] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index0/ways_of_associativity
+Server threadEx[30May2025 04:45:59.504] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index0/ways_of_associativity
+Server threadEx[30May2025 04:45:59.504] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index0/coherency_line_size
+Server threadEx[30May2025 04:45:59.504] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index0/coherency_line_size
+Server threadEx[30May2025 04:45:59.504] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index0/size
+Server threadEx[30May2025 04:45:59.504] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index0/size
+Server threadEx[30May2025 04:45:59.504] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index3/level
+Server threadEx[30May2025 04:45:59.504] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index3/level
+Server threadEx[30May2025 04:45:59.504] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index3/type
+Server threadEx[30May2025 04:45:59.504] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index3/type
+Server threadEx[30May2025 04:45:59.504] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index3/ways_of_associativity
+Server threadEx[30May2025 04:45:59.504] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index3/ways_of_associativity
+Server threadEx[30May2025 04:45:59.504] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index3/coherency_line_size
+Server threadEx[30May2025 04:45:59.504] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index3/coherency_line_size
+Server threadEx[30May2025 04:45:59.504] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index3/size
+Server threadEx[30May2025 04:45:59.504] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index3/size
+Server threadEx[30May2025 04:45:59.504] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index1/level
+Server threadEx[30May2025 04:45:59.504] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index1/level
+Server threadEx[30May2025 04:45:59.504] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index1/type
+Server threadEx[30May2025 04:45:59.504] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index1/type
+Server threadEx[30May2025 04:45:59.504] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index1/ways_of_associativity
+Server threadEx[30May2025 04:45:59.504] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index1/ways_of_associativity
+Server threadEx[30May2025 04:45:59.504] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index1/coherency_line_size
+Server threadEx[30May2025 04:45:59.504] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index1/coherency_line_size
+Server threadEx[30May2025 04:45:59.504] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index1/size
+Server threadEx[30May2025 04:45:59.504] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index1/size
+Server threadEx[30May2025 04:45:59.504] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/core_id
+Server threadEx[30May2025 04:45:59.504] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/core_id
+Server threadEx[30May2025 04:45:59.505] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/physical_package_id
+Server threadEx[30May2025 04:45:59.505] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/physical_package_id
+Server threadEx[30May2025 04:45:59.505] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cpu_capacity
+Server threadEx[30May2025 04:45:59.505] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index2/level
+Server threadEx[30May2025 04:45:59.505] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index2/level
+Server threadEx[30May2025 04:45:59.505] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index2/type
+Server threadEx[30May2025 04:45:59.505] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index2/type
+Server threadEx[30May2025 04:45:59.505] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index2/ways_of_associativity
+Server threadEx[30May2025 04:45:59.505] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index2/ways_of_associativity
+Server threadEx[30May2025 04:45:59.505] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index2/coherency_line_size
+Server threadEx[30May2025 04:45:59.505] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index2/coherency_line_size
+Server threadEx[30May2025 04:45:59.505] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index2/size
+Server threadEx[30May2025 04:45:59.505] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index2/size
+Server threadEx[30May2025 04:45:59.505] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index0/level
+Server threadEx[30May2025 04:45:59.505] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index0/level
+Server threadEx[30May2025 04:45:59.505] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index0/type
+Server threadEx[30May2025 04:45:59.505] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index0/type
+Server threadEx[30May2025 04:45:59.505] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index0/ways_of_associativity
+Server threadEx[30May2025 04:45:59.505] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index0/ways_of_associativity
+Server threadEx[30May2025 04:45:59.505] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index0/coherency_line_size
+Server threadEx[30May2025 04:45:59.505] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index0/coherency_line_size
+Server threadEx[30May2025 04:45:59.505] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index0/size
+Server threadEx[30May2025 04:45:59.505] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index0/size
+Server threadEx[30May2025 04:45:59.505] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index3/level
+Server threadEx[30May2025 04:45:59.505] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index3/level
+Server threadEx[30May2025 04:45:59.505] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index3/type
+Server threadEx[30May2025 04:45:59.505] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index3/type
+Server threadEx[30May2025 04:45:59.505] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index3/ways_of_associativity
+Server threadEx[30May2025 04:45:59.506] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index3/ways_of_associativity
+Server threadEx[30May2025 04:45:59.506] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index3/coherency_line_size
+Server threadEx[30May2025 04:45:59.506] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index3/coherency_line_size
+Server threadEx[30May2025 04:45:59.506] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index3/size
+Server threadEx[30May2025 04:45:59.506] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index3/size
+Server threadEx[30May2025 04:45:59.506] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index1/level
+Server threadEx[30May2025 04:45:59.506] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index1/level
+Server threadEx[30May2025 04:45:59.507] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index1/type
+Server threadEx[30May2025 04:45:59.507] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index1/type
+Server threadEx[30May2025 04:45:59.507] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index1/ways_of_associativity
+Server threadEx[30May2025 04:45:59.507] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index1/ways_of_associativity
+Server threadEx[30May2025 04:45:59.507] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index1/coherency_line_size
+Server threadEx[30May2025 04:45:59.507] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index1/coherency_line_size
+Server threadEx[30May2025 04:45:59.507] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index1/size
+Server threadEx[30May2025 04:45:59.507] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index1/size
+Server threadEx[30May2025 04:45:59.508] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/core_id
+Server threadEx[30May2025 04:45:59.508] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/core_id
+Server threadEx[30May2025 04:45:59.508] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/physical_package_id
+Server threadEx[30May2025 04:45:59.508] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/physical_package_id
+Server threadEx[30May2025 04:45:59.508] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cpu_capacity
+Server threadEx[30May2025 04:45:59.508] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index2/level
+Server threadEx[30May2025 04:45:59.508] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index2/level
+Server threadEx[30May2025 04:45:59.508] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index2/type
+Server threadEx[30May2025 04:45:59.508] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index2/type
+Server threadEx[30May2025 04:45:59.509] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index2/ways_of_associativity
+Server threadEx[30May2025 04:45:59.509] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index2/ways_of_associativity
+Server threadEx[30May2025 04:45:59.509] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index2/coherency_line_size
+Server threadEx[30May2025 04:45:59.509] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index2/coherency_line_size
+Server threadEx[30May2025 04:45:59.509] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index2/size
+Server threadEx[30May2025 04:45:59.509] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index2/size
+Server threadEx[30May2025 04:45:59.509] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index0/level
+Server threadEx[30May2025 04:45:59.509] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index0/level
+Server threadEx[30May2025 04:45:59.509] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index0/type
+Server threadEx[30May2025 04:45:59.509] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index0/type
+Server threadEx[30May2025 04:45:59.509] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index0/ways_of_associativity
+Server threadEx[30May2025 04:45:59.509] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index0/ways_of_associativity
+Server threadEx[30May2025 04:45:59.509] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index0/coherency_line_size
+Server threadEx[30May2025 04:45:59.509] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index0/coherency_line_size
+Server threadEx[30May2025 04:45:59.509] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index0/size
+Server threadEx[30May2025 04:45:59.509] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index0/size
+Server threadEx[30May2025 04:45:59.509] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index3/level
+Server threadEx[30May2025 04:45:59.509] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index3/level
+Server threadEx[30May2025 04:45:59.509] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index3/type
+Server threadEx[30May2025 04:45:59.509] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index3/type
+Server threadEx[30May2025 04:45:59.509] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index3/ways_of_associativity
+Server threadEx[30May2025 04:45:59.509] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index3/ways_of_associativity
+Server threadEx[30May2025 04:45:59.509] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index3/coherency_line_size
+Server threadEx[30May2025 04:45:59.509] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index3/coherency_line_size
+Server threadEx[30May2025 04:45:59.509] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index3/size
+Server threadEx[30May2025 04:45:59.509] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index3/size
+Server threadEx[30May2025 04:45:59.509] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index1/level
+Server threadEx[30May2025 04:45:59.509] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index1/level
+Server threadEx[30May2025 04:45:59.509] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index1/type
+Server threadEx[30May2025 04:45:59.509] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index1/type
+Server threadEx[30May2025 04:45:59.509] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index1/ways_of_associativity
+Server threadEx[30May2025 04:45:59.509] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index1/ways_of_associativity
+Server threadEx[30May2025 04:45:59.509] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index1/coherency_line_size
+Server threadEx[30May2025 04:45:59.509] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index1/coherency_line_size
+Server threadEx[30May2025 04:45:59.509] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index1/size
+Server threadEx[30May2025 04:45:59.509] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index1/size
+Server threadEx[30May2025 04:45:59.510] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/cpuinfo
+Server threadEx[30May2025 04:45:59.524] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/self/auxv
+Server threadEx[30May2025 04:45:59.541] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+Server threadEx[30May2025 04:45:59.542] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+Server threadEx[30May2025 04:45:59.558] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: Encountered an unexpected exception
+Server threadEx net.minecraft.class_148: Exception ticking world
+	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServerMixin.java:952) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3176.method_3813(DedicatedServerMixin_Vanilla.java:283) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServerMixin.java:845) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServerMixin.java:2127) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServerMixin.java:270) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.AbstractMethodError: Receiver class org.bukkit.craftbukkit.v1_20_R3.util.TransformerGeneratorAccess does not define or inherit an implementation of the resolved method 'abstract void bridge$pushAddEntityReason(org.bukkit.event.entity.CreatureSpawnEvent$SpawnReason)' of interface io.izzel.arclight.common.bridge.core.world.IWorldWriterBridge.
+	at net.minecraft.class_3447.handler$zmh000$arclight$spawnReason1(SwampHutPieceMixin.java:524) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3447.method_14931(SwampHutPieceMixin.java:117) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3449.method_14974(StructureStartMixin.java:571) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2794.method_38265(ChunkGeneratorMixin.java:320) ~[server-intermediary.jar:?]
+	at com.google.common.collect.ImmutableList.forEach(ImmutableList.java:422) ~[guava-32.1.2-jre.jar:?]
+	at net.minecraft.class_2794.method_12102(ChunkGeneratorMixin.java:319) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2806.method_51375(class_2806.java:108) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2806$class_3768.doWork(class_2806.java:309) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2806.method_12154(class_2806.java:252) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3898.method_17225(ChunkMapMixin.java:671) ~[server-intermediary.jar:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar:?]
+	at net.minecraft.class_3898.method_17224(ChunkMapMixin.java:660) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_3900.method_17634(class_3900.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3846.method_16907(class_3846.java:91) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3846.method_16900(class_3846.java:146) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3846.run(class_3846.java:102) ~[server-intermediary.jar:?]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1423) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+[30May2025 04:45:59.566] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: This crash report has been saved to: /workspaces/MC_Tuviejaland-2.0/servidor_minecraft/./crash-reports/crash-2025-05-30_04.45.59-server.txt
+Server threadEx[30May2025 04:45:59.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+Server threadEx[30May2025 04:45:59.570] [Server thread/INFO] [BetterRevive/]: Disabling BetterRevive v0.9.1-BETA
+Server threadEx[30May2025 04:45:59.571] [Server thread/INFO] [Console/]:  
+Server threadEx[30May2025 04:45:59.571] [Server thread/INFO] [Console/]: [BetterRevive] Plugin has been disabled!
+Server threadEx[30May2025 04:45:59.571] [Server thread/INFO] [Console/]: [BetterRevive] Thank you for using my plugin!
+Server threadEx[30May2025 04:45:59.571] [Server thread/INFO] [Console/]:  
+Server threadEx[30May2025 04:45:59.572] [Server thread/INFO] [AdvancedTeleport/]: Disabling AdvancedTeleport v6.1.3
+Server threadEx[30May2025 04:45:59.576] [Server thread/INFO] [NBTAPI/]: Disabling NBTAPI v2.15.0
+Server threadEx[30May2025 04:45:59.577] [Server thread/INFO] [ConditionalEvents/]: Disabling ConditionalEvents v4.62.2
+Server threadEx[30May2025 04:45:59.577] [Server thread/INFO] [Console/]: [ConditionalEvents] Has been disabled! Version: 4.62.2
+Server threadEx[30May2025 04:45:59.579] [Server thread/INFO] [SkinsRestorer/]: Disabling SkinsRestorer v15.6.4
+Server threadEx[30May2025 04:45:59.616] [Server thread/INFO] [LuckPerms/]: Disabling LuckPerms v5.5.0
+Server threadEx[30May2025 04:45:59.617] [Server thread/INFO] [LuckPerms/]: Starting shutdown process...
+Server threadEx[30May2025 04:45:59.627] [Server thread/INFO] [LuckPerms/]: Closing storage...
+Server threadEx[30May2025 04:45:59.648] [Server thread/INFO] [LuckPerms/]: Goodbye!
+Server threadEx[30May2025 04:45:59.649] [Server thread/INFO] [Graves/]: Disabling Graves v4.9
+Server threadEx[30May2025 04:45:59.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+Server threadEx[30May2025 04:45:59.674] [Server thread/INFO] [net.minecraft.class_3244/]: electricidiZAP lost connection: Server closed
+Server threadEx[30May2025 04:45:59.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: electricidiZAP left the game.
+Server threadEx[30May2025 04:45:59.681] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 lost connection: Server closed
+Server threadEx[30May2025 04:45:59.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trejos1111 left the game.
+Server threadEx[30May2025 04:45:59.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+Server threadEx[30May2025 04:45:59.806] [Worker-Main-1/FATAL] [Arclight/]: Failed to schedule load callback for chunk [-427, -220]
+Worker-Main-1Ex java.util.concurrent.CompletionException: java.lang.AbstractMethodError: Receiver class org.bukkit.craftbukkit.v1_20_R3.util.TransformerGeneratorAccess does not define or inherit an implementation of the resolved method 'abstract void bridge$pushAddEntityReason(org.bukkit.event.entity.CreatureSpawnEvent$SpawnReason)' of interface io.izzel.arclight.common.bridge.core.world.IWorldWriterBridge.
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1159) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_3900.method_17634(class_3900.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3846.method_16907(class_3846.java:91) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3846.method_16900(class_3846.java:146) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3846.run(class_3846.java:102) ~[server-intermediary.jar:?]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1423) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+Caused by: java.lang.AbstractMethodError: Receiver class org.bukkit.craftbukkit.v1_20_R3.util.TransformerGeneratorAccess does not define or inherit an implementation of the resolved method 'abstract void bridge$pushAddEntityReason(org.bukkit.event.entity.CreatureSpawnEvent$SpawnReason)' of interface io.izzel.arclight.common.bridge.core.world.IWorldWriterBridge.
+	at net.minecraft.class_3447.handler$zmh000$arclight$spawnReason1(SwampHutPieceMixin.java:524) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3447.method_14931(SwampHutPieceMixin.java:117) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3449.method_14974(StructureStartMixin.java:571) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2794.method_38265(ChunkGeneratorMixin.java:320) ~[server-intermediary.jar:?]
+	at com.google.common.collect.ImmutableList.forEach(ImmutableList.java:422) ~[guava-32.1.2-jre.jar:?]
+	at net.minecraft.class_2794.method_12102(ChunkGeneratorMixin.java:319) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2806.method_51375(class_2806.java:108) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2806$class_3768.doWork(class_2806.java:309) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2806.method_12154(class_2806.java:252) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3898.method_17225(ChunkMapMixin.java:671) ~[server-intermediary.jar:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar:?]
+	at net.minecraft.class_3898.method_17224(ChunkMapMixin.java:660) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) ~[?:?]
+	... 11 more
+[30May2025 04:45:59.905] [Worker-Main-2/FATAL] [Arclight/]: Failed to schedule load callback for chunk [-427, -219]
+Worker-Main-2Ex java.util.concurrent.CompletionException: java.lang.AbstractMethodError: Receiver class org.bukkit.craftbukkit.v1_20_R3.util.TransformerGeneratorAccess does not define or inherit an implementation of the resolved method 'abstract void bridge$pushAddEntityReason(org.bukkit.event.entity.CreatureSpawnEvent$SpawnReason)' of interface io.izzel.arclight.common.bridge.core.world.IWorldWriterBridge.
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1159) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_3900.method_17634(class_3900.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3846.method_16907(class_3846.java:91) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3846.method_16900(class_3846.java:146) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3846.run(class_3846.java:102) ~[server-intermediary.jar:?]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1423) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+Caused by: java.lang.AbstractMethodError: Receiver class org.bukkit.craftbukkit.v1_20_R3.util.TransformerGeneratorAccess does not define or inherit an implementation of the resolved method 'abstract void bridge$pushAddEntityReason(org.bukkit.event.entity.CreatureSpawnEvent$SpawnReason)' of interface io.izzel.arclight.common.bridge.core.world.IWorldWriterBridge.
+	at net.minecraft.class_3447.handler$zmh000$arclight$spawnReason1(SwampHutPieceMixin.java:524) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3447.method_14931(SwampHutPieceMixin.java:117) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3449.method_14974(StructureStartMixin.java:571) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2794.method_38265(ChunkGeneratorMixin.java:320) ~[server-intermediary.jar:?]
+	at com.google.common.collect.ImmutableList.forEach(ImmutableList.java:422) ~[guava-32.1.2-jre.jar:?]
+	at net.minecraft.class_2794.method_12102(ChunkGeneratorMixin.java:319) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2806.method_51375(class_2806.java:108) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2806$class_3768.doWork(class_2806.java:309) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2806.method_12154(class_2806.java:252) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3898.method_17225(ChunkMapMixin.java:671) ~[server-intermediary.jar:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar:?]
+	at net.minecraft.class_3898.method_17224(ChunkMapMixin.java:660) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) ~[?:?]
+	... 11 more
+[30May2025 04:46:02.065] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: Exception stopping the server
+Server threadEx java.util.concurrent.CompletionException: java.lang.AbstractMethodError: Receiver class org.bukkit.craftbukkit.v1_20_R3.util.TransformerGeneratorAccess does not define or inherit an implementation of the resolved method 'abstract void bridge$pushAddEntityReason(org.bukkit.event.entity.CreatureSpawnEvent$SpawnReason)' of interface io.izzel.arclight.common.bridge.core.world.IWorldWriterBridge.
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1159) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_3900.method_17634(class_3900.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3846.method_16907(class_3846.java:91) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3846.method_16900(class_3846.java:146) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3846.run(class_3846.java:102) ~[server-intermediary.jar:?]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1423) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+Caused by: java.lang.AbstractMethodError: Receiver class org.bukkit.craftbukkit.v1_20_R3.util.TransformerGeneratorAccess does not define or inherit an implementation of the resolved method 'abstract void bridge$pushAddEntityReason(org.bukkit.event.entity.CreatureSpawnEvent$SpawnReason)' of interface io.izzel.arclight.common.bridge.core.world.IWorldWriterBridge.
+	at net.minecraft.class_3447.handler$zmh000$arclight$spawnReason1(SwampHutPieceMixin.java:524) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3447.method_14931(SwampHutPieceMixin.java:117) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3449.method_14974(StructureStartMixin.java:571) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2794.method_38265(ChunkGeneratorMixin.java:320) ~[server-intermediary.jar:?]
+	at com.google.common.collect.ImmutableList.forEach(ImmutableList.java:422) ~[guava-32.1.2-jre.jar:?]
+	at net.minecraft.class_2794.method_12102(ChunkGeneratorMixin.java:319) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2806.method_51375(class_2806.java:108) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2806$class_3768.doWork(class_2806.java:309) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2806.method_12154(class_2806.java:252) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3898.method_17225(ChunkMapMixin.java:671) ~[server-intermediary.jar:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar:?]
+	at net.minecraft.class_3898.method_17224(ChunkMapMixin.java:660) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) ~[?:?]
+	... 11 more
+[30May2025 04:46:02.066] [Server thread/DEBUG] [org.jline/]: Removing shutdown-hook: Thread[#23,JLine Shutdown Hook,5,main]
+Server threadEx[30May2025 04:46:07.068] [Exit Thread/DEBUG] [Arclight/]: Threads IO-Worker-233, bStats-Metrics, IO-Worker-229, IO-Worker-232, bStats-Metrics, IO-Worker-234, IO-Worker-228, IO-Worker-226, IO-Worker-218, bStats-Metrics, bStats-Metrics not shutting down
+Exit ThreadEx[30May2025 04:46:07.068] [Exit Thread/INFO] [Arclight/]: 11 threads not shutting down correctly, force exiting
+Exit ThreadEx[30May2025 04:46:07.073] [IO-Worker-228/ERROR] [net.minecraft.class_3846/]: Cound not schedule mailbox
+IO-Worker-228Ex java.util.concurrent.RejectedExecutionException: Task IOWorker-chunk 2 false rejected from java.util.concurrent.ThreadPoolExecutor@506aa618[Shutting down, pool size = 1, active threads = 1, queued tasks = 0, completed tasks = 2264277]
+	at java.util.concurrent.ThreadPoolExecutor$AbortPolicy.rejectedExecution(ThreadPoolExecutor.java:2081) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.reject(ThreadPoolExecutor.java:841) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.execute(ThreadPoolExecutor.java:1376) ~[?:?]
+	at net.minecraft.class_3846.method_16908(class_3846.java:135) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3846.run(class_3846.java:105) ~[server-intermediary.jar:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]

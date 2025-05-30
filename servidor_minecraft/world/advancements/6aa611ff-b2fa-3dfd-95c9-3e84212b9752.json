@@ -13,10 +13,11 @@
       "minecraft:forest": "2025-05-30 01:41:04 +0000",
       "minecraft:mangrove_swamp": "2025-05-30 00:25:31 +0000",
       "minecraft:sparse_jungle": "2025-05-30 01:32:33 +0000",
-      "minecraft:jungle": "2025-05-30 01:29:46 +0000",
       "minecraft:river": "2025-05-30 01:09:25 +0000",
       "minecraft:lukewarm_ocean": "2025-05-30 01:11:18 +0000",
       "minecraft:stony_shore": "2025-05-30 03:43:16 +0000",
+      "minecraft:jungle": "2025-05-30 01:29:46 +0000",
+      "minecraft:ocean": "2025-05-30 04:44:09 +0000",
       "minecraft:savanna": "2025-05-30 00:22:08 +0000",
       "minecraft:plains": "2025-05-30 01:32:44 +0000"
     },
@@ -1760,6 +1761,66 @@
   "minecraft:recipes/food/cookie": {
     "criteria": {
       "has_cocoa": "2025-05-30 03:54:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-05-30 04:32:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-05-30 04:32:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-05-30 04:43:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-05-30 04:16:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-05-30 04:32:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-05-30 04:32:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-05-30 04:43:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-05-30 04:32:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-05-30 04:32:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-05-30 04:16:06 +0000"
     },
     "done": true
   },
