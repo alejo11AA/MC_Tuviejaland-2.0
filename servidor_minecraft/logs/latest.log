@@ -525,4 +525,389 @@ Server threadEx[30May2025 18:31:05.877] [Server thread/INFO] [net.minecraft.serv
 Server threadEx[30May2025 18:31:54.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RASTEROL has made the advancement [Stone Age]
 Server threadEx[30May2025 18:33:41.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RASTEROL has made the advancement [Getting an Upgrade]
 Server threadEx[30May2025 18:34:09.439] [Async Chat Thread - #17/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RASTEROL> t
-Async Chat Thread - #17Ex
+Async Chat Thread - #17Ex[30May2025 18:36:01.888] [User Authenticator #8/INFO] [net.minecraft.class_3248/]: UUID of player Dezar68 is 8243e5ad-1a2b-3b0f-9f08-d41dee077115
+User Authenticator #8Ex[30May2025 18:36:02.528] [Server thread/INFO] [net.minecraft.class_3324/]: Dezar68[/127.129.89.92:36431] logged in with entity id 15864 at (748.1936662126299, 69.0, -265.9102208124168)
+Server threadEx[30May2025 18:36:02.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dezar68 joined the game
+Server threadEx[30May2025 18:36:19.102] [Server thread/INFO] [Console/]: %vault_prefix% IlarilarieOhOHIO is bleeding..
+Server threadEx[30May2025 18:36:23.514] [Server thread/INFO] [net.minecraft.class_2983/]: [STDERR]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+Server threadEx[30May2025 18:36:26.480] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2972ms or 59 ticks behind
+Server threadEx[30May2025 18:36:26.506] [Server thread/WARN] [net.minecraft.class_3244/]: RASTEROL moved too quickly! 9.817274957014433,-1.323529123855721,15.282209005277934
+Server threadEx[30May2025 18:36:26.507] [Server thread/WARN] [net.minecraft.class_3244/]: RICHARDESC207 moved too quickly! 9.05676226172261,0.0,-4.413577871921916
+Server threadEx[30May2025 18:36:36.510] [Server thread/INFO] [Console/]: %vault_prefix% Dezar68 revived %vault_prefix% IlarilarieOhOHIO!
+Server threadEx[30May2025 18:36:48.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xHARITOLx has made the advancement [Monster Hunter]
+Server threadEx[30May2025 18:37:40.470] [Server thread/INFO] [net.minecraft.class_3244/]: Dezar68 lost connection: Disconnected
+Server threadEx[30May2025 18:37:40.470] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dezar68
+Server threadEx[30May2025 18:37:40.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dezar68 left the game
+Server threadEx[30May2025 18:37:56.645] [Server thread/INFO] [Console/]: %vault_prefix% IlarilarieOhOHIO is bleeding..
+Server threadEx[30May2025 18:38:16.012] [Server thread/INFO] [Console/]: %vault_prefix% RASTEROL revived %vault_prefix% IlarilarieOhOHIO!
+Server threadEx[30May2025 18:38:20.303] [Server thread/INFO] [Console/]: %vault_prefix% RASTEROL is bleeding so bad..
+Server threadEx[30May2025 18:38:48.508] [Server thread/INFO] [Console/]: %vault_prefix% RASTEROL has been revived by %vault_prefix% IlarilarieOhOHIO!
+Server threadEx[30May2025 18:39:31.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IlarilarieOhOHIO has made the advancement [Isn't It Iron Pick]
+Server threadEx[30May2025 18:39:34.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IlarilarieOhOHIO has made the advancement [Stone Age]
+Server threadEx[30May2025 18:39:51.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IlarilarieOhOHIO has made the advancement [Getting an Upgrade]
+Server threadEx[30May2025 18:40:16.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RASTEROL has made the advancement [Sweet Dreams]
+Server threadEx[30May2025 18:40:45.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xHARITOLx has made the advancement [Acquire Hardware]
+Server threadEx[30May2025 18:43:09.665] [User Authenticator #9/INFO] [net.minecraft.class_3248/]: UUID of player Dezar68 is 8243e5ad-1a2b-3b0f-9f08-d41dee077115
+User Authenticator #9Ex[30May2025 18:43:10.546] [Server thread/INFO] [net.minecraft.class_3324/]: Dezar68[/127.129.89.92:49741] logged in with entity id 19851 at (746.5063515573033, 69.0, -266.2295446130082)
+Server threadEx[30May2025 18:43:10.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dezar68 joined the game
+Server threadEx[30May2025 18:43:11.469] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dezar68 (18)
+Server threadEx[30May2025 18:43:11.470] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dezar68
+Server threadEx[30May2025 18:43:11.878] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8243e5ad-1a2b-3b0f-9f08-d41dee077115
+VoiceChatPacketProcessingThreadEx[30May2025 18:43:12.899] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8243e5ad-1a2b-3b0f-9f08-d41dee077115
+VoiceChatPacketProcessingThreadEx[30May2025 18:43:12.900] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dezar68 (8243e5ad-1a2b-3b0f-9f08-d41dee077115) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[30May2025 18:44:15.540] [Server thread/INFO] [Console/]: %vault_prefix% RASTEROL is bleeding..
+Server threadEx[30May2025 18:44:40.069] [Server thread/INFO] [net.minecraft.class_3244/]: Dezar68 issued server command: /tpa IlarilarieOhOHIO
+Server threadEx[30May2025 18:44:44.858] [Server thread/INFO] [Console/]: %vault_prefix% RASTEROL has been revived by %vault_prefix% IlarilarieOhOHIO!
+Server threadEx[30May2025 18:44:46.665] [Server thread/INFO] [net.minecraft.class_3244/]: IlarilarieOhOHIO issued server command: /tpayes Dezar68
+Server threadEx[30May2025 18:44:46.991] [Server thread/INFO] [Console/]: %vault_prefix% IlarilarieOhOHIO is bleeding so bad..
+Server threadEx[30May2025 18:45:00.485] [Server thread/INFO] [net.minecraft.class_3244/]: Dezar68 issued server command: /tpa IlarilarieOhOHIO
+Server threadEx[30May2025 18:45:02.415] [Server thread/INFO] [net.minecraft.class_3244/]: IlarilarieOhOHIO issued server command: /tpayes Dezar68
+Server threadEx[30May2025 18:45:03.065] [Server thread/INFO] [net.minecraft.class_3244/]: IlarilarieOhOHIO issued server command: /tpayes Dezar68
+Server threadEx[30May2025 18:45:03.246] [Server thread/INFO] [net.minecraft.class_3244/]: IlarilarieOhOHIO issued server command: /tpayes Dezar68
+Server threadEx[30May2025 18:45:03.400] [Server thread/INFO] [net.minecraft.class_3244/]: IlarilarieOhOHIO issued server command: /tpayes Dezar68
+Server threadEx[30May2025 18:45:03.565] [Server thread/INFO] [net.minecraft.class_3244/]: IlarilarieOhOHIO issued server command: /tpayes Dezar68
+Server threadEx[30May2025 18:45:03.769] [Server thread/INFO] [net.minecraft.class_3244/]: IlarilarieOhOHIO issued server command: /tpayes Dezar68
+Server threadEx[30May2025 18:45:03.907] [Server thread/INFO] [net.minecraft.class_3244/]: IlarilarieOhOHIO issued server command: /tpayes Dezar68
+Server threadEx[30May2025 18:45:04.079] [Server thread/INFO] [net.minecraft.class_3244/]: IlarilarieOhOHIO issued server command: /tpayes Dezar68
+Server threadEx[30May2025 18:45:04.831] [Server thread/INFO] [net.minecraft.class_3244/]: IlarilarieOhOHIO issued server command: /tpayes Dezar68
+Server threadEx[30May2025 18:45:05.025] [Server thread/INFO] [net.minecraft.class_3244/]: IlarilarieOhOHIO issued server command: /tpayes Dezar68
+Server threadEx[30May2025 18:45:05.195] [Server thread/INFO] [net.minecraft.class_3244/]: IlarilarieOhOHIO issued server command: /tpayes Dezar68
+Server threadEx[30May2025 18:45:05.914] [Server thread/INFO] [net.minecraft.class_3244/]: IlarilarieOhOHIO issued server command: /tpayes Dezar68
+Server threadEx[30May2025 18:45:06.066] [Server thread/INFO] [net.minecraft.class_3244/]: IlarilarieOhOHIO issued server command: /tpayes Dezar68
+Server threadEx[30May2025 18:45:06.222] [Server thread/INFO] [net.minecraft.class_3244/]: IlarilarieOhOHIO issued server command: /tpayes Dezar68
+Server threadEx[30May2025 18:45:06.223] [Server thread/INFO] [net.minecraft.class_3244/]: IlarilarieOhOHIO lost connection: Kicked for spamming
+Server threadEx[30May2025 18:45:06.223] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client IlarilarieOhOHIO
+Server threadEx[30May2025 18:45:06.224] [Server thread/INFO] [Console/]: %vault_prefix% IlarilarieOhOHIO bled until death..
+Server threadEx[30May2025 18:45:06.225] [Server thread/INFO] [Console/]: %vault_prefix% IlarilarieOhOHIO disconnected while bleeding..
+Server threadEx[30May2025 18:45:06.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IlarilarieOhOHIO left the game.
+Server threadEx[30May2025 18:45:06.268] [Server thread/WARN] [net.minecraft.class_2535/]: handleDisconnection() called twice
+Server threadEx[30May2025 18:45:11.607] [User Authenticator #10/INFO] [net.minecraft.class_3248/]: UUID of player IlarilarieOhOHIO is 5b40bfaf-6541-3c7b-a78f-ddcb343ecdce
+User Authenticator #10Ex[30May2025 18:45:12.484] [Server thread/INFO] [net.minecraft.class_3324/]: IlarilarieOhOHIO[/127.116.208.72:48239] logged in with entity id 21349 at (774.1493981839707, 17.0, -245.77811446629323)
+Server threadEx[30May2025 18:45:12.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IlarilarieOhOHIO joined the game
+Server threadEx[30May2025 18:45:13.017] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of IlarilarieOhOHIO (18)
+Server threadEx[30May2025 18:45:13.018] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to IlarilarieOhOHIO
+Server threadEx[30May2025 18:45:13.193] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5b40bfaf-6541-3c7b-a78f-ddcb343ecdce
+VoiceChatPacketProcessingThreadEx[30May2025 18:45:14.202] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5b40bfaf-6541-3c7b-a78f-ddcb343ecdce
+VoiceChatPacketProcessingThreadEx[30May2025 18:45:14.203] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player IlarilarieOhOHIO (5b40bfaf-6541-3c7b-a78f-ddcb343ecdce) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[30May2025 18:45:19.394] [Server thread/INFO] [net.minecraft.class_3244/]: Dezar68 issued server command: /tpa RASTEROL
+Server threadEx[30May2025 18:45:23.365] [Server thread/INFO] [net.minecraft.class_3244/]: RASTEROL issued server command: /tpayes Dezar68
+Server threadEx[30May2025 18:45:24.977] [Async Chat Thread - #19/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xHARITOLx> alguien con base que me quiera adoptar temporalmente?
+Async Chat Thread - #19Ex[30May2025 18:45:31.366] [Async Chat Thread - #19/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xHARITOLx> me canse de este bioma del spawn
+Async Chat Thread - #19Ex[30May2025 18:45:34.719] [Async Chat Thread - #18/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IlarilarieOhOHIO> Borra el juego
+Async Chat Thread - #18Ex[30May2025 18:45:42.373] [Async Chat Thread - #18/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xHARITOLx> a, muy bien
+Async Chat Thread - #18Ex[30May2025 18:45:45.597] [Async Chat Thread - #18/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IlarilarieOhOHIO> XD
+Async Chat Thread - #18Ex[30May2025 18:45:56.871] [Async Chat Thread - #18/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RASTEROL> yo de usted lo mataba por pirobo
+Async Chat Thread - #18Ex[30May2025 18:46:10.377] [Async Chat Thread - #18/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xHARITOLx> si, verdad?
+Async Chat Thread - #18Ex[30May2025 18:46:18.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RASTEROL has made the advancement [Monster Hunter]
+Server threadEx[30May2025 18:46:58.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RICHARDESC207 has made the advancement [Take Aim]
+Server threadEx[30May2025 18:46:59.593] [Server thread/WARN] [net.minecraft.class_3244/]: xHARITOLx moved too quickly! 1.298470895613839,0.0,-12.714080406421033
+Server threadEx[30May2025 18:48:01.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RASTEROL has made the advancement [Acquire Hardware]
+Server threadEx[30May2025 18:49:24.820] [Server thread/INFO] [Console/]: %vault_prefix% IlarilarieOhOHIO is bleeding..
+Server threadEx[30May2025 18:49:46.608] [Server thread/INFO] [Console/]: %vault_prefix% IlarilarieOhOHIO has been revived by %vault_prefix% RASTEROL!
+Server threadEx[30May2025 18:49:52.981] [Server thread/INFO] [Console/]: %vault_prefix% IlarilarieOhOHIO is bleeding..
+Server threadEx[30May2025 18:49:58.571] [Server thread/INFO] [Console/]: %vault_prefix% RASTEROL is bleeding so bad..
+Server threadEx[30May2025 18:50:22.258] [Server thread/INFO] [Console/]: %vault_prefix% Dezar68 revived %vault_prefix% IlarilarieOhOHIO!
+Server threadEx[30May2025 18:50:30.912] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+VoiceChatPacketProcessingThreadEx[30May2025 18:50:30.912] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 18:50:30.913] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 18:50:32.060] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 18:50:33.258] [Server thread/INFO] [Console/]: %vault_prefix% RASTEROL has been saved by %vault_prefix% IlarilarieOhOHIO!
+Server threadEx[30May2025 18:50:56.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IlarilarieOhOHIO has made the advancement [Monster Hunter]
+Server threadEx[30May2025 18:51:22.132] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 18:51:22.133] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[30May2025 18:51:52.765] [Server thread/INFO] [Console/]: %vault_prefix% IlarilarieOhOHIO is bleeding..
+Server threadEx[30May2025 18:52:02.355] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+VoiceChatPacketProcessingThreadEx[30May2025 18:52:02.355] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 18:52:02.356] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 18:52:02.533] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 18:52:05.555] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 18:52:05.556] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[30May2025 18:52:26.008] [Server thread/INFO] [Console/]: %vault_prefix% IlarilarieOhOHIO has been revived by %vault_prefix% Dezar68!
+Server threadEx[30May2025 18:53:51.934] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+VoiceChatPacketProcessingThreadEx[30May2025 18:53:51.934] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 18:53:51.934] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 18:53:52.126] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 18:54:08.155] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 18:54:08.155] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[30May2025 18:54:26.107] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+VoiceChatPacketProcessingThreadEx[30May2025 18:54:26.107] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 18:54:26.108] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 18:54:26.302] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 18:54:39.326] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 18:54:39.327] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[30May2025 18:54:39.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IlarilarieOhOHIO has made the advancement [Acquire Hardware]
+Server threadEx[30May2025 18:54:46.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IlarilarieOhOHIO has made the advancement [Diamonds!]
+Server threadEx[30May2025 18:55:52.535] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+VoiceChatPacketProcessingThreadEx[30May2025 18:55:52.535] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 18:55:52.536] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 18:55:52.682] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 18:55:56.687] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 18:55:56.687] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[30May2025 18:56:53.876] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+VoiceChatPacketProcessingThreadEx[30May2025 18:56:53.876] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 18:56:53.877] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 18:56:54.028] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 18:57:01.018] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 18:57:01.019] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[30May2025 18:57:54.239] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+VoiceChatPacketProcessingThreadEx[30May2025 18:57:54.239] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 18:57:54.240] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 18:57:54.535] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 18:58:01.550] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 18:58:01.551] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[30May2025 18:58:44.456] [Server thread/INFO] [net.minecraft.class_3244/]: RASTEROL issued server command: /tpa Dezar68
+Server threadEx[30May2025 18:58:48.176] [Server thread/INFO] [net.minecraft.class_3244/]: Dezar68 issued server command: /tpayes RASTEROL
+Server threadEx[30May2025 18:59:00.582] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+VoiceChatPacketProcessingThreadEx[30May2025 18:59:00.582] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 18:59:00.582] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 18:59:00.729] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 18:59:01.749] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 18:59:01.749] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[30May2025 18:59:06.228] [Server thread/INFO] [net.minecraft.class_3244/]: RASTEROL issued server command: /tpa Dezar68
+Server threadEx[30May2025 18:59:08.275] [Server thread/INFO] [net.minecraft.class_3244/]: Dezar68 issued server command: /tpayes RASTEROL
+Server threadEx[30May2025 18:59:19.708] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+VoiceChatPacketProcessingThreadEx[30May2025 18:59:19.708] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 18:59:19.708] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 18:59:20.919] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 18:59:28.932] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 18:59:28.932] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[30May2025 18:59:42.576] [Server thread/INFO] [Console/]: %vault_prefix% IlarilarieOhOHIO is bleeding..
+Server threadEx[30May2025 18:59:54.672] [Server thread/INFO] [net.minecraft.class_3244/]: IlarilarieOhOHIO issued server command: /tpa Dezar68
+Server threadEx[30May2025 19:00:06.121] [Server thread/INFO] [Console/]: %vault_prefix% IlarilarieOhOHIO bled until death..
+Server threadEx[30May2025 19:00:11.977] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+VoiceChatPacketProcessingThreadEx[30May2025 19:00:11.977] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 19:00:11.977] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 19:00:12.209] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 19:00:15.223] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 19:00:15.224] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[30May2025 19:00:33.108] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+VoiceChatPacketProcessingThreadEx[30May2025 19:00:33.108] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 19:00:33.109] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 19:00:33.279] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 19:01:17.347] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 19:01:17.347] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[30May2025 19:01:18.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RASTEROL has made the advancement [Suit Up]
+Server threadEx[30May2025 19:01:34.435] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+VoiceChatPacketProcessingThreadEx[30May2025 19:01:34.435] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 19:01:34.436] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 19:01:34.902] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 19:01:36.900] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 19:01:36.900] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[30May2025 19:02:28.498] [Server thread/INFO] [net.minecraft.class_3244/]: IlarilarieOhOHIO issued server command: /tpa Dezar68
+Server threadEx[30May2025 19:02:30.299] [Server thread/INFO] [net.minecraft.class_3244/]: Dezar68 issued server command: /tpayes IlarilarieOhOHIO
+Server threadEx[30May2025 19:02:35.028] [Server thread/INFO] [net.minecraft.class_3244/]: IlarilarieOhOHIO issued server command: /tpa Dezar68
+Server threadEx[30May2025 19:02:38.789] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+VoiceChatPacketProcessingThreadEx[30May2025 19:02:38.789] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 19:02:38.789] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 19:02:39.029] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 19:02:42.079] [Server thread/INFO] [net.minecraft.class_3244/]: IlarilarieOhOHIO issued server command: /tpa Dezar68
+Server threadEx[30May2025 19:02:43.087] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 19:02:43.087] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[30May2025 19:02:44.097] [Server thread/INFO] [net.minecraft.class_3244/]: Dezar68 issued server command: /tpayes IlarilarieOhOHIO
+Server threadEx[30May2025 19:02:50.575] [Server thread/INFO] [Console/]: %vault_prefix% IlarilarieOhOHIO is bleeding..
+Server threadEx[30May2025 19:03:08.308] [Server thread/INFO] [Console/]: %vault_prefix% IlarilarieOhOHIO has been revived by %vault_prefix% Dezar68!
+Server threadEx[30May2025 19:03:37.121] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+VoiceChatPacketProcessingThreadEx[30May2025 19:03:37.121] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 19:03:37.122] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 19:03:37.346] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 19:03:38.349] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 19:03:38.350] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[30May2025 19:03:57.223] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+VoiceChatPacketProcessingThreadEx[30May2025 19:03:57.223] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 19:03:57.223] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 19:03:57.495] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 19:04:00.536] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 19:04:00.536] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[30May2025 19:04:18.317] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+VoiceChatPacketProcessingThreadEx[30May2025 19:04:18.317] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 19:04:18.317] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 19:04:18.582] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 19:04:25.600] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 19:04:25.600] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[30May2025 19:07:17.298] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+VoiceChatPacketProcessingThreadEx[30May2025 19:07:17.298] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 19:07:17.299] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 19:07:17.482] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 19:07:40.515] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 19:07:40.516] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[30May2025 19:08:37.707] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+VoiceChatPacketProcessingThreadEx[30May2025 19:08:37.707] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 19:08:37.708] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 19:08:37.967] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 19:08:38.968] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 19:08:38.969] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[30May2025 19:11:02.498] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+VoiceChatPacketProcessingThreadEx[30May2025 19:11:02.498] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 19:11:02.498] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 19:11:02.793] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 19:11:03.797] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 19:11:03.797] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[30May2025 19:11:31.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RICHARDESC207 has made the advancement [Ice Bucket Challenge]
+Server threadEx[30May2025 19:12:01.800] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+VoiceChatPacketProcessingThreadEx[30May2025 19:12:01.800] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 19:12:01.801] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 19:12:01.980] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 19:12:02.984] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 19:12:02.984] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[30May2025 19:12:41.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IlarilarieOhOHIO has made the advancement [Suit Up]
+Server threadEx[30May2025 19:13:14.248] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+VoiceChatPacketProcessingThreadEx[30May2025 19:13:14.248] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 19:13:14.248] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 19:13:14.430] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 19:13:19.456] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 19:13:19.456] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[30May2025 19:13:20.571] [Server thread/INFO] [net.minecraft.class_1646/]: Villager class_1646['Fletcher'/12405, l='ServerLevel[world]', x=688.70, y=64.00, z=-213.51] died, message: 'Fletcher was slain by Dezar68'
+Server threadEx[30May2025 19:13:37.367] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+VoiceChatPacketProcessingThreadEx[30May2025 19:13:37.367] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 19:13:37.367] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 19:13:37.535] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 19:13:39.539] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 19:13:39.539] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[30May2025 19:14:33.594] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+VoiceChatPacketProcessingThreadEx[30May2025 19:14:33.594] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 19:14:33.594] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 19:14:34.789] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 19:14:36.816] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 19:14:36.816] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[30May2025 19:14:54.681] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+VoiceChatPacketProcessingThreadEx[30May2025 19:14:54.681] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 19:14:54.681] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 19:14:54.930] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 19:14:55.910] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 19:14:55.911] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[30May2025 19:17:09.349] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+VoiceChatPacketProcessingThreadEx[30May2025 19:17:09.349] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 19:17:09.350] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 19:17:09.500] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 19:17:14.516] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 19:17:14.516] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[30May2025 19:17:37.015] [Server thread/INFO] [net.minecraft.class_3244/]: xHARITOLx lost connection: Disconnected
+Server threadEx[30May2025 19:17:37.015] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xHARITOLx
+Server threadEx[30May2025 19:17:37.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xHARITOLx left the game
+Server threadEx[30May2025 19:19:52.841] [User Authenticator #11/INFO] [net.minecraft.class_3248/]: UUID of player xHARITOLx is 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+User Authenticator #11Ex[30May2025 19:19:53.993] [Server thread/INFO] [net.minecraft.class_3324/]: xHARITOLx[/127.247.36.85:60201] logged in with entity id 44237 at (-148.30000001192093, 61.0, -943.6966015109782)
+Server threadEx[30May2025 19:19:53.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xHARITOLx joined the game
+Server threadEx[30May2025 19:19:57.849] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xHARITOLx (18)
+Server threadEx[30May2025 19:19:57.850] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xHARITOLx
+Server threadEx[30May2025 19:19:59.281] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 19:20:04.444] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 19:20:04.444] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[30May2025 19:20:50.544] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+VoiceChatPacketProcessingThreadEx[30May2025 19:20:50.544] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 19:20:50.544] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 19:20:50.740] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 19:21:15.798] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 19:21:15.798] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[30May2025 19:21:28.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RASTEROL has made the advancement [Diamonds!]
+Server threadEx[30May2025 19:21:28.785] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+VoiceChatPacketProcessingThreadEx[30May2025 19:21:28.785] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 19:21:28.786] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 19:21:29.000] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 19:21:32.755] [Async Chat Thread - #21/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xHARITOLx> ALM
+Async Chat Thread - #21Ex[30May2025 19:21:48.086] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 19:21:48.086] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[30May2025 19:22:08.003] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+VoiceChatPacketProcessingThreadEx[30May2025 19:22:08.003] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 19:22:08.003] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 19:22:08.204] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 19:22:24.234] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 19:22:24.234] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[30May2025 19:22:42.173] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+VoiceChatPacketProcessingThreadEx[30May2025 19:22:42.173] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 19:22:42.174] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 19:22:42.400] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 19:23:34.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RASTEROL has made the advancement [Hot Stuff]
+Server threadEx[30May2025 19:23:37.533] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 19:23:37.533] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[30May2025 19:24:09.599] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+VoiceChatPacketProcessingThreadEx[30May2025 19:24:09.599] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 19:24:09.599] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 19:24:09.784] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 19:24:21.809] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 19:24:21.810] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[30May2025 19:24:39.755] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+VoiceChatPacketProcessingThreadEx[30May2025 19:24:39.755] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 19:24:39.756] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 19:24:39.942] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 19:25:16.031] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 19:25:16.031] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[30May2025 19:25:33.036] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+VoiceChatPacketProcessingThreadEx[30May2025 19:25:33.036] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 19:25:33.037] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 19:25:33.193] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 19:25:34.169] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 19:25:34.169] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[30May2025 19:25:59.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] s
+Server threadEx[30May2025 19:26:01.174] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+VoiceChatPacketProcessingThreadEx[30May2025 19:26:01.174] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 19:26:01.174] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 19:26:01.426] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 19:26:07.560] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 19:26:07.561] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[30May2025 19:26:11.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] harol todo bien
+Server threadEx[30May2025 19:26:55.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] veo que te saca
+Server threadEx[30May2025 19:27:25.110] [Async Chat Thread - #23/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xHARITOLx> ???
+Async Chat Thread - #23Ex[30May2025 19:27:28.337] [Async Chat Thread - #23/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RASTEROL> trejos y la jennys que me la quiero culiar asi bien riko
+Async Chat Thread - #23Ex[30May2025 19:27:37.121] [Async Chat Thread - #23/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xHARITOLx> señor Server, todo en orden
+Async Chat Thread - #23Ex[30May2025 19:27:43.301] [Async Chat Thread - #23/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dezar68> ?
+Async Chat Thread - #23Ex[30May2025 19:28:06.111] [Async Chat Thread - #23/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xHARITOLx> jasjajsj uy ñero... como asi (x2)
+Async Chat Thread - #23Ex[30May2025 19:28:11.704] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+VoiceChatPacketProcessingThreadEx[30May2025 19:28:11.704] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 19:28:11.704] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 19:28:11.832] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 19:28:21.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] jajajaj lo saco
+Server threadEx[30May2025 19:28:23.059] [Async Chat Thread - #22/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RASTEROL> XD es broma
+Async Chat Thread - #22Ex[30May2025 19:28:30.861] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 19:28:30.861] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[30May2025 19:28:37.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] mañana jenny mod
+Server threadEx[30May2025 19:28:45.102] [Async Chat Thread - #23/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RICHARDESC207> epaaaaaaaaa
+Async Chat Thread - #23Ex[30May2025 19:28:45.598] [Async Chat Thread - #22/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xHARITOLx> si esta para la 1.20.4?
+Async Chat Thread - #22Ex[30May2025 19:28:48.840] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+VoiceChatPacketProcessingThreadEx[30May2025 19:28:48.840] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 19:28:48.840] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 19:28:48.984] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 19:28:50.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] >:9
+Server threadEx[30May2025 19:29:00.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] no c
+Server threadEx[30May2025 19:29:06.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] se busca
+Server threadEx[30May2025 19:29:18.550] [Async Chat Thread - #22/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xHARITOLx> este es tu admin?, el mio si
+Async Chat Thread - #22Ex[30May2025 19:29:34.989] [Async Chat Thread - #22/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IlarilarieOhOHIO> Borra el server
+Async Chat Thread - #22Ex[30May2025 19:29:53.147] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 19:29:53.147] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[30May2025 19:29:54.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] voy
+Server threadEx[30May2025 19:30:13.278] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+VoiceChatPacketProcessingThreadEx[30May2025 19:30:13.278] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 19:30:13.278] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 19:30:13.456] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 19:30:33.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invalid name or UUID
+Server threadEx[30May2025 19:30:33.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kick IlarilarieOhOHIOIlarilarieOhOHIOIlarilarieOhOHIOIlarilarieOhOHIOIlarilarieOhOHIOIlarilarieOhOHIOIlarilarieOh<--[HERE]
+Server threadEx[30May2025 19:31:07.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ras que tal el lag
+Server threadEx[30May2025 19:31:15.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] 0lag vrd
+Server threadEx[30May2025 19:31:16.823] [Async Chat Thread - #25/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RASTEROL> va bien por el momento
+Async Chat Thread - #25Ex[30May2025 19:31:54.627] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 19:31:54.628] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[30May2025 19:32:13.919] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+VoiceChatPacketProcessingThreadEx[30May2025 19:32:13.919] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 19:32:13.920] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 19:32:14.038] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 19:32:31.083] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 19:32:31.084] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[30May2025 19:33:05.169] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+VoiceChatPacketProcessingThreadEx[30May2025 19:33:05.169] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 19:33:05.170] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xHARITOLx
+VoiceChatPacketProcessingThreadEx[30May2025 19:33:05.423] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 19:33:10.655] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[30May2025 19:33:10.655] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[30May2025 19:33:24.818] [Server thread/INFO] [net.minecraft.class_3244/]: xHARITOLx lost connection: Disconnected
+Server threadEx[30May2025 19:33:24.819] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xHARITOLx
+Server threadEx[30May2025 19:33:24.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xHARITOLx left the game
+Server threadEx[30May2025 19:33:41.882] [Server thread/INFO] [net.minecraft.class_3244/]: RASTEROL issued server command: /skin RASTEROL
+Server threadEx[30May2025 19:34:01.014] [Server thread/INFO] [net.minecraft.class_3244/]: IlarilarieOhOHIO issued server command: /skin IlarilarieOhOHIO
+Server threadEx[30May2025 19:34:08.143] [Server thread/INFO] [net.minecraft.class_3244/]: RASTEROL issued server command: /tpa IlarilarieOhOHIO
+Server threadEx[30May2025 19:34:13.832] [Server thread/INFO] [net.minecraft.class_3244/]: IlarilarieOhOHIO issued server command: /tpayes RASTEROL
+Server threadEx[30May2025 19:34:28.047] [Server thread/INFO] [net.minecraft.class_3244/]: RASTEROL issued server command: /skin RASTEROL
+Server threadEx[30May2025 19:34:39.565] [Server thread/INFO] [net.minecraft.class_3244/]: Dezar68 issued server command: /skin Dezar68
+Server threadEx[30May2025 19:35:13.616] [Server thread/INFO] [net.minecraft.class_3244/]: RASTEROL issued server command: /skin IlarilarieOhOHIO
+Server threadEx[30May2025 19:35:25.015] [Server thread/INFO] [net.minecraft.class_3244/]: RASTEROL lost connection: Disconnected
+Server threadEx[30May2025 19:35:25.015] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RASTEROL
+Server threadEx[30May2025 19:35:25.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RASTEROL left the game
+Server threadEx

@@ -11,11 +11,13 @@
       "minecraft:beach": "2025-05-30 01:09:23 +0000",
       "minecraft:stony_peaks": "2025-05-30 02:17:41 +0000",
       "minecraft:forest": "2025-05-30 01:33:06 +0000",
-      "minecraft:deep_dark": "2025-05-30 02:33:47 +0000",
       "minecraft:sparse_jungle": "2025-05-30 01:32:33 +0000",
-      "minecraft:jungle": "2025-05-30 01:29:45 +0000",
       "minecraft:river": "2025-05-30 01:09:21 +0000",
       "minecraft:lukewarm_ocean": "2025-05-30 01:11:17 +0000",
+      "minecraft:stony_shore": "2025-05-30 18:53:10 +0000",
+      "minecraft:old_growth_birch_forest": "2025-05-30 19:27:01 +0000",
+      "minecraft:deep_dark": "2025-05-30 02:33:47 +0000",
+      "minecraft:jungle": "2025-05-30 01:29:45 +0000",
       "minecraft:savanna": "2025-05-30 00:46:05 +0000",
       "minecraft:plains": "2025-05-30 01:32:39 +0000"
     },
@@ -505,6 +507,7 @@
     "criteria": {
       "minecraft:cave_spider": "2025-05-30 02:20:38 +0000",
       "minecraft:skeleton": "2025-05-30 02:31:41 +0000",
+      "minecraft:enderman": "2025-05-30 19:25:35 +0000",
       "minecraft:spider": "2025-05-30 01:21:00 +0000",
       "minecraft:zombie": "2025-05-30 01:18:38 +0000",
       "minecraft:creeper": "2025-05-30 04:22:10 +0000",
@@ -890,6 +893,7 @@
       "rotten_flesh": "2025-05-30 01:19:59 +0000",
       "glow_berries": "2025-05-30 02:24:05 +0000",
       "cooked_cod": "2025-05-30 01:27:52 +0000",
+      "cooked_beef": "2025-05-30 19:08:37 +0000",
       "cooked_salmon": "2025-05-30 01:21:51 +0000"
     },
     "done": false
@@ -1626,6 +1630,48 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-05-30 19:03:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-30 18:48:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_the_recipe": "2025-05-30 19:32:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-30 18:48:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-05-30 19:32:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-05-30 19:03:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-05-30 19:30:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-05-30 17:57:56 +0000"
@@ -1638,15 +1684,51 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-30 19:11:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-05-30 18:46:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-05-30 18:40:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-05-30 18:16:16 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-05-30 19:33:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-05-30 17:57:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-05-30 19:33:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-05-30 19:11:31 +0000"
     },
     "done": true
   },
@@ -1659,6 +1741,24 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-05-30 17:57:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-05-30 19:30:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-05-30 19:33:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-05-30 19:32:56 +0000"
     },
     "done": true
   },
