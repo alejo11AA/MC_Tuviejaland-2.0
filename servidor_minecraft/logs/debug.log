@@ -8341,4 +8341,10 @@ Netty Epoll Server IO #1Ex[30May2025 03:11:49.982] [Server thread/INFO] [net.min
 Server threadEx[30May2025 03:11:56.704] [Server thread/INFO] [net.minecraft.class_3244/]: RICHARDESC207 issued server command: /tpa
 Server threadEx[30May2025 03:12:09.953] [Server thread/INFO] [net.minecraft.class_3244/]: RICHARDESC207 issued server command: /tpa electricidiZAP
 Server threadEx[30May2025 03:12:15.393] [Server thread/INFO] [net.minecraft.class_3244/]: electricidiZAP issued server command: /tpayes RICHARDESC207
+Server threadEx[30May2025 03:22:28.356] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-337, y=63, z=-1022} class_2338{x=-337, y=64, z=-1022}
+Server threadEx[30May2025 03:22:28.610] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-337, y=63, z=-1022} class_2338{x=-337, y=62, z=-1022}
+Server threadEx[30May2025 03:22:28.661] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-336, y=63, z=-1022} class_2338{x=-337, y=62, z=-1022}
+Server threadEx[30May2025 03:22:28.710] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-337, y=63, z=-1022} class_2338{x=-337, y=62, z=-1022}
+Server threadEx[30May2025 03:22:28.988] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-337, y=63, z=-1022} class_2338{x=-337, y=64, z=-1022}
+Server threadEx[30May2025 03:22:29.087] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-336, y=63, z=-1022} class_2338{x=-337, y=64, z=-1022}
 Server threadEx
