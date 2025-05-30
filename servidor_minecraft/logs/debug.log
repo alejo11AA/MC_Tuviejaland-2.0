@@ -8292,4 +8292,53 @@ Server threadEx[30May2025 02:55:25.807] [Server thread/INFO] [net.minecraft.serv
 Server threadEx[30May2025 02:55:54.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] me escribe para apagar el server
 Server threadEx[30May2025 02:56:01.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] :9
 Server threadEx[30May2025 02:56:07.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] :)
+Server threadEx[30May2025 03:05:25.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: electricidiZAP has made the advancement [What a Deal!]
+Server threadEx[30May2025 03:11:19.197] [Server thread/INFO] [Console/]: %vault_prefix% RICHARDESC207 is bleeding..
+Server threadEx[30May2025 03:11:19.466] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-362, y=72, z=-980} class_2338{x=-362, y=71, z=-981}
+Server threadEx[30May2025 03:11:19.687] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-362, y=72, z=-980} class_2338{x=-362, y=71, z=-981}
+Server threadEx[30May2025 03:11:20.517] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-362, y=72, z=-980} class_2338{x=-362, y=68, z=-979}
+Server threadEx[30May2025 03:11:20.767] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-362, y=72, z=-980} class_2338{x=-362, y=68, z=-979}
+Server threadEx[30May2025 03:11:23.597] [Server thread/INFO] [Console/]: %vault_prefix% RICHARDESC207 bled until death..
+Server threadEx[30May2025 03:11:23.597] [Server thread/ERROR] [Minecraft/]: Could not pass event PlayerDeathEvent to Graves v4.9
+Server threadEx org.bukkit.event.EventException: null
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:600) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:587) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactoryMixin.java:928) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at net.minecraft.class_3222.method_6078(ServerPlayerMixin_Vanilla.java:2311) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_5643(LivingEntityMixin.java:4346) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1657.method_5643(PlayerMixin_Vanilla.java:2532) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3222.method_5643(ServerPlayerMixin_Vanilla.java:738) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1439.method_6121(IronGolemMixin.java:201) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1366.method_6288(class_1366.java:151) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1366.method_6268(class_1366.java:144) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4135.method_6268(class_4135.java:65) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1355.method_38849(class_1355.java:120) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_6023(MobMixin.java:783) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_6007(LivingEntityMixin.java:2697) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_6007(MobMixin.java:556) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1439.method_6007(IronGolemMixin.java:121) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_5773(LivingEntityMixin.java:2446) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_5773(MobMixin.java:357) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_18762(ServerLevelMixin.java:761) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_18472(LevelMixin.java:492) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_31420(ServerLevelMixin.java:399) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5574.method_31791(class_5574.java:54) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_18765(ServerLevelMixin.java:363) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServerMixin.java:948) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3176.method_3813(DedicatedServerMixin_Vanilla.java:283) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServerMixin.java:845) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServerMixin.java:2127) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServerMixin.java:270) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.NoSuchMethodError: 'java.lang.String com.mojang.authlib.properties.Property.getValue()'
+	at com.ranull.graves.util.SkinUtil.getTexture(SkinUtil.java:48) ~[?:?]
+	at com.ranull.graves.listener.EntityDeathListener.onEntityDeath(EntityDeathListener.java:297) ~[?:?]
+	... 30 more
+[30May2025 03:11:27.577] [Netty Epoll Server IO #1/DEBUG] [ServerPlayNetworkAddon for literal{RICHARDESC207}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell RICHARDESC207 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@a5f1d542],insertion=RICHARDESC207}]/]: Handling inbound packet from channel with name "xaerominimap:main"
+Netty Epoll Server IO #1Ex[30May2025 03:11:27.577] [Netty Epoll Server IO #1/DEBUG] [ServerPlayNetworkAddon for literal{RICHARDESC207}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell RICHARDESC207 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@a5f1d542],insertion=RICHARDESC207}]/]: Handling inbound packet from channel with name "xaeroworldmap:main"
+Netty Epoll Server IO #1Ex[30May2025 03:11:49.982] [Server thread/INFO] [net.minecraft.class_3244/]: RICHARDESC207 issued server command: /tpa
+Server threadEx[30May2025 03:11:56.704] [Server thread/INFO] [net.minecraft.class_3244/]: RICHARDESC207 issued server command: /tpa
+Server threadEx[30May2025 03:12:09.953] [Server thread/INFO] [net.minecraft.class_3244/]: RICHARDESC207 issued server command: /tpa electricidiZAP
+Server threadEx[30May2025 03:12:15.393] [Server thread/INFO] [net.minecraft.class_3244/]: electricidiZAP issued server command: /tpayes RICHARDESC207
 Server threadEx
