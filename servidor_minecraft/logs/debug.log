@@ -4503,4 +4503,224 @@ Server threadEx[29May2025 23:33:24.178] [Netty Epoll Server IO #0/DEBUG] [Server
 Netty Epoll Server IO #0Ex[29May2025 23:33:24.179] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Mori_Jun: {disabled=true, disconnected=false, uuid=39a4115d-3442-3afd-aa2c-3b3a6673e363, name=Mori_Jun, group=null}
 Server threadEx[29May2025 23:33:26.146] [Netty Epoll Server IO #0/DEBUG] [ServerPlayNetworkAddon for literal{Mori_Jun}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Mori_Jun '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@7555631a],insertion=Mori_Jun}]/]: Handling inbound packet from channel with name "voicechat:update_state"
 Netty Epoll Server IO #0Ex[29May2025 23:33:26.152] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Mori_Jun: {disabled=false, disconnected=false, uuid=39a4115d-3442-3afd-aa2c-3b3a6673e363, name=Mori_Jun, group=null}
-Server threadEx
+Server threadEx[29May2025 23:34:59.087] [Async Chat Thread - #1/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mori_Jun> y hablo y no suena
+Async Chat Thread - #1Ex[29May2025 23:35:21.736] [Async Chat Thread - #1/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mori_Jun> ya
+Async Chat Thread - #1Ex[29May2025 23:35:26.395] [Async Chat Thread - #1/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mori_Jun> esta en lominimo
+Async Chat Thread - #1Ex[29May2025 23:35:41.019] [Netty Epoll Server IO #6/DEBUG] [FabricLoader/Mixin/]: Mixing network.ServerStatusNetHandlerMixin from mixins.arclight.core.json into net.minecraft.class_3251
+Netty Epoll Server IO #6Ex[29May2025 23:35:42.666] [Server thread/DEBUG] [FabricLoader/Mixin/]: Mixing world.item.MerchantOfferMixin from mixins.arclight.core.json into net.minecraft.class_1914
+Server threadEx[29May2025 23:35:42.669] [Server thread/DEBUG] [FabricLoader/Mixin/]: mixins.arclight.core.json:world.item.MerchantOfferMixin from mod arclight->@Inject::arclight$fix(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+Server threadEx[29May2025 23:35:59.291] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method $SWITCH_TABLE$net$minecraft$world$entity$player$EntityHuman$EnumBedResult()[I class org/bukkit/craftbukkit/v1_20_R3/event/CraftEventFactory$1
+Server threadEx[29May2025 23:36:05.233] [Server console handler/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class org/jline/reader/impl/LineReaderImpl$3
+Server console handlerEx[29May2025 23:36:08.594] [Server console handler/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class org/jline/terminal/impl/MouseSupport$1
+Server console handlerEx[29May2025 23:36:08.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Trejos1111 a server operator
+Server threadEx[29May2025 23:36:12.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mori_Jun has made the advancement [Sweet Dreams]
+Server threadEx[29May2025 23:36:25.852] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /gamerule playersSleepingPercentage 1
+Server threadEx[29May2025 23:36:25.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Trejos1111: Gamerule playersSleepingPercentage is now set to: 1]
+Server threadEx[29May2025 23:36:26.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trejos1111 has made the advancement [Sweet Dreams]
+Server threadEx[29May2025 23:40:07.620] [Server thread/DEBUG] [FabricLoader/Mixin/]: Mixing world.entity.monster.piglin.PiglinAiMixin from mixins.arclight.core.json into net.minecraft.class_4838
+Server threadEx[29May2025 23:40:07.692] [Server thread/DEBUG] [FabricLoader/Mixin/]: mixins.arclight.core.json:world.entity.monster.piglin.PiglinAiMixin from mod arclight->@Inject::arclight$pickup(Lnet/minecraft/class_1542;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V doesn't use it's CallbackInfoReturnable
+Server threadEx[29May2025 23:40:08.094] [Server thread/DEBUG] [Implementer/INVENTORY]: Implementing inventory for class net/minecraft/class_1258
+Server threadEx[29May2025 23:40:08.095] [Server thread/DEBUG] [FabricLoader/Mixin/]: Mixing world.CompoundContainerMixin from mixins.arclight.core.json into net.minecraft.class_1258
+Server threadEx[29May2025 23:40:08.098] [Server thread/DEBUG] [FabricLoader/Mixin/]: Mixing DoubleInventoryAccessor from fabric-transfer-api-v1.mixins.json into net.minecraft.class_1258
+Server threadEx[29May2025 23:40:08.822] [Server thread/DEBUG] [FabricLoader/Mixin/]: Mixing world.inventory.MerchantInventoryMixin from mixins.arclight.core.json into net.minecraft.class_1725
+Server threadEx[29May2025 23:40:08.828] [Server thread/DEBUG] [FabricLoader/Mixin/]: Mixing world.level.block.ComposterBlock_EmptyContainerMixin from mixins.arclight.core.json into net.minecraft.class_3962$class_3925
+Server threadEx[29May2025 23:40:08.829] [Server thread/DEBUG] [Implementer/INVENTORY]: Implementing inventory for class net/minecraft/class_3962$class_3963
+Server threadEx[29May2025 23:40:08.829] [Server thread/DEBUG] [FabricLoader/Mixin/]: Mixing world.level.block.ComposterBlock_InputContainerMixin from mixins.arclight.core.json into net.minecraft.class_3962$class_3963
+Server threadEx[29May2025 23:40:08.831] [Server thread/DEBUG] [FabricLoader/Mixin/]: mixins.arclight.core.json:world.level.block.ComposterBlock_InputContainerMixin from mod arclight->@Inject::arclight$setOwner(Lnet/minecraft/class_2680;Lnet/minecraft/class_1936;Lnet/minecraft/class_2338;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+Server threadEx[29May2025 23:40:08.831] [Server thread/DEBUG] [FabricLoader/Mixin/]: mixins.arclight.core.json:world.level.block.ComposterBlock_InputContainerMixin from mod arclight->@Inject::arclight$setOwner(Lnet/minecraft/class_2680;Lnet/minecraft/class_1936;Lnet/minecraft/class_2338;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V has 0 override(s) in child classes
+Server threadEx[29May2025 23:40:08.831] [Server thread/DEBUG] [FabricLoader/Mixin/]: mixins.arclight.core.json:world.level.block.ComposterBlock_InputContainerMixin from mod arclight->@Inject::arclight$setOwner(Lnet/minecraft/class_2680;Lnet/minecraft/class_1936;Lnet/minecraft/class_2338;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V won't be passed a CallbackInfo as a result
+Server threadEx[29May2025 23:40:08.831] [Server thread/DEBUG] [Implementer/INVENTORY]: Implementing inventory for class net/minecraft/class_3962$class_3964
+Server threadEx[29May2025 23:40:08.831] [Server thread/DEBUG] [FabricLoader/Mixin/]: Mixing world.level.block.ComposterBlock_OutputContainerMixin from mixins.arclight.core.json into net.minecraft.class_3962$class_3964
+Server threadEx[29May2025 23:40:08.833] [Server thread/DEBUG] [FabricLoader/Mixin/]: mixins.arclight.core.json:world.level.block.ComposterBlock_OutputContainerMixin from mod arclight->@Inject::arclight$setOwner(Lnet/minecraft/class_2680;Lnet/minecraft/class_1936;Lnet/minecraft/class_2338;Lnet/minecraft/class_1799;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+Server threadEx[29May2025 23:40:08.833] [Server thread/DEBUG] [FabricLoader/Mixin/]: mixins.arclight.core.json:world.level.block.ComposterBlock_OutputContainerMixin from mod arclight->@Inject::arclight$setOwner(Lnet/minecraft/class_2680;Lnet/minecraft/class_1936;Lnet/minecraft/class_2338;Lnet/minecraft/class_1799;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V has 0 override(s) in child classes
+Server threadEx[29May2025 23:40:08.833] [Server thread/DEBUG] [FabricLoader/Mixin/]: mixins.arclight.core.json:world.level.block.ComposterBlock_OutputContainerMixin from mod arclight->@Inject::arclight$setOwner(Lnet/minecraft/class_2680;Lnet/minecraft/class_1936;Lnet/minecraft/class_2338;Lnet/minecraft/class_1799;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V won't be passed a CallbackInfo as a result
+Server threadEx[29May2025 23:40:53.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mori_Jun has made the advancement [Acquire Hardware]
+Server threadEx[29May2025 23:41:41.957] [Server thread/DEBUG] [FabricLoader/Mixin/]: Mixing world.entity.animal.Bee_HurtByOtherGoalMixin from mixins.arclight.core.json into net.minecraft.class_4466$class_4475
+Server threadEx[29May2025 23:41:41.960] [Server thread/DEBUG] [FabricLoader/Mixin/]: mixins.arclight.core.json:world.entity.animal.Bee_HurtByOtherGoalMixin from mod arclight->@Inject::arclight$reason(Lnet/minecraft/class_1308;Lnet/minecraft/class_1309;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+Server threadEx[29May2025 23:41:41.960] [Server thread/DEBUG] [FabricLoader/Mixin/]: mixins.arclight.core.json:world.entity.animal.Bee_HurtByOtherGoalMixin from mod arclight->@Inject::arclight$reason(Lnet/minecraft/class_1308;Lnet/minecraft/class_1309;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V has 0 override(s) in child classes
+Server threadEx[29May2025 23:41:41.960] [Server thread/DEBUG] [FabricLoader/Mixin/]: mixins.arclight.core.json:world.entity.animal.Bee_HurtByOtherGoalMixin from mod arclight->@Inject::arclight$reason(Lnet/minecraft/class_1308;Lnet/minecraft/class_1309;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V won't be passed a CallbackInfo as a result
+Server threadEx[29May2025 23:46:04.149] [Server thread/DEBUG] [FabricLoader/Mixin/]: Mixing world.entity.ai.behavior.BabyFollowAdultMixin from mixins.arclight.core.json into net.minecraft.class_5355
+Server threadEx[29May2025 23:46:04.150] [Server thread/DEBUG] [FabricLoader/Mixin/]: Renaming synthetic method lambda$create$2(Lnet/minecraft/class_6019;Ljava/util/function/Function;Lnet/minecraft/class_7898$class_7900;)Lcom/mojang/datafixers/kinds/App; to mdb32dc5$arclight$lambda$create$2$0 in mixins.arclight.core.json:world.entity.ai.behavior.BabyFollowAdultMixin from mod arclight
+Server threadEx[29May2025 23:46:04.150] [Server thread/DEBUG] [FabricLoader/Mixin/]: Renaming synthetic method lambda$create$1(Lnet/minecraft/class_7898$class_7900;Lnet/minecraft/class_6019;Ljava/util/function/Function;Lnet/minecraft/class_7906;Lnet/minecraft/class_7906;Lnet/minecraft/class_7906;)Lnet/minecraft/class_7911; to mdb32dc5$arclight$lambda$create$1$1 in mixins.arclight.core.json:world.entity.ai.behavior.BabyFollowAdultMixin from mod arclight
+Server threadEx[29May2025 23:46:04.150] [Server thread/DEBUG] [FabricLoader/Mixin/]: Renaming synthetic method lambda$create$0(Lnet/minecraft/class_7898$class_7900;Lnet/minecraft/class_7906;Lnet/minecraft/class_6019;Ljava/util/function/Function;Lnet/minecraft/class_7906;Lnet/minecraft/class_7906;Lnet/minecraft/class_3218;Lnet/minecraft/class_1296;J)Z to mdb32dc5$arclight$lambda$create$0$2 in mixins.arclight.core.json:world.entity.ai.behavior.BabyFollowAdultMixin from mod arclight
+Server threadEx[29May2025 23:47:21.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mori_Jun has made the advancement [Monster Hunter]
+Server threadEx[29May2025 23:47:43.993] [Async Chat Thread - #3/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Trejos1111> haga /tpa
+Async Chat Thread - #3Ex[29May2025 23:47:53.104] [Server thread/INFO] [net.minecraft.class_3244/]: Mori_Jun issued server command: /tp
+Server threadEx[29May2025 23:47:55.914] [Async Chat Thread - #2/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mori_Jun> no deja
+Async Chat Thread - #2Ex[29May2025 23:48:55.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trejos1111 has made the advancement [Monster Hunter]
+Server threadEx[29May2025 23:49:10.099] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mori_Jun> mina
+Async Chat Thread - #5Ex[29May2025 23:49:44.798] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/class_1937$2
+Server threadEx[29May2025 23:50:22.496] [Server thread/INFO] [Console/]: [BetterRevive] Absorption amount using reflections is not available!
+Server threadEx[29May2025 23:50:22.500] [Server thread/INFO] [Console/]: %vault_prefix% Trejos1111 is bleeding so bad..
+Server threadEx[29May2025 23:50:22.524] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method $SWITCH_TABLE$org$bukkit$block$BlockFace()[I class org/bukkit/craftbukkit/v1_20_R3/CraftEffect
+Server threadEx[29May2025 23:50:22.524] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method $SWITCH_TABLE$org$bukkit$Axis()[I class org/bukkit/craftbukkit/v1_20_R3/CraftEffect
+Server threadEx[29May2025 23:50:22.524] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method $SWITCH_TABLE$org$bukkit$Effect()[I class org/bukkit/craftbukkit/v1_20_R3/CraftEffect
+Server threadEx[29May2025 23:50:30.423] [Async Chat Thread - #7/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Trejos1111> xd
+Async Chat Thread - #7Ex[29May2025 23:50:51.352] [Server thread/INFO] [Console/]: %vault_prefix% Trejos1111 died after bleeding..
+Server threadEx[29May2025 23:50:51.374] [Server thread/ERROR] [Minecraft/]: Could not pass event PlayerDeathEvent to Graves v4.9
+Server threadEx org.bukkit.event.EventException: null
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:600) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:587) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactoryMixin.java:928) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at net.minecraft.class_3222.method_6078(ServerPlayerMixin_Vanilla.java:2311) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_5643(LivingEntityMixin.java:4346) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1657.method_5643(PlayerMixin_Vanilla.java:2532) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3222.method_5643(ServerPlayerMixin_Vanilla.java:738) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_6121(MobMixin.java:1464) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1642.method_6121(ZombieMixin_Vanilla.java:348) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1366.method_6288(class_1366.java:151) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1366.method_6268(class_1366.java:144) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1396.method_6268(class_1396.java:28) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4135.method_6268(class_4135.java:65) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1355.method_38849(class_1355.java:120) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1355.method_6275(class_1355.java:111) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_6023(MobMixin.java:775) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_6007(LivingEntityMixin.java:2697) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_6007(MobMixin.java:556) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1588.method_6007(class_1588.java:44) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1642.method_6007(ZombieMixin_Vanilla.java:263) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_5773(LivingEntityMixin.java:2446) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1308.method_5773(MobMixin.java:357) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1642.method_5773(ZombieMixin_Vanilla.java:236) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_18762(ServerLevelMixin.java:761) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1937.method_18472(LevelMixin.java:492) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_31420(ServerLevelMixin.java:399) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5574.method_31791(class_5574.java:54) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3218.method_18765(ServerLevelMixin.java:363) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServerMixin.java:948) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3176.method_3813(DedicatedServerMixin_Vanilla.java:283) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServerMixin.java:845) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServerMixin.java:2127) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServerMixin.java:270) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.NoSuchMethodError: 'java.lang.String com.mojang.authlib.properties.Property.getValue()'
+	at com.ranull.graves.util.SkinUtil.getTexture(SkinUtil.java:48) ~[?:?]
+	at com.ranull.graves.listener.EntityDeathListener.onEntityDeath(EntityDeathListener.java:297) ~[?:?]
+	... 35 more
+[29May2025 23:50:54.136] [Netty Epoll Server IO #1/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "xaerominimap:main"
+Netty Epoll Server IO #1Ex[29May2025 23:50:54.136] [Netty Epoll Server IO #1/DEBUG] [ServerPlayNetworkAddon for literal{Trejos1111}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Trejos1111 '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@3949b5e],insertion=Trejos1111}]/]: Handling inbound packet from channel with name "xaeroworldmap:main"
+Netty Epoll Server IO #1Ex[29May2025 23:51:03.002] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /tpa Mori_Jun
+Server threadEx[29May2025 23:51:03.029] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/kyori/adventure/text/minimessage/MiniMessageParser$1
+Server threadEx[29May2025 23:51:06.364] [Server thread/INFO] [net.minecraft.class_3244/]: Mori_Jun issued server command: /tpayes Trejos1111
+Server threadEx[29May2025 23:53:34.064] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /difficulty hard
+Server threadEx[29May2025 23:53:34.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Trejos1111: The difficulty has been set to Hard]
+Server threadEx[29May2025 23:54:27.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trejos1111 has made the advancement [Acquire Hardware]
+Server threadEx[29May2025 23:54:49.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trejos1111 has made the advancement [Suit Up]
+Server threadEx[29May2025 23:54:51.938] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class ce/ajneb97/libs/armorequipevent/ArmorListener$1
+Server threadEx[29May2025 23:55:25.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mori_Jun has made the advancement [Isn't It Iron Pick]
+Server threadEx[29May2025 23:56:34.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trejos1111 has made the advancement [Isn't It Iron Pick]
+Server threadEx[29May2025 23:56:55.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trejos1111 has made the advancement [Diamonds!]
+Server threadEx[29May2025 23:57:09.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mori_Jun has made the advancement [Suit Up]
+Server threadEx[29May2025 23:59:23.033] [User Authenticator #3/INFO] [net.minecraft.class_3248/]: UUID of player WarGhoZt is 16c06dec-9e13-3a80-a941-843c4926acf3
+User Authenticator #3Ex[29May2025 23:59:23.999] [Server thread/INFO] [net.minecraft.class_3324/]: WarGhoZt[/127.228.64.131:43317] logged in with entity id 8500 at (27.5, 68.0, -73.5)
+Server threadEx[29May2025 23:59:24.017] [Server thread/WARN] [AdvancedTeleport/]: First-join teleport point  does not exist.
+Server threadEx[29May2025 23:59:24.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WarGhoZt joined the game
+Server threadEx[29May2025 23:59:24.021] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting default state of WarGhoZt: {disabled=false, disconnected=true, uuid=16c06dec-9e13-3a80-a941-843c4926acf3, name=WarGhoZt, group=null}
+Server threadEx[29May2025 23:59:28.284] [Async Chat Thread - #9/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Trejos1111> ooo
+Async Chat Thread - #9Ex[29May2025 23:59:38.435] [Async Chat Thread - #8/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mori_Jun> putas
+Async Chat Thread - #8Ex[29May2025 23:59:38.786] [Async Chat Thread - #9/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WarGhoZt> Ostia
+Async Chat Thread - #9Ex[29May2025 23:59:46.508] [Async Chat Thread - #8/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Trejos1111> holas
+Async Chat Thread - #8Ex[29May2025 23:59:57.599] [Async Chat Thread - #9/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WarGhoZt> Que mas
+Async Chat Thread - #9Ex[30May2025 00:00:22.398] [Async Chat Thread - #8/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WarGhoZt> Esto como es, si coordenadas?
+Async Chat Thread - #8Ex[30May2025 00:00:58.222] [Async Chat Thread - #8/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Trejos1111> quien sos
+Async Chat Thread - #8Ex[30May2025 00:01:03.479] [Async Chat Thread - #9/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Trejos1111> identificate
+Async Chat Thread - #9Ex[30May2025 00:01:19.605] [Server thread/INFO] [Console/]: %vault_prefix% WarGhoZt is bleeding..
+Server threadEx[30May2025 00:01:22.457] [Server thread/INFO] [Console/]: %vault_prefix% Mori_Jun is bleeding so bad..
+Server threadEx[30May2025 00:01:23.601] [Server thread/INFO] [net.minecraft.class_1646/]: Villager class_1646['Nitwit'/6010, l='ServerLevel[world]', x=413.24, y=75.00, z=157.76] died, message: 'Nitwit was slain by Zombie'
+Server threadEx[30May2025 00:01:30.748] [Server thread/INFO] [Console/]: %vault_prefix% WarGhoZt died after bleeding..
+Server threadEx[30May2025 00:01:30.930] [Async Chat Thread - #9/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WarGhoZt> Arias
+Async Chat Thread - #9Ex[30May2025 00:01:34.260] [Async Chat Thread - #8/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mori_Jun> help
+Async Chat Thread - #8Ex[30May2025 00:01:53.856] [Async Chat Thread - #9/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mori_Jun> ayuda
+Async Chat Thread - #9Ex[30May2025 00:02:00.804] [Async Chat Thread - #8/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Trejos1111> voy
+Async Chat Thread - #8Ex[30May2025 00:02:06.224] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /tpa Mori_Jun
+Server threadEx[30May2025 00:02:08.906] [Server thread/INFO] [net.minecraft.class_3244/]: Mori_Jun issued server command: /tpayes Trejos1111
+Server threadEx[30May2025 00:02:09.461] [Server thread/INFO] [net.minecraft.class_3244/]: Mori_Jun issued server command: /tpayes Trejos1111
+Server threadEx[30May2025 00:02:09.780] [Server thread/INFO] [net.minecraft.class_3244/]: Mori_Jun issued server command: /tpayes Trejos1111
+Server threadEx[30May2025 00:02:10.132] [Server thread/INFO] [net.minecraft.class_3244/]: Mori_Jun issued server command: /tpayes Trejos1111
+Server threadEx[30May2025 00:02:10.349] [Server thread/INFO] [net.minecraft.class_3244/]: Mori_Jun issued server command: /tpayes Trejos1111
+Server threadEx[30May2025 00:02:10.558] [Server thread/INFO] [net.minecraft.class_3244/]: Mori_Jun issued server command: /tpayes Trejos1111
+Server threadEx[30May2025 00:02:10.788] [Server thread/INFO] [net.minecraft.class_3244/]: Mori_Jun issued server command: /tpayes Trejos1111
+Server threadEx[30May2025 00:02:11.027] [Server thread/INFO] [net.minecraft.class_3244/]: Mori_Jun issued server command: /tpayes Trejos1111
+Server threadEx[30May2025 00:02:13.621] [Server thread/INFO] [net.minecraft.class_3244/]: Mori_Jun issued server command: /tpayes Trejos1111
+Server threadEx[30May2025 00:02:13.806] [Server thread/INFO] [net.minecraft.class_3244/]: Mori_Jun issued server command: /tpayes Trejos1111
+Server threadEx[30May2025 00:02:16.048] [Server thread/INFO] [Console/]: %vault_prefix% WarGhoZt is bleeding..
+Server threadEx[30May2025 00:02:16.564] [Async Chat Thread - #9/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WarGhoZt> Como los encuentro?
+Async Chat Thread - #9Ex[30May2025 00:02:17.606] [Async Chat Thread - #8/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mori_Jun> no me deja
+Async Chat Thread - #8Ex[30May2025 00:02:22.496] [Server thread/INFO] [Console/]: %vault_prefix% Mori_Jun bled until death..
+Server threadEx[30May2025 00:02:22.498] [Server thread/ERROR] [Minecraft/]: Could not pass event PlayerDeathEvent to Graves v4.9
+Server threadEx org.bukkit.event.EventException: null
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:600) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:587) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.event.CraftEventFactory.callPlayerDeathEvent(CraftEventFactoryMixin.java:928) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at net.minecraft.class_3222.method_6078(ServerPlayerMixin_Vanilla.java:2311) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1309.method_5643(LivingEntityMixin.java:4346) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1657.method_5643(PlayerMixin_Vanilla.java:2532) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3222.method_5643(ServerPlayerMixin_Vanilla.java:738) ~[server-intermediary.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.entity.CraftLivingEntity.damage(CraftLivingEntity.java:327) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.entity.CraftLivingEntity.damage(CraftLivingEntity.java:300) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at com.alonsoaliaga.betterrevive.listeners.DamageListener$1.run(DamageListener.java:378) ~[?:?]
+	at org.bukkit.craftbukkit.v1_20_R3.scheduler.CraftTask.run(CraftTask.java:82) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftSchedulerMixin.java:415) ~[arclight-1.20.4-1.0.4-80ec5df.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zbh000$arclight$runScheduler(MinecraftServerMixin.java:2371) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServerMixin.java) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3176.method_3813(DedicatedServerMixin_Vanilla.java:283) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServerMixin.java:845) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServerMixin.java:2127) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServerMixin.java:270) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.NoSuchMethodError: 'java.lang.String com.mojang.authlib.properties.Property.getValue()'
+	at com.ranull.graves.util.SkinUtil.getTexture(SkinUtil.java:48) ~[?:?]
+	at com.ranull.graves.listener.EntityDeathListener.onEntityDeath(EntityDeathListener.java:297) ~[?:?]
+	... 20 more
+[30May2025 00:02:25.055] [Netty Epoll Server IO #0/DEBUG] [ServerPlayNetworkAddon for literal{Mori_Jun}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Mori_Jun '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@7555631a],insertion=Mori_Jun}]/]: Handling inbound packet from channel with name "xaerominimap:main"
+Netty Epoll Server IO #0Ex[30May2025 00:02:25.055] [Netty Epoll Server IO #0/DEBUG] [ServerPlayNetworkAddon for literal{Mori_Jun}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell Mori_Jun '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@7555631a],insertion=Mori_Jun}]/]: Handling inbound packet from channel with name "xaeroworldmap:main"
+Netty Epoll Server IO #0Ex[30May2025 00:02:38.550] [Server thread/INFO] [net.minecraft.class_3244/]: WarGhoZt issued server command: /giveup
+Server threadEx[30May2025 00:02:38.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WarGhoZt died because of Zombie
+Server threadEx[30May2025 00:02:39.152] [Async Chat Thread - #9/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Trejos1111> pere
+Async Chat Thread - #9Ex[30May2025 00:03:41.598] [Server thread/INFO] [Console/]: %vault_prefix% WarGhoZt is bleeding..
+Server threadEx[30May2025 00:03:45.950] [Server thread/INFO] [net.minecraft.class_3244/]: WarGhoZt issued server command: /tpa
+Server threadEx[30May2025 00:04:04.052] [Server thread/INFO] [Console/]: %vault_prefix% WarGhoZt bled until death..
+Server threadEx[30May2025 00:04:14.750] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /tpa WarGhoZt
+Server threadEx[30May2025 00:04:25.447] [Async Chat Thread - #11/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Trejos1111> acepta
+Async Chat Thread - #11Ex[30May2025 00:04:28.816] [Async Chat Thread - #10/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Trejos1111> el tp
+Async Chat Thread - #10Ex[30May2025 00:04:30.221] [Server thread/INFO] [net.minecraft.class_3244/]: WarGhoZt issued server command: /tpayes Trejos1111
+Server threadEx[30May2025 00:04:32.111] [Server thread/INFO] [net.minecraft.class_3244/]: WarGhoZt issued server command: /tpayes Trejos1111
+Server threadEx[30May2025 00:05:08.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mori_Jun has made the advancement [Not Today, Thank You]
+Server threadEx[30May2025 00:05:18.947] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class io/izzel/arclight/common/mixin/core/world/level/block/PressurePlateBlockMixin$1
+Server threadEx[30May2025 00:05:34.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WarGhoZt has made the advancement [Acquire Hardware]
+Server threadEx[30May2025 00:05:41.885] [Async Chat Thread - #13/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WarGhoZt> Pereme un momento ya vengo
+Async Chat Thread - #13Ex[30May2025 00:05:55.099] [Server thread/INFO] [net.minecraft.class_3244/]: WarGhoZt lost connection: Disconnected
+Server threadEx[30May2025 00:05:55.100] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of WarGhoZt
+Server threadEx[30May2025 00:05:55.101] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client WarGhoZt
+Server threadEx[30May2025 00:05:55.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WarGhoZt left the game
+Server threadEx[30May2025 00:06:04.621] [Async Chat Thread - #12/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mori_Jun> murio el server
+Async Chat Thread - #12Ex[30May2025 00:06:10.633] [Async Chat Thread - #12/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Trejos1111> xddd
+Async Chat Thread - #12Ex[30May2025 00:06:17.565] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /tpa Mori_Jun
+Server threadEx[30May2025 00:06:21.631] [Server thread/INFO] [net.minecraft.class_3244/]: Mori_Jun issued server command: /tpayes Trejos1111
+Server threadEx[30May2025 00:06:36.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trejos1111 has made the advancement [Not Today, Thank You]
+Server threadEx[30May2025 00:06:54.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mori_Jun has made the advancement [Diamonds!]
+Server threadEx[30May2025 00:08:18.190] [User Authenticator #4/INFO] [net.minecraft.class_3248/]: UUID of player WarGhoZt is 16c06dec-9e13-3a80-a941-843c4926acf3
+User Authenticator #4Ex[30May2025 00:08:18.790] [Server thread/INFO] [net.minecraft.class_3324/]: WarGhoZt[/127.228.64.131:48825] logged in with entity id 12490 at (30.226567078878837, 71.0, -60.848562652343645)
+Server threadEx[30May2025 00:08:18.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WarGhoZt joined the game
+Server threadEx[30May2025 00:08:18.798] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting default state of WarGhoZt: {disabled=false, disconnected=true, uuid=16c06dec-9e13-3a80-a941-843c4926acf3, name=WarGhoZt, group=null}
+Server threadEx[30May2025 00:08:26.789] [Async Chat Thread - #15/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WarGhoZt> Listo
+Async Chat Thread - #15Ex[30May2025 00:08:32.205] [Async Chat Thread - #14/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WarGhoZt> TP o q
+Async Chat Thread - #14Ex[30May2025 00:08:41.630] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /tpa WarGhoZt
+Server threadEx[30May2025 00:08:45.141] [Server thread/INFO] [net.minecraft.class_3244/]: WarGhoZt issued server command: /tpayes Trejos1111
+Server threadEx[30May2025 00:09:02.858] [Async Chat Thread - #15/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WarGhoZt> Que procede
+Async Chat Thread - #15Ex[30May2025 00:09:10.757] [Async Chat Thread - #14/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mori_Jun> guerra?
+Async Chat Thread - #14Ex[30May2025 00:09:24.154] [Async Chat Thread - #15/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WarGhoZt> Con quien?
+Async Chat Thread - #15Ex[30May2025 00:09:43.106] [Async Chat Thread - #14/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mori_Jun> team chocorramo o gansito?
+Async Chat Thread - #14Ex[30May2025 00:09:54.471] [Async Chat Thread - #15/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WarGhoZt> Chocorramo
+Async Chat Thread - #15Ex[30May2025 00:10:11.073] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /back
+Server threadEx[30May2025 00:10:11.077] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method $SWITCH_TABLE$org$bukkit$Particle()[I class org/bukkit/craftbukkit/v1_20_R3/CraftParticle
+Server threadEx[30May2025 00:10:15.113] [Async Chat Thread - #14/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mori_Jun> tellez baneelo
+Async Chat Thread - #14Ex[30May2025 00:10:37.219] [Async Chat Thread - #15/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WarGhoZt> Nooo
+Async Chat Thread - #15Ex[30May2025 00:11:00.091] [Async Chat Thread - #14/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WarGhoZt> Quienes estan conectados?
+Async Chat Thread - #14Ex[30May2025 00:11:44.692] [Async Chat Thread - #14/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mori_Jun> como 3 contandolo a usted
+Async Chat Thread - #14Ex[30May2025 00:12:04.386] [Async Chat Thread - #16/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mori_Jun> carbon?
+Async Chat Thread - #16Ex[30May2025 00:13:05.031] [Async Chat Thread - #18/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WarGhoZt> Constryanse un coliseo pa los pvps
+Async Chat Thread - #18Ex[30May2025 00:13:19.064] [Async Chat Thread - #17/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Trejos1111> proximamente
+Async Chat Thread - #17Ex
