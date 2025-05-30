@@ -93,4 +93,35 @@ Async Chat Thread - #14Ex[30May2025 00:11:44.692] [Async Chat Thread - #14/INFO]
 Async Chat Thread - #14Ex[30May2025 00:12:04.386] [Async Chat Thread - #16/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mori_Jun> carbon?
 Async Chat Thread - #16Ex[30May2025 00:13:05.031] [Async Chat Thread - #18/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WarGhoZt> Constryanse un coliseo pa los pvps
 Async Chat Thread - #18Ex[30May2025 00:13:19.064] [Async Chat Thread - #17/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Trejos1111> proximamente
-Async Chat Thread - #17Ex
+Async Chat Thread - #17Ex[30May2025 00:15:07.354] [Async Chat Thread - #20/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Trejos1111> pacho
+Async Chat Thread - #20Ex[30May2025 00:15:13.652] [Async Chat Thread - #19/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mori_Jun> ods
+Async Chat Thread - #19Ex[30May2025 00:15:29.253] [Async Chat Thread - #20/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mori_Jun> oks
+Async Chat Thread - #20Ex[30May2025 00:17:29.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trejos1111 has made the advancement [Hot Stuff]
+Server threadEx[30May2025 00:17:32.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trejos1111 has made the advancement [Ice Bucket Challenge]
+Server threadEx[30May2025 00:17:43.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WarGhoZt has made the advancement [Sweet Dreams]
+Server threadEx[30May2025 00:17:50.050] [Async Chat Thread - #22/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WarGhoZt> Duermen o q?
+Async Chat Thread - #22Ex[30May2025 00:18:19.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mori_Jun has made the advancement [Ice Bucket Challenge]
+Server threadEx[30May2025 00:19:43.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trejos1111 has made the advancement [We Need to Go Deeper]
+Server threadEx[30May2025 00:19:44.946] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2352ms or 47 ticks behind
+Server threadEx[30May2025 00:19:57.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mori_Jun has made the advancement [We Need to Go Deeper]
+Server threadEx[30May2025 00:20:08.328] [Async Chat Thread - #24/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mori_Jun> top peores spaener
+Async Chat Thread - #24Ex[30May2025 00:20:09.360] [Async Chat Thread - #23/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Trejos1111> xd
+Async Chat Thread - #23Ex[30May2025 00:20:49.021] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /pl
+Server threadEx[30May2025 00:22:06.573] [User Authenticator #5/INFO] [net.minecraft.class_3248/]: UUID of player electricidiZAP is 6aa611ff-b2fa-3dfd-95c9-3e84212b9752
+User Authenticator #5Ex[30May2025 00:22:07.686] [Server thread/INFO] [net.minecraft.class_3324/]: electricidiZAP[/127.214.193.124:47573] logged in with entity id 17085 at (29.5, 66.0, -67.5)
+Server threadEx[30May2025 00:22:07.690] [Server thread/WARN] [AdvancedTeleport/]: First-join teleport point  does not exist.
+Server threadEx[30May2025 00:22:07.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: electricidiZAP joined the game
+Server threadEx[30May2025 00:22:08.309] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of electricidiZAP (18)
+Server threadEx[30May2025 00:22:08.309] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to electricidiZAP
+Server threadEx[30May2025 00:22:08.519] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 6aa611ff-b2fa-3dfd-95c9-3e84212b9752
+VoiceChatPacketProcessingThreadEx[30May2025 00:22:09.522] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6aa611ff-b2fa-3dfd-95c9-3e84212b9752
+VoiceChatPacketProcessingThreadEx[30May2025 00:22:09.522] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player electricidiZAP (6aa611ff-b2fa-3dfd-95c9-3e84212b9752) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[30May2025 00:22:37.031] [Server thread/INFO] [net.minecraft.class_3244/]: electricidiZAP issued server command: /tpa Trejos1111
+Server threadEx[30May2025 00:22:40.530] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /tpayes electricidiZAP
+Server threadEx[30May2025 00:22:58.271] [Async Chat Thread - #26/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <electricidiZAP> tt
+Async Chat Thread - #26Ex[30May2025 00:23:08.801] [Server thread/INFO] [Console/]: %vault_prefix% Mori_Jun is bleeding..
+Server threadEx[30May2025 00:23:51.848] [Server thread/INFO] [Console/]: %vault_prefix% Mori_Jun has been revived by %vault_prefix% Trejos1111!
+Server threadEx[30May2025 00:23:55.123] [Async Chat Thread - #25/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mori_Jun> ufff
+Async Chat Thread - #25Ex[30May2025 00:24:07.068] [Async Chat Thread - #26/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mori_Jun> por eso estoy escribiendo
+Async Chat Thread - #26Ex[30May2025 00:24:45.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WarGhoZt has made the advancement [Stone Age]
+Server threadEx
