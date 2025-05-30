@@ -584,7 +584,8 @@
       "minecraft:zombie": "2025-05-29 23:48:55 +0000",
       "minecraft:creeper": "2025-05-30 01:36:15 +0000",
       "minecraft:zombie_villager": "2025-05-29 23:52:47 +0000",
-      "minecraft:evoker": "2025-05-30 02:36:09 +0000"
+      "minecraft:evoker": "2025-05-30 02:36:09 +0000",
+      "minecraft:slime": "2025-05-30 04:54:08 +0000"
     },
     "done": false
   },
@@ -1725,6 +1726,24 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-05-30 04:37:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-05-30 04:54:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-05-30 04:54:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-05-30 04:54:13 +0000"
     },
     "done": true
   },
