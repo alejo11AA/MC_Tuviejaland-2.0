@@ -5757,4 +5757,21 @@ Server threadEx[31May2025 03:58:45.649] [Server thread/INFO] [Console/]: %vault_
 Server threadEx[31May2025 03:58:54.644] [Server thread/INFO] [net.minecraft.class_3244/]: xHARITOLx issued server command: /giveup
 Server threadEx[31May2025 03:58:54.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xHARITOLx died because of Zombie
 Server threadEx[31May2025 03:59:01.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xHARITOLx has made the advancement [Sweet Dreams]
+Server threadEx[31May2025 04:20:41.039] [Server thread/INFO] [net.minecraft.class_3244/]: xHARITOLx issued server command: /back
+Server threadEx[31May2025 04:21:06.255] [Server thread/INFO] [net.minecraft.class_3244/]: xHARITOLx issued server command: /home casa
+Server threadEx[31May2025 04:21:13.301] [Server thread/INFO] [net.minecraft.class_3244/]: xHARITOLx issued server command: /home Casa
+Server threadEx[31May2025 04:34:24.688] [Async Chat Thread - #6/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xHARITOLx> bueno gente, hasta mañana
+Async Chat Thread - #6Ex[31May2025 04:34:34.777] [Server thread/INFO] [net.minecraft.class_3244/]: xHARITOLx issued server command: /p
+Server threadEx[31May2025 04:34:38.895] [Server thread/INFO] [net.minecraft.class_3244/]: xHARITOLx issued server command: /plugins
+Server threadEx[31May2025 04:34:49.588] [Server thread/INFO] [net.minecraft.class_3244/]: xHARITOLx issued server command: /luckperms
+Server threadEx[31May2025 04:34:49.676] [luckperms-command-executor/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class me/lucko/luckperms/common/command/abstraction/GenericChildCommand$1
+luckperms-command-executorEx[31May2025 04:35:31.703] [Server thread/INFO] [net.minecraft.class_3244/]: xHARITOLx issued server command: /perm
+Server threadEx[31May2025 04:35:37.453] [Server thread/INFO] [net.minecraft.class_3244/]: xHARITOLx issued server command: /permission
+Server threadEx[31May2025 04:36:15.763] [Server thread/INFO] [net.minecraft.class_3244/]: xHARITOLx issued server command: /b
+Server threadEx[31May2025 04:36:20.591] [Server thread/INFO] [net.minecraft.class_3244/]: xHARITOLx issued server command: /bukkit:?
+Server threadEx[31May2025 04:36:39.525] [Server thread/INFO] [net.minecraft.class_3244/]: xHARITOLx issued server command: /at
+Server threadEx[31May2025 04:41:35.225] [Server thread/INFO] [net.minecraft.class_3244/]: xHARITOLx lost connection: Disconnected
+Server threadEx[31May2025 04:41:35.225] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of xHARITOLx
+Server threadEx[31May2025 04:41:35.226] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xHARITOLx
+Server threadEx[31May2025 04:41:35.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xHARITOLx left the game
 Server threadEx
