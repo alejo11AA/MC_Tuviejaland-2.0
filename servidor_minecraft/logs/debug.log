@@ -5614,4 +5614,33 @@ VoiceChatPacketProcessingThreadEx[31May2025 03:27:02.017] [VoiceChatPacketProces
 VoiceChatPacketProcessingThreadEx[31May2025 03:27:02.017] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
 VoiceChatPacketProcessingThreadEx[31May2025 03:27:02.117] [Netty Epoll Server IO #0/DEBUG] [ServerPlayNetworkAddon for literal{xHARITOLx}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell xHARITOLx '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@b61bc813],insertion=xHARITOLx}]/]: Handling inbound packet from channel with name "voicechat:update_state"
 Netty Epoll Server IO #0Ex[31May2025 03:27:02.130] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of xHARITOLx: {disabled=true, disconnected=false, uuid=4cfbe52e-0a09-3353-afb1-a69812cf81a9, name=xHARITOLx, group=null}
-Server threadEx
+Server threadEx[31May2025 03:31:26.345] [Server thread/INFO] [net.minecraft.class_3244/]: xHARITOLx issued server command: /sethome Casa
+Server threadEx[31May2025 03:31:29.031] [Server thread/INFO] [net.minecraft.class_3244/]: xHARITOLx issued server command: /homes
+Server threadEx[31May2025 03:31:33.480] [Server thread/INFO] [net.minecraft.class_3244/]: xHARITOLx issued server command: /home cofre
+Server threadEx[31May2025 03:31:36.311] [Server thread/INFO] [net.minecraft.class_3244/]: xHARITOLx issued server command: /home cofre
+Server threadEx[31May2025 03:31:49.226] [Server thread/INFO] [net.minecraft.class_3244/]: xHARITOLx issued server command: /home cofre
+Server threadEx[31May2025 03:32:31.009] [Server thread/INFO] [net.minecraft.class_3244/]: xHARITOLx issued server command: /home c
+Server threadEx[31May2025 03:32:34.680] [Server thread/INFO] [net.minecraft.class_3244/]: xHARITOLx issued server command: /home casa
+Server threadEx[31May2025 03:32:38.140] [Server thread/INFO] [net.minecraft.class_3244/]: xHARITOLx issued server command: /home Casa
+Server threadEx[31May2025 03:33:53.077] [Server thread/INFO] [net.minecraft.class_3244/]: xHARITOLx issued server command: /home cofre
+Server threadEx[31May2025 03:34:23.134] [Server thread/INFO] [net.minecraft.class_3244/]: xHARITOLx issued server command: /home Casa
+Server threadEx[31May2025 03:34:46.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: electricidiZAP has made the advancement [Enchanter]
+Server threadEx[31May2025 03:34:49.028] [Server thread/INFO] [net.minecraft.class_3244/]: xHARITOLx issued server command: /home
+Server threadEx[31May2025 03:34:52.379] [Server thread/INFO] [net.minecraft.class_3244/]: xHARITOLx issued server command: /home save
+Server threadEx[31May2025 03:35:20.774] [Server thread/INFO] [net.minecraft.class_3244/]: xHARITOLx issued server command: /home Casa
+Server threadEx[31May2025 03:35:41.839] [Server thread/INFO] [net.minecraft.class_3244/]: xHARITOLx issued server command: /home save
+Server threadEx[31May2025 03:35:59.191] [Server thread/INFO] [net.minecraft.class_3244/]: xHARITOLx issued server command: /home Casa
+Server threadEx[31May2025 03:36:33.486] [Server thread/INFO] [net.minecraft.class_3244/]: xHARITOLx issued server command: /home save
+Server threadEx[31May2025 03:36:41.080] [Server thread/INFO] [net.minecraft.class_3244/]: xHARITOLx issued server command: /home save
+Server threadEx[31May2025 03:36:43.454] [Server thread/INFO] [net.minecraft.class_3244/]: xHARITOLx issued server command: /home save
+Server threadEx[31May2025 03:36:50.098] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-337, y=63, z=-1036} class_2338{x=-336, y=63, z=-1036}
+Server threadEx[31May2025 03:37:29.344] [Server thread/INFO] [net.minecraft.class_3244/]: xHARITOLx issued server command: /home Casa
+Server threadEx[31May2025 03:38:09.238] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-337, y=63, z=-1046} class_2338{x=-337, y=63, z=-1045}
+Server threadEx[31May2025 03:38:09.583] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-337, y=63, z=-1046} class_2338{x=-337, y=62, z=-1046}
+Server threadEx[31May2025 03:38:09.735] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-337, y=63, z=-1046} class_2338{x=-337, y=62, z=-1046}
+Server threadEx[31May2025 03:38:09.886] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-337, y=63, z=-1046} class_2338{x=-337, y=62, z=-1046}
+Server threadEx[31May2025 03:38:09.984] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-337, y=63, z=-1046} class_2338{x=-337, y=62, z=-1046}
+Server threadEx[31May2025 03:38:10.887] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: class_2338{x=-337, y=63, z=-1046} class_2338{x=-337, y=62, z=-1046}
+Server threadEx[31May2025 03:39:58.298] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xHARITOLx> podrian dormir todo bien
+Async Chat Thread - #4Ex[31May2025 03:40:26.565] [Async Chat Thread - #3/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <electricidiZAP> ya voy bb
+Async Chat Thread - #3Ex

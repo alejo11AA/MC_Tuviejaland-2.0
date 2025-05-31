@@ -765,4 +765,26 @@ VoiceChatPacketProcessingThreadEx[31May2025 03:26:59.821] [VoiceChatPacketProces
 VoiceChatPacketProcessingThreadEx[31May2025 03:27:00.016] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
 VoiceChatPacketProcessingThreadEx[31May2025 03:27:02.017] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
 VoiceChatPacketProcessingThreadEx[31May2025 03:27:02.017] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
-VoiceChatPacketProcessingThreadEx
+VoiceChatPacketProcessingThreadEx[31May2025 03:31:26.345] [Server thread/INFO] [net.minecraft.class_3244/]: xHARITOLx issued server command: /sethome Casa
+Server threadEx[31May2025 03:31:29.031] [Server thread/INFO] [net.minecraft.class_3244/]: xHARITOLx issued server command: /homes
+Server threadEx[31May2025 03:31:33.480] [Server thread/INFO] [net.minecraft.class_3244/]: xHARITOLx issued server command: /home cofre
+Server threadEx[31May2025 03:31:36.311] [Server thread/INFO] [net.minecraft.class_3244/]: xHARITOLx issued server command: /home cofre
+Server threadEx[31May2025 03:31:49.226] [Server thread/INFO] [net.minecraft.class_3244/]: xHARITOLx issued server command: /home cofre
+Server threadEx[31May2025 03:32:31.009] [Server thread/INFO] [net.minecraft.class_3244/]: xHARITOLx issued server command: /home c
+Server threadEx[31May2025 03:32:34.680] [Server thread/INFO] [net.minecraft.class_3244/]: xHARITOLx issued server command: /home casa
+Server threadEx[31May2025 03:32:38.140] [Server thread/INFO] [net.minecraft.class_3244/]: xHARITOLx issued server command: /home Casa
+Server threadEx[31May2025 03:33:53.077] [Server thread/INFO] [net.minecraft.class_3244/]: xHARITOLx issued server command: /home cofre
+Server threadEx[31May2025 03:34:23.134] [Server thread/INFO] [net.minecraft.class_3244/]: xHARITOLx issued server command: /home Casa
+Server threadEx[31May2025 03:34:46.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: electricidiZAP has made the advancement [Enchanter]
+Server threadEx[31May2025 03:34:49.028] [Server thread/INFO] [net.minecraft.class_3244/]: xHARITOLx issued server command: /home
+Server threadEx[31May2025 03:34:52.379] [Server thread/INFO] [net.minecraft.class_3244/]: xHARITOLx issued server command: /home save
+Server threadEx[31May2025 03:35:20.774] [Server thread/INFO] [net.minecraft.class_3244/]: xHARITOLx issued server command: /home Casa
+Server threadEx[31May2025 03:35:41.839] [Server thread/INFO] [net.minecraft.class_3244/]: xHARITOLx issued server command: /home save
+Server threadEx[31May2025 03:35:59.191] [Server thread/INFO] [net.minecraft.class_3244/]: xHARITOLx issued server command: /home Casa
+Server threadEx[31May2025 03:36:33.486] [Server thread/INFO] [net.minecraft.class_3244/]: xHARITOLx issued server command: /home save
+Server threadEx[31May2025 03:36:41.080] [Server thread/INFO] [net.minecraft.class_3244/]: xHARITOLx issued server command: /home save
+Server threadEx[31May2025 03:36:43.454] [Server thread/INFO] [net.minecraft.class_3244/]: xHARITOLx issued server command: /home save
+Server threadEx[31May2025 03:37:29.344] [Server thread/INFO] [net.minecraft.class_3244/]: xHARITOLx issued server command: /home Casa
+Server threadEx[31May2025 03:39:58.298] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xHARITOLx> podrian dormir todo bien
+Async Chat Thread - #4Ex[31May2025 03:40:26.565] [Async Chat Thread - #3/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <electricidiZAP> ya voy bb
+Async Chat Thread - #3Ex
