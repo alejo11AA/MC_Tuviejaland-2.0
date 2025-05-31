@@ -20,6 +20,7 @@
       "minecraft:lukewarm_ocean": "2025-05-30 01:11:18 +0000",
       "minecraft:stony_shore": "2025-05-30 03:43:16 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-30 23:51:38 +0000",
+      "minecraft:desert": "2025-05-31 02:52:05 +0000",
       "minecraft:jungle": "2025-05-30 01:29:46 +0000",
       "minecraft:ocean": "2025-05-30 04:44:09 +0000",
       "minecraft:cherry_grove": "2025-05-30 23:40:26 +0000",
@@ -405,6 +406,7 @@
       "glow_berries": "2025-05-30 02:17:45 +0000",
       "cooked_cod": "2025-05-30 01:57:50 +0000",
       "cooked_beef": "2025-05-30 00:56:46 +0000",
+      "melon_slice": "2025-05-31 02:30:09 +0000",
       "cooked_salmon": "2025-05-30 02:12:49 +0000"
     },
     "done": false
@@ -2116,6 +2118,54 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-05-31 01:46:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-05-31 01:59:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-05-31 01:59:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-31 02:52:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-31 02:52:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-31 02:52:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-31 02:52:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-31 02:52:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-31 02:52:36 +0000"
     },
     "done": true
   },

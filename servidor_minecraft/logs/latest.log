@@ -1,5 +1,5 @@
-[31May2025 01:53:45.494] [main/INFO] [FabricLoader/GameProvider/]: Loading Minecraft 1.20.4 Arclight arclight-1.20.4-1.0.4-80ec5df with Fabric Loader 0.15.11
-mainEx[31May2025 01:53:45.686] [main/INFO] [FabricLoader/]: Loading 44 mods:
+[31May2025 02:28:41.394] [main/INFO] [FabricLoader/GameProvider/]: Loading Minecraft 1.20.4 Arclight arclight-1.20.4-1.0.4-80ec5df with Fabric Loader 0.15.11
+mainEx[31May2025 02:28:42.220] [main/INFO] [FabricLoader/]: Loading 44 mods:
 	- arclight 1.0.4+80ec5df
 	- fabric-api 0.97.1+1.20.4
 	   |-- fabric-api-base 0.4.37+78d798af4f
@@ -58,10 +58,10 @@ mainEx[31May2025 01:53:45.686] [main/INFO] [FabricLoader/]: Loading 44 mods:
 	- minecraft 1.20.4
 	- voicechat 1.20.4-2.5.22
 	   \-- fabric-key-binding-api-v1 1.0.39+f4b7e42432
-mainEx[31May2025 01:53:45.835] [main/INFO] [FabricLoader/Mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/workspaces/MC_Tuviejaland-2.0/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.13.3+mixin.0.8.5/sponge-mixin-0.13.3+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
-mainEx[31May2025 01:53:45.910] [main/INFO] [FabricLoader/Mixin/]: Compatibility level set to JAVA_17
-mainEx[31May2025 01:53:46.471] [main/INFO] [Arclight/]: Using locale en_ and fallback locale en_us
-mainEx[31May2025 01:53:46.475] [main/INFO] [Arclight/]: 
+mainEx[31May2025 02:28:42.575] [main/INFO] [FabricLoader/Mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/workspaces/MC_Tuviejaland-2.0/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.13.3+mixin.0.8.5/sponge-mixin-0.13.3+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
+mainEx[31May2025 02:28:42.740] [main/INFO] [FabricLoader/Mixin/]: Compatibility level set to JAVA_17
+mainEx[31May2025 02:28:43.399] [main/INFO] [Arclight/]: Using locale en_ and fallback locale en_us
+mainEx[31May2025 02:28:43.402] [main/INFO] [Arclight/]: 
 
        ___           ___     __   /\
       /   | ________/ (_)__ / /  / /
@@ -73,23 +73,613 @@ mainEx[31May2025 01:53:46.475] [main/INFO] [Arclight/]:
     Version 附耳 (Whisper) / arclight-1.20.4-1.0.4-80ec5df
     Build Date 2024-06-14 12:05:55
 
-mainEx[31May2025 01:53:47.902] [main/INFO] [FabricLoader/MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
-mainEx[31May2025 01:54:01.738] [main/INFO] [voicechat/]: [voicechat] Compatibility version 18
-mainEx[31May2025 01:54:01.945] [main/INFO] [voicechat/]: [voicechat] Loading plugins
-mainEx[31May2025 01:54:01.946] [main/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
-mainEx[31May2025 01:54:01.946] [main/INFO] [voicechat/]: [voicechat] Initializing plugins
-mainEx[31May2025 01:54:01.946] [main/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
-mainEx[31May2025 01:54:02.116] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-mainEx[31May2025 01:54:02.234] [main/ERROR] [net.minecraft.server.Main/FATAL]: Failed to start the minecraft server
-mainEx net.minecraft.class_5125$class_5126: /workspaces/MC_Tuviejaland-2.0/servidor_minecraft/./world/session.lock: already locked (possibly by other Minecraft instance?)
-	at net.minecraft.class_5125$class_5126.method_26805(class_5125.java:95) ~[server-intermediary.jar:?]
-	at net.minecraft.class_5125.method_26803(class_5125.java:41) ~[server-intermediary.jar:?]
-	at net.minecraft.class_32$class_5143.<init>(LevelStorageSource_LevelStorageAccessMixin.java:394) ~[server-intermediary.jar:?]
-	at net.minecraft.class_32.method_52236(LevelStorageSourceMixin.java:373) ~[server-intermediary.jar:?]
-	at net.minecraft.server.Main.main(Main.java:133) ~[server-intermediary.jar:?]
-	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) ~[fabric-loader-0.15.11.jar:?]
-	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.15.11.jar:?]
-	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.15.11.jar:?]
-	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.15.11.jar:?]
-	at io.izzel.arclight.boot.fabric.application.Main_Fabric.main(Main_Fabric.java:33) ~[arclight.jar:arclight-1.20.4-1.0.4-80ec5df]
-	at io.izzel.arclight.server.Launcher.main(Launcher.java:39) ~[arclight.jar:arclight-1.20.4-1.0.4-80ec5df]
+mainEx[31May2025 02:28:45.684] [main/INFO] [FabricLoader/MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+mainEx[31May2025 02:28:57.939] [main/INFO] [voicechat/]: [voicechat] Compatibility version 18
+mainEx[31May2025 02:28:58.209] [main/INFO] [voicechat/]: [voicechat] Loading plugins
+mainEx[31May2025 02:28:58.212] [main/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
+mainEx[31May2025 02:28:58.213] [main/INFO] [voicechat/]: [voicechat] Initializing plugins
+mainEx[31May2025 02:28:58.213] [main/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
+mainEx[31May2025 02:28:58.343] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+mainEx[31May2025 02:29:01.913] [main/INFO] [net.minecraft.class_1863/]: Loaded 7 recipes
+mainEx[31May2025 02:29:02.242] [main/INFO] [net.minecraft.class_163/]: Loaded 1271 advancements
+mainEx[31May2025 02:29:02.878] [main/INFO] [net.fabricmc.fabric.impl.biome.modification.BiomeModificationImpl/]: Applied 0 biome modifications to 0 of 64 new biomes in 2.679 ms
+mainEx[31May2025 02:29:02.897] [Server thread/INFO] [net.minecraft.class_3176/]: Starting minecraft server version 1.20.4
+Server threadEx[31May2025 02:29:02.897] [Server thread/INFO] [net.minecraft.class_3176/]: Loading properties
+Server threadEx[31May2025 02:29:02.897] [Server thread/INFO] [net.minecraft.class_3176/]: Default game type: SURVIVAL
+Server threadEx[31May2025 02:29:02.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+Server threadEx[31May2025 02:29:03.186] [Server thread/INFO] [net.minecraft.class_3176/]: Starting Minecraft server on *:25565
+Server threadEx[31May2025 02:29:03.321] [Server thread/INFO] [net.minecraft.class_3242/]: Using epoll channel type
+Server threadEx[31May2025 02:29:03.436] [Server thread/WARN] [net.minecraft.class_3176/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+Server threadEx[31May2025 02:29:03.436] [Server thread/WARN] [net.minecraft.class_3176/]: The server will make no attempt to authenticate usernames. Beware.
+Server threadEx[31May2025 02:29:03.436] [Server thread/WARN] [net.minecraft.class_3176/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+Server threadEx[31May2025 02:29:03.436] [Server thread/WARN] [net.minecraft.class_3176/]: To change this, set "online-mode" to "true" in the server.properties file.
+Server threadEx[31May2025 02:29:03.843] [Server thread/INFO] [Minecraft/]: This server is running Arclight version arclight-1.20.4-1.0.4-80ec5df (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT)
+Server threadEx[31May2025 02:29:05.202] [Server thread/INFO] [Arclight/]: Registering for Bukkit ...
+Server threadEx[31May2025 02:29:05.253] [Server thread/INFO] [Arclight/]: Registered 0 new materials with 0 blocks and 0 items
+Server threadEx[31May2025 02:29:05.550] [Server thread/INFO] [Arclight/]: Registered 0 new entity types
+Server threadEx[31May2025 02:29:05.551] [Server thread/INFO] [Arclight/]: Registered 0 new villager professions
+Server threadEx[31May2025 02:29:05.551] [Server thread/INFO] [Arclight/]: Registered 0 new biomes
+Server threadEx[31May2025 02:29:05.643] [Server thread/INFO] [net.minecraft.class_2983/]: [STDOUT]: Server Ping Player Sample Count: 12
+Server threadEx[31May2025 02:29:05.647] [Server thread/INFO] [Minecraft/]: Using 4 threads for Netty based IO
+Server threadEx[31May2025 02:29:05.648] [Server thread/INFO] [Minecraft/]: Debug logging is enabled
+Server threadEx[31May2025 02:29:06.254] [Server thread/INFO] [Arclight/]: Loading mappings ...
+Server threadEx[31May2025 02:29:06.784] [Server thread/INFO] [Arclight/]: Loading plugin patchers ...
+Server threadEx[31May2025 02:29:07.594] [Server thread/INFO] [LuckPerms/]: Loading LuckPerms v5.5.0
+Server threadEx[31May2025 02:29:08.107] [Server thread/INFO] [SkinsRestorer/]: Loading SkinsRestorer v15.6.4
+Server threadEx[31May2025 02:29:08.107] [Server thread/INFO] [NBTAPI/]: Loading NBTAPI v2.15.0
+Server threadEx[31May2025 02:29:08.117] [Server thread/INFO] [NBTAPI/]: [NBTAPI] Found Minecraft: v1_20_R3! Trying to find NMS support
+Server threadEx[31May2025 02:29:08.117] [Server thread/INFO] [NBTAPI/]: [NBTAPI] NMS support 'MC1_20_R3' loaded!
+Server threadEx[31May2025 02:29:08.119] [Server thread/INFO] [NBTAPI/]: [NBTAPI] Using the plugin 'NBTAPI' to create a bStats instance!
+Server threadEx[31May2025 02:29:08.149] [Server thread/INFO] [AdvancedTeleport/]: Loading AdvancedTeleport v6.1.3
+Server threadEx[31May2025 02:29:08.204] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for gson
+Server threadEx[31May2025 02:29:08.208] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for gson
+Server threadEx[31May2025 02:29:08.228] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for jar-relocator
+Server threadEx[31May2025 02:29:08.281] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for jar-relocator
+Server threadEx[31May2025 02:29:08.281] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for asm
+Server threadEx[31May2025 02:29:08.416] [Thread-5/INFO] [NBTAPI/]: [NBTAPI] The NBT-API seems to be up-to-date!
+Thread-5Ex[31May2025 02:29:08.416] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for asm
+Server threadEx[31May2025 02:29:08.417] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for asm-commons
+Server threadEx[31May2025 02:29:08.418] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for asm-commons
+Server threadEx[31May2025 02:29:08.428] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for gson
+Server threadEx[31May2025 02:29:08.429] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for gson
+Server threadEx[31May2025 02:29:09.265] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for adventure-api
+Server threadEx[31May2025 02:29:09.267] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for adventure-api
+Server threadEx[31May2025 02:29:09.269] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for adventure-key
+Server threadEx[31May2025 02:29:09.272] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for adventure-key
+Server threadEx[31May2025 02:29:09.274] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for examination-api
+Server threadEx[31May2025 02:29:09.276] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for examination-api
+Server threadEx[31May2025 02:29:09.277] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for examination-string
+Server threadEx[31May2025 02:29:09.279] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for examination-string
+Server threadEx[31May2025 02:29:09.280] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for adventure-text-minimessage
+Server threadEx[31May2025 02:29:09.291] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for adventure-text-minimessage
+Server threadEx[31May2025 02:29:09.292] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for adventure-nbt
+Server threadEx[31May2025 02:29:09.350] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for adventure-nbt
+Server threadEx[31May2025 02:29:09.350] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for adventure-text-serializer-plain
+Server threadEx[31May2025 02:29:09.352] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for adventure-text-serializer-plain
+Server threadEx[31May2025 02:29:09.353] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for adventure-platform-bukkit
+Server threadEx[31May2025 02:29:09.390] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for adventure-platform-bukkit
+Server threadEx[31May2025 02:29:09.441] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for adventure-text-serializer-gson-legacy-impl
+Server threadEx[31May2025 02:29:09.442] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for adventure-text-serializer-gson-legacy-impl
+Server threadEx[31May2025 02:29:09.442] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for adventure-text-serializer-gson
+Server threadEx[31May2025 02:29:09.443] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for adventure-text-serializer-gson
+Server threadEx[31May2025 02:29:09.443] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for adventure-text-serializer-json
+Server threadEx[31May2025 02:29:09.444] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for adventure-text-serializer-json
+Server threadEx[31May2025 02:29:09.444] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for option
+Server threadEx[31May2025 02:29:09.445] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for option
+Server threadEx[31May2025 02:29:09.446] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for adventure-platform-facet
+Server threadEx[31May2025 02:29:09.449] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for adventure-platform-facet
+Server threadEx[31May2025 02:29:09.450] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for adventure-platform-api
+Server threadEx[31May2025 02:29:09.452] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for adventure-platform-api
+Server threadEx[31May2025 02:29:09.456] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for adventure-platform-viaversion
+Server threadEx[31May2025 02:29:09.456] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for adventure-platform-viaversion
+Server threadEx[31May2025 02:29:09.456] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for adventure-text-serializer-bungeecord
+Server threadEx[31May2025 02:29:09.459] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for adventure-text-serializer-bungeecord
+Server threadEx[31May2025 02:29:09.460] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for adventure-text-serializer-legacy
+Server threadEx[31May2025 02:29:09.462] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for adventure-text-serializer-legacy
+Server threadEx[31May2025 02:29:09.463] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for bstats-bukkit
+Server threadEx[31May2025 02:29:09.465] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for bstats-bukkit
+Server threadEx[31May2025 02:29:09.466] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for bstats-base
+Server threadEx[31May2025 02:29:09.467] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for bstats-base
+Server threadEx[31May2025 02:29:09.468] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for paperlib
+Server threadEx[31May2025 02:29:09.469] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for paperlib
+Server threadEx[31May2025 02:29:09.470] [Server thread/INFO] [AdvancedTeleport/]: Verifying checksum for ConfigurationMaster-API
+Server threadEx[31May2025 02:29:09.476] [Server thread/INFO] [AdvancedTeleport/]: Checksum matched for ConfigurationMaster-API
+Server threadEx[31May2025 02:29:09.482] [Server thread/INFO] [BetterRevive/]: Loading BetterRevive v0.9.1-BETA
+Server threadEx[31May2025 02:29:09.484] [Server thread/INFO] [LuckPerms/]: Enabling LuckPerms v5.5.0
+Server threadEx[31May2025 02:29:10.548] [Server thread/WARN] [LuckPerms/]: Loaded class net.kyori.adventure.text.Component from AdvancedTeleport v6.1.3 which is not a depend or softdepend of this plugin.
+Server threadEx[31May2025 02:29:10.926] [Server thread/INFO] [Console/]:         __    
+Server threadEx[31May2025 02:29:10.926] [Server thread/INFO] [Console/]:   |    |__)   LuckPerms v5.5.0
+Server threadEx[31May2025 02:29:10.926] [Server thread/INFO] [Console/]:   |___ |      Running on Bukkit - Arclight
+Server threadEx[31May2025 02:29:10.926] [Server thread/INFO] [Console/]: 
+Server threadEx[31May2025 02:29:10.928] [Server thread/INFO] [LuckPerms/]: Loading configuration...
+Server threadEx[31May2025 02:29:11.293] [Server thread/INFO] [LuckPerms/]: Loading storage provider... [H2]
+Server threadEx[31May2025 02:29:12.242] [Server thread/INFO] [LuckPerms/]: Loading internal permission managers...
+Server threadEx[31May2025 02:29:12.514] [Server thread/INFO] [LuckPerms/]: Performing initial data load...
+Server threadEx[31May2025 02:29:12.621] [Server thread/INFO] [LuckPerms/]: Successfully enabled. (took 3136ms)
+Server threadEx[31May2025 02:29:12.623] [Server thread/INFO] [SkinsRestorer/]: Enabling SkinsRestorer v15.6.4
+Server threadEx[31May2025 02:29:12.663] [User Authenticator #1/INFO] [net.minecraft.class_3248/]: UUID of player RICHARDESC207 is 28a214db-3f8e-3c87-a1f8-75c3acbe8cd0
+User Authenticator #1Ex[31May2025 02:29:12.838] [Server thread/WARN] [SkinsRestorer/]: Loaded class net.kyori.adventure.text.Component from AdvancedTeleport v6.1.3 which is not a depend or softdepend of this plugin.
+Server threadEx[31May2025 02:29:13.311] [Server thread/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.20.4[32;1m.[0;39m
+Server threadEx[31May2025 02:29:13.928] [Server thread/INFO] [net.minecraft.class_3176/]: Preparing level "world"
+Server threadEx[31May2025 02:29:13.942] [Server thread/INFO] [Arclight/]: Registered 0 new dimensions
+Server threadEx[31May2025 02:29:14.425] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world] --------
+Server threadEx[31May2025 02:29:14.426] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+Server threadEx[31May2025 02:29:14.426] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+Server threadEx[31May2025 02:29:14.427] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+Server threadEx[31May2025 02:29:14.427] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+Server threadEx[31May2025 02:29:14.428] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+Server threadEx[31May2025 02:29:14.429] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+Server threadEx[31May2025 02:29:14.429] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+Server threadEx[31May2025 02:29:14.429] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+Server threadEx[31May2025 02:29:14.429] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+Server threadEx[31May2025 02:29:14.429] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+Server threadEx[31May2025 02:29:14.429] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+Server threadEx[31May2025 02:29:14.429] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+Server threadEx[31May2025 02:29:14.429] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+Server threadEx[31May2025 02:29:14.429] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+Server threadEx[31May2025 02:29:14.429] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+Server threadEx[31May2025 02:29:14.429] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+Server threadEx[31May2025 02:29:14.429] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+Server threadEx[31May2025 02:29:14.429] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+Server threadEx[31May2025 02:29:14.429] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+Server threadEx[31May2025 02:29:14.430] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+Server threadEx[31May2025 02:29:14.430] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+Server threadEx[31May2025 02:29:14.430] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+Server threadEx[31May2025 02:29:14.430] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+Server threadEx[31May2025 02:29:14.430] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+Server threadEx[31May2025 02:29:14.430] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+Server threadEx[31May2025 02:29:14.430] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+Server threadEx[31May2025 02:29:14.430] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+Server threadEx[31May2025 02:29:14.430] [Server thread/INFO] [Minecraft/]: TwistingVines Growth Modifier: 100%
+Server threadEx[31May2025 02:29:14.430] [Server thread/INFO] [Minecraft/]: WeepingVines Growth Modifier: 100%
+Server threadEx[31May2025 02:29:14.430] [Server thread/INFO] [Minecraft/]: CaveVines Growth Modifier: 100%
+Server threadEx[31May2025 02:29:14.430] [Server thread/INFO] [Minecraft/]: View Distance: 12
+Server threadEx[31May2025 02:29:14.430] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+Server threadEx[31May2025 02:29:14.435] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+Server threadEx[31May2025 02:29:14.435] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+Server threadEx[31May2025 02:29:14.435] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
+Server threadEx[31May2025 02:29:16.612] [User Authenticator #2/INFO] [net.minecraft.class_3248/]: UUID of player IlarilarieOhOHIO is 5b40bfaf-6541-3c7b-a78f-ddcb343ecdce
+User Authenticator #2Ex[31May2025 02:29:19.238] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world/DIM1] --------
+Server threadEx[31May2025 02:29:19.239] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+Server threadEx[31May2025 02:29:19.240] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+Server threadEx[31May2025 02:29:19.240] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+Server threadEx[31May2025 02:29:19.240] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+Server threadEx[31May2025 02:29:19.240] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+Server threadEx[31May2025 02:29:19.240] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+Server threadEx[31May2025 02:29:19.240] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+Server threadEx[31May2025 02:29:19.240] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+Server threadEx[31May2025 02:29:19.240] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+Server threadEx[31May2025 02:29:19.240] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+Server threadEx[31May2025 02:29:19.240] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+Server threadEx[31May2025 02:29:19.240] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+Server threadEx[31May2025 02:29:19.240] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+Server threadEx[31May2025 02:29:19.240] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+Server threadEx[31May2025 02:29:19.240] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+Server threadEx[31May2025 02:29:19.240] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+Server threadEx[31May2025 02:29:19.240] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+Server threadEx[31May2025 02:29:19.240] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+Server threadEx[31May2025 02:29:19.240] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+Server threadEx[31May2025 02:29:19.240] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+Server threadEx[31May2025 02:29:19.240] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+Server threadEx[31May2025 02:29:19.240] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+Server threadEx[31May2025 02:29:19.240] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+Server threadEx[31May2025 02:29:19.240] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+Server threadEx[31May2025 02:29:19.240] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+Server threadEx[31May2025 02:29:19.240] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+Server threadEx[31May2025 02:29:19.240] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+Server threadEx[31May2025 02:29:19.240] [Server thread/INFO] [Minecraft/]: TwistingVines Growth Modifier: 100%
+Server threadEx[31May2025 02:29:19.240] [Server thread/INFO] [Minecraft/]: WeepingVines Growth Modifier: 100%
+Server threadEx[31May2025 02:29:19.240] [Server thread/INFO] [Minecraft/]: CaveVines Growth Modifier: 100%
+Server threadEx[31May2025 02:29:19.240] [Server thread/INFO] [Minecraft/]: View Distance: 12
+Server threadEx[31May2025 02:29:19.240] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+Server threadEx[31May2025 02:29:19.240] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+Server threadEx[31May2025 02:29:19.240] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+Server threadEx[31May2025 02:29:19.240] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
+Server threadEx[31May2025 02:29:19.278] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world/DIM-1] --------
+Server threadEx[31May2025 02:29:19.278] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+Server threadEx[31May2025 02:29:19.278] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+Server threadEx[31May2025 02:29:19.278] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+Server threadEx[31May2025 02:29:19.278] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+Server threadEx[31May2025 02:29:19.278] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+Server threadEx[31May2025 02:29:19.278] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+Server threadEx[31May2025 02:29:19.279] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+Server threadEx[31May2025 02:29:19.279] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+Server threadEx[31May2025 02:29:19.279] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+Server threadEx[31May2025 02:29:19.279] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+Server threadEx[31May2025 02:29:19.279] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+Server threadEx[31May2025 02:29:19.279] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+Server threadEx[31May2025 02:29:19.279] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+Server threadEx[31May2025 02:29:19.279] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+Server threadEx[31May2025 02:29:19.279] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+Server threadEx[31May2025 02:29:19.279] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+Server threadEx[31May2025 02:29:19.279] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+Server threadEx[31May2025 02:29:19.279] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+Server threadEx[31May2025 02:29:19.279] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+Server threadEx[31May2025 02:29:19.279] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+Server threadEx[31May2025 02:29:19.279] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+Server threadEx[31May2025 02:29:19.279] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+Server threadEx[31May2025 02:29:19.279] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+Server threadEx[31May2025 02:29:19.279] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+Server threadEx[31May2025 02:29:19.279] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+Server threadEx[31May2025 02:29:19.279] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+Server threadEx[31May2025 02:29:19.279] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+Server threadEx[31May2025 02:29:19.279] [Server thread/INFO] [Minecraft/]: TwistingVines Growth Modifier: 100%
+Server threadEx[31May2025 02:29:19.279] [Server thread/INFO] [Minecraft/]: WeepingVines Growth Modifier: 100%
+Server threadEx[31May2025 02:29:19.279] [Server thread/INFO] [Minecraft/]: CaveVines Growth Modifier: 100%
+Server threadEx[31May2025 02:29:19.279] [Server thread/INFO] [Minecraft/]: View Distance: 12
+Server threadEx[31May2025 02:29:19.279] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+Server threadEx[31May2025 02:29:19.279] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+Server threadEx[31May2025 02:29:19.279] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+Server threadEx[31May2025 02:29:19.279] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
+Server threadEx[31May2025 02:29:19.285] [Server thread/INFO] [NBTAPI/]: Enabling NBTAPI v2.15.0
+Server threadEx[31May2025 02:29:19.285] [Server thread/INFO] [NBTAPI/]: Checking bindings...
+Server threadEx[31May2025 02:29:19.303] [Server thread/INFO] [NBTAPI/]: All Classes were able to link!
+Server threadEx[31May2025 02:29:19.349] [Server thread/INFO] [NBTAPI/]: All Methods were able to link!
+Server threadEx[31May2025 02:29:19.349] [Server thread/INFO] [NBTAPI/]: Running NBT reflection test...
+Server threadEx[31May2025 02:29:19.606] [Server thread/INFO] [NBTAPI/]: Success! This version of NBT-API is compatible with your server.
+Server threadEx[31May2025 02:29:19.608] [Server thread/INFO] [AdvancedTeleport/]: Enabling AdvancedTeleport v6.1.3
+Server threadEx[31May2025 02:29:19.623] [Server thread/INFO] [AdvancedTeleport/]: Performing server version check.
+Server threadEx[31May2025 02:29:19.623] [Server thread/INFO] [AdvancedTeleport/]: Detected major version: 20
+Server threadEx[31May2025 02:29:19.623] [Server thread/INFO] [AdvancedTeleport/]: Advanced Teleport is now enabling...
+Server threadEx[31May2025 02:29:19.623] [Server thread/INFO] [AdvancedTeleport/]: Setting up permissions integration with Vault.
+Server threadEx[31May2025 02:29:19.623] [Server thread/INFO] [AdvancedTeleport/]: Vault is not on the server, skipping.
+Server threadEx[31May2025 02:29:19.630] [Server thread/INFO] [AdvancedTeleport/]: Loading MainConfig.
+Server threadEx[31May2025 02:29:19.685] [Server thread/WARN] [AdvancedTeleport/]: Failed to parse payment 0 for command tpa! Error message: net/milkbowl/vault/economy/Economy
+Server threadEx[31May2025 02:29:19.685] [Server thread/WARN] [AdvancedTeleport/]: Failed to parse payment 0 for command tpahere! Error message: net/milkbowl/vault/economy/Economy
+Server threadEx[31May2025 02:29:19.686] [Server thread/WARN] [AdvancedTeleport/]: Failed to parse payment 0 for command tpr! Error message: net/milkbowl/vault/economy/Economy
+Server threadEx[31May2025 02:29:19.686] [Server thread/WARN] [AdvancedTeleport/]: Failed to parse payment 0 for command spawn! Error message: net/milkbowl/vault/economy/Economy
+Server threadEx[31May2025 02:29:19.686] [Server thread/WARN] [AdvancedTeleport/]: Failed to parse payment 0 for command warp! Error message: net/milkbowl/vault/economy/Economy
+Server threadEx[31May2025 02:29:19.686] [Server thread/WARN] [AdvancedTeleport/]: Failed to parse payment 0 for command home! Error message: net/milkbowl/vault/economy/Economy
+Server threadEx[31May2025 02:29:19.686] [Server thread/WARN] [AdvancedTeleport/]: Failed to parse payment 0 for command back! Error message: net/milkbowl/vault/economy/Economy
+Server threadEx[31May2025 02:29:20.197] [Server thread/INFO] [AdvancedTeleport/]: Registered the image warp_default!
+Server threadEx[31May2025 02:29:20.198] [Server thread/INFO] [AdvancedTeleport/]: Registered the image home_default!
+Server threadEx[31May2025 02:29:20.198] [Server thread/INFO] [AdvancedTeleport/]: Registered the image spawn_default!
+Server threadEx[31May2025 02:29:20.262] [Server thread/INFO] [BetterRevive/]: Enabling BetterRevive v0.9.1-BETA
+Server threadEx[31May2025 02:29:20.273] [Server thread/INFO] [Console/]: [BetterRevive] Inventory title with support for more than 32 characters. Skipping..
+Server threadEx[31May2025 02:29:20.275] [Server thread/INFO] [Console/]: [BetterRevive] Hex colors are available! Ready for RGB..
+Server threadEx[31May2025 02:29:20.277] [Server thread/INFO] [Console/]: [BetterRevive] Old constructor for HoverEvent found! Using it..
+Server threadEx[31May2025 02:29:20.278] [Server thread/INFO] [Console/]: [BetterRevive] New sendTitle method found! Using it..
+Server threadEx[31May2025 02:29:20.279] [Server thread/INFO] [Console/]: [BetterRevive] New setUnbreakable method found! Using it..
+Server threadEx[31May2025 02:29:20.279] [Server thread/INFO] [Console/]: [BetterRevive] New isUnbreakable method found! Using it..
+Server threadEx[31May2025 02:29:20.286] [Server thread/INFO] [Console/]:   ___      _   _           ___         _         
+Server threadEx[31May2025 02:29:20.286] [Server thread/INFO] [Console/]:  | _ ) ___| |_| |_ ___ _ _| _ \_____ _(_)_ _____ 
+Server threadEx[31May2025 02:29:20.286] [Server thread/INFO] [Console/]:  | _ \/ -_)  _|  _/ -_) '_|   / -_) V / \ V / -_)
+Server threadEx[31May2025 02:29:20.286] [Server thread/INFO] [Console/]:  |___/\___|\__|\__\___|_| |_|_\___|\_/|_|\_/\___|
+Server threadEx[31May2025 02:29:20.286] [Server thread/INFO] [Console/]: 
+Server threadEx[31May2025 02:29:20.286] [Server thread/INFO] [Console/]:    Running plugin BetterRevive v0.9.1-BETA (v2_0)
+Server threadEx[31May2025 02:29:20.286] [Server thread/INFO] [Console/]:    Server running Arclight version arclight-1.20.4-1.0.4-80ec5df (MC: 1.20.4)
+Server threadEx[31May2025 02:29:20.286] [Server thread/INFO] [Console/]:    (Implementing API version arclight-1.20.4-1.0.4-80ec5df (MC: 1.20.4))
+Server threadEx[31May2025 02:29:20.286] [Server thread/INFO] [Console/]:    (Developed by  AlonsoAliaga - Thanks for using my plugin ❤)
+Server threadEx[31May2025 02:29:20.286] [Server thread/INFO] [Console/]:    If you loved the plugin consider leaving a review and mentioning your server IP in it!
+Server threadEx[31May2025 02:29:20.286] [Server thread/INFO] [Console/]: 
+Server threadEx[31May2025 02:29:20.286] [Server thread/INFO] [Console/]: ==============================================================================================
+Server threadEx[31May2025 02:29:20.286] [Server thread/INFO] [Console/]: [BetterRevive] You are using a Spigot or a Spigot fork (Arclight), plugin should work fine!
+Server threadEx[31May2025 02:29:20.286] [Server thread/INFO] [Console/]: [BetterRevive] If you have issues, join us on our official support server on alonsoaliaga.com/discord
+Server threadEx[31May2025 02:29:20.286] [Server thread/INFO] [Console/]: ==============================================================================================
+Server threadEx[31May2025 02:29:20.286] [Server thread/INFO] [Console/]: 
+Server threadEx[31May2025 02:29:20.293] [Server thread/INFO] [Console/]: [BetterRevive] BungeeCord action bar available. Hooking..
+Server threadEx[31May2025 02:29:20.293] [Server thread/INFO] [Console/]: [BetterRevive] ProtocolLib not found! Skipping..
+Server threadEx[31May2025 02:29:20.306] [Server thread/INFO] [Console/]: [Auto-update] Configuration config.yml is up-to-date!
+Server threadEx[31May2025 02:29:20.306] [Server thread/INFO] [Console/]: [BetterRevive] Factions hook is enabled but couldn't find any supported faction plugin were found. Disabling hook..
+Server threadEx[31May2025 02:29:20.306] [Server thread/INFO] [Console/]: [BetterRevive] Finish off feature has been enabled! Players can finish off other player!
+Server threadEx[31May2025 02:29:20.306] [Server thread/INFO] [Console/]: [BetterRevive] Finish off health: 20 | Finish off damage multiplier: 0.5
+Server threadEx[31May2025 02:29:20.307] [Server thread/INFO] [Console/]: [BetterRevive] DamageCause for finish off is empty! All damage cause will be allowed to finish off players. (Includes DROWING, FIRE, LAVA, etc)
+Server threadEx[31May2025 02:29:20.307] [Server thread/INFO] [Console/]: [BetterRevive] Bleeding mode is 0! Plugin will select the best option for your server!
+Server threadEx[31May2025 02:29:20.307] [Server thread/INFO] [Console/]: [BetterRevive] Server version is v2_0. Players will look like swimming while bleeding! (Mode 2)
+Server threadEx[31May2025 02:29:20.308] [Server thread/INFO] [Console/]: [BetterRevive] Loaded 1 bleeding effects.
+Server threadEx[31May2025 02:29:20.309] [Server thread/INFO] [Console/]: [BetterRevive] Loaded 1 revived effect.
+Server threadEx[31May2025 02:29:20.363] [Server thread/INFO] [Minecraft/]: Server permissions file permissions.yml is empty, ignoring it
+Server threadEx[31May2025 02:29:20.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+Server threadEx[31May2025 02:29:21.837] [User Authenticator #3/INFO] [net.minecraft.class_3248/]: UUID of player IlarilarieOhOHIO is 5b40bfaf-6541-3c7b-a78f-ddcb343ecdce
+User Authenticator #3Ex[31May2025 02:29:26.735] [Worker-Main-3/INFO] [net.minecraft.class_3951/]: Preparing spawn area: 0%
+Worker-Main-3Ex[31May2025 02:29:26.739] [Worker-Main-3/INFO] [net.minecraft.class_3951/]: Preparing spawn area: 0%
+Worker-Main-3Ex[31May2025 02:29:26.740] [Worker-Main-3/INFO] [net.minecraft.class_3951/]: Preparing spawn area: 0%
+Worker-Main-3Ex[31May2025 02:29:26.740] [Worker-Main-3/INFO] [net.minecraft.class_3951/]: Preparing spawn area: 0%
+Worker-Main-3Ex[31May2025 02:29:26.740] [Worker-Main-3/INFO] [net.minecraft.class_3951/]: Preparing spawn area: 0%
+Worker-Main-3Ex[31May2025 02:29:26.740] [Worker-Main-3/INFO] [net.minecraft.class_3951/]: Preparing spawn area: 0%
+Worker-Main-3Ex[31May2025 02:29:26.741] [Worker-Main-3/INFO] [net.minecraft.class_3951/]: Preparing spawn area: 0%
+Worker-Main-3Ex[31May2025 02:29:26.741] [Worker-Main-3/INFO] [net.minecraft.class_3951/]: Preparing spawn area: 0%
+Worker-Main-3Ex[31May2025 02:29:26.741] [Worker-Main-3/INFO] [net.minecraft.class_3951/]: Preparing spawn area: 0%
+Worker-Main-3Ex[31May2025 02:29:26.742] [Worker-Main-3/INFO] [net.minecraft.class_3951/]: Preparing spawn area: 0%
+Worker-Main-3Ex[31May2025 02:29:26.744] [Worker-Main-2/INFO] [net.minecraft.class_3951/]: Preparing spawn area: 0%
+Worker-Main-2Ex[31May2025 02:29:26.748] [Worker-Main-2/INFO] [net.minecraft.class_3951/]: Preparing spawn area: 0%
+Worker-Main-2Ex[31May2025 02:29:26.748] [Worker-Main-2/INFO] [net.minecraft.class_3951/]: Preparing spawn area: 0%
+Worker-Main-2Ex[31May2025 02:29:26.878] [Worker-Main-3/INFO] [net.minecraft.class_3951/]: Preparing spawn area: 0%
+Worker-Main-3Ex[31May2025 02:29:27.377] [Worker-Main-1/INFO] [net.minecraft.class_3951/]: Preparing spawn area: 12%
+Worker-Main-1Ex[31May2025 02:29:27.877] [Worker-Main-2/INFO] [net.minecraft.class_3951/]: Preparing spawn area: 57%
+Worker-Main-2Ex[31May2025 02:29:28.211] [Server thread/INFO] [net.minecraft.class_3951/]: Time elapsed: 7835 ms
+Server threadEx[31May2025 02:29:28.211] [Server thread/INFO] [net.minecraft.class_3176/]: Done (14.284s)! For help, type "help"
+Server threadEx[31May2025 02:29:28.217] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+Server threadEx[31May2025 02:29:28.308] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+Craft Scheduler Thread - 1Ex[31May2025 02:29:28.308] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+Craft Scheduler Thread - 1Ex[31May2025 02:29:28.308] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
+Craft Scheduler Thread - 1Ex[31May2025 02:29:28.309] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
+Craft Scheduler Thread - 1Ex[31May2025 02:29:28.309] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
+Craft Scheduler Thread - 1Ex[31May2025 02:29:28.309] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+Craft Scheduler Thread - 1Ex[31May2025 02:29:28.309] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+Craft Scheduler Thread - 1Ex[31May2025 02:29:28.309] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.6.4[0;39m
+Craft Scheduler Thread - 1Ex[31May2025 02:29:28.309] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1m7ee6269[0;39m
+Craft Scheduler Thread - 1Ex[31May2025 02:29:28.309] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
+Craft Scheduler Thread - 1Ex[31May2025 02:29:28.309] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+Craft Scheduler Thread - 1Ex[31May2025 02:29:28.309] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
+Craft Scheduler Thread - 1Ex[31May2025 02:29:28.309] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
+Craft Scheduler Thread - 1Ex[31May2025 02:29:28.512] [VoiceChatServerThread/ERROR] [voicechat/]: [voicechat] Failed to bind to address 'already-cms.gl.at.ply.gg', binding to wildcard IP instead
+VoiceChatServerThreadEx[31May2025 02:29:28.513] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at already-cms.gl.at.ply.gg:3486
+VoiceChatServerThreadEx[31May2025 02:29:28.571] [Craft Scheduler Thread - 3/INFO] [AdvancedTeleport/]: Plugin is up to date!
+Craft Scheduler Thread - 3Ex[31May2025 02:29:28.723] [Server thread/INFO] [net.minecraft.class_3248/]: IlarilarieOhOHIO (/127.116.208.72:50009) lost connection: Disconnected
+Server threadEx[31May2025 02:29:28.911] [Craft Scheduler Thread - 3/INFO] [Console/]: [BetterRevive] Checking for updates...
+Craft Scheduler Thread - 3Ex[31May2025 02:29:28.912] [Craft Scheduler Thread - 3/INFO] [Console/]: [BetterRevive] Plugin up-to-date! You have the latest version!
+Craft Scheduler Thread - 3Ex[31May2025 02:29:29.473] [Server thread/INFO] [net.minecraft.class_3324/]: IlarilarieOhOHIO[/127.116.208.72:38225] logged in with entity id 27 at (717.978506204445, 129.0, -204.71075393610164)
+Server threadEx[31May2025 02:29:29.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IlarilarieOhOHIO joined the game
+Server threadEx[31May2025 02:29:31.659] [User Authenticator #5/INFO] [net.minecraft.class_3248/]: UUID of player Dezar68 is 8243e5ad-1a2b-3b0f-9f08-d41dee077115
+User Authenticator #5Ex[31May2025 02:29:31.658] [User Authenticator #4/INFO] [net.minecraft.class_3248/]: UUID of player Trejos1111 is a9438318-3f43-38b6-893d-7245ccfe2514
+User Authenticator #4Ex[31May2025 02:29:31.661] [Server thread/INFO] [net.minecraft.class_3324/]: RICHARDESC207[/127.42.195.91:43141] logged in with entity id 26 at (-283.46489426062254, 70.0, -994.0666409550674)
+Server threadEx[31May2025 02:29:31.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RICHARDESC207 joined the game
+Server threadEx[31May2025 02:29:31.707] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2192ms or 43 ticks behind
+Server threadEx[31May2025 02:29:32.832] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RICHARDESC207 (18)
+Server threadEx[31May2025 02:29:32.833] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RICHARDESC207
+Server threadEx[31May2025 02:29:33.061] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 28a214db-3f8e-3c87-a1f8-75c3acbe8cd0
+VoiceChatPacketProcessingThreadEx[31May2025 02:29:33.676] [Server thread/INFO] [net.minecraft.class_3324/]: Trejos1111[/127.156.60.163:46135] logged in with entity id 28 at (573.2556222039912, 106.58749997615814, 1856.6958023691334)
+Server threadEx[31May2025 02:29:33.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trejos1111 joined the game
+Server threadEx[31May2025 02:29:34.060] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 28a214db-3f8e-3c87-a1f8-75c3acbe8cd0
+VoiceChatPacketProcessingThreadEx[31May2025 02:29:34.064] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player RICHARDESC207 (28a214db-3f8e-3c87-a1f8-75c3acbe8cd0) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[31May2025 02:29:35.266] [Server thread/INFO] [net.minecraft.class_3324/]: Dezar68[/127.129.89.92:44989] logged in with entity id 29 at (749.4563532521103, 67.0, -255.59784676897732)
+Server threadEx[31May2025 02:29:35.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dezar68 joined the game
+Server threadEx[31May2025 02:29:35.289] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Trejos1111 (18)
+Server threadEx[31May2025 02:29:35.289] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Trejos1111
+Server threadEx[31May2025 02:29:35.420] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a9438318-3f43-38b6-893d-7245ccfe2514
+VoiceChatPacketProcessingThreadEx[31May2025 02:29:36.246] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dezar68 (18)
+Server threadEx[31May2025 02:29:36.247] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dezar68
+Server threadEx[31May2025 02:29:36.423] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a9438318-3f43-38b6-893d-7245ccfe2514
+VoiceChatPacketProcessingThreadEx[31May2025 02:29:36.426] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Trejos1111 (a9438318-3f43-38b6-893d-7245ccfe2514) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[31May2025 02:29:36.508] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8243e5ad-1a2b-3b0f-9f08-d41dee077115
+VoiceChatPacketProcessingThreadEx[31May2025 02:29:37.507] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8243e5ad-1a2b-3b0f-9f08-d41dee077115
+VoiceChatPacketProcessingThreadEx[31May2025 02:29:37.507] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dezar68 (8243e5ad-1a2b-3b0f-9f08-d41dee077115) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[31May2025 02:29:38.653] [User Authenticator #6/INFO] [net.minecraft.class_3248/]: UUID of player electricidiZAP is 6aa611ff-b2fa-3dfd-95c9-3e84212b9752
+User Authenticator #6Ex[31May2025 02:29:39.588] [Server thread/INFO] [net.minecraft.class_3324/]: electricidiZAP[/127.214.193.124:46035] logged in with entity id 466 at (-336.6578160161849, 78.0, -1026.5930375236785)
+Server threadEx[31May2025 02:29:39.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: electricidiZAP joined the game
+Server threadEx[31May2025 02:29:39.988] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of electricidiZAP (18)
+Server threadEx[31May2025 02:29:39.990] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to electricidiZAP
+Server threadEx[31May2025 02:29:40.159] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 6aa611ff-b2fa-3dfd-95c9-3e84212b9752
+VoiceChatPacketProcessingThreadEx[31May2025 02:29:41.161] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6aa611ff-b2fa-3dfd-95c9-3e84212b9752
+VoiceChatPacketProcessingThreadEx[31May2025 02:29:41.162] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player electricidiZAP (6aa611ff-b2fa-3dfd-95c9-3e84212b9752) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[31May2025 02:30:17.796] [User Authenticator #7/INFO] [net.minecraft.class_3248/]: UUID of player xHARITOLx is 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+User Authenticator #7Ex[31May2025 02:30:18.893] [Server thread/INFO] [net.minecraft.class_3324/]: xHARITOLx[/127.247.36.85:58061] logged in with entity id 1134 at (-619.0846093532562, 106.0, -3775.0046243510824)
+Server threadEx[31May2025 02:30:18.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xHARITOLx joined the game
+Server threadEx[31May2025 02:30:20.718] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xHARITOLx (18)
+Server threadEx[31May2025 02:30:20.718] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xHARITOLx
+Server threadEx[31May2025 02:30:20.977] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[31May2025 02:30:21.986] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[31May2025 02:30:21.987] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[31May2025 02:30:53.438] [Server thread/INFO] [net.minecraft.class_3244/]: Dezar68 issued server command: /tpa IlarilarieOhOHIO
+Server threadEx[31May2025 02:30:55.338] [Server thread/INFO] [net.minecraft.class_3244/]: IlarilarieOhOHIO issued server command: /tpayes Dezar68
+Server threadEx[31May2025 02:33:08.396] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /save-all
+Server threadEx[31May2025 02:33:08.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Trejos1111: Saved the game]
+Server threadEx[31May2025 02:34:02.245] [Server thread/INFO] [net.minecraft.class_3244/]: Dezar68 issued server command: /tpa IlarilarieOhOHIO
+Server threadEx[31May2025 02:34:04.554] [Server thread/INFO] [net.minecraft.class_3244/]: IlarilarieOhOHIO issued server command: /tpayes Dezar68
+Server threadEx[31May2025 02:34:39.311] [Server thread/INFO] [Console/]: [BetterRevive] Absorption amount using reflections is not available!
+Server threadEx[31May2025 02:34:39.315] [Server thread/INFO] [Console/]: %vault_prefix% xHARITOLx is bleeding so bad..
+Server threadEx[31May2025 02:34:47.550] [Server thread/INFO] [net.minecraft.class_3244/]: xHARITOLx issued server command: /giveup
+Server threadEx[31May2025 02:34:47.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xHARITOLx died
+Server threadEx[31May2025 02:35:02.135] [Server thread/INFO] [net.minecraft.class_3244/]: xHARITOLx issued server command: /back
+Server threadEx[31May2025 02:35:28.079] [Server thread/INFO] [net.minecraft.class_2983/]: [STDERR]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+Server threadEx[31May2025 02:35:30.851] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2836ms or 56 ticks behind
+Server threadEx[31May2025 02:35:30.876] [Server thread/WARN] [net.minecraft.class_3244/]: RICHARDESC207 moved too quickly! 5.51979189251108,-8.385759373429565,-0.4080620220677247
+Server threadEx[31May2025 02:35:39.613] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /tpa
+Server threadEx[31May2025 02:35:48.809] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /tpa electricidiZAP
+Server threadEx[31May2025 02:35:51.657] [Server thread/INFO] [net.minecraft.class_3244/]: electricidiZAP issued server command: /tpayes Trejos1111
+Server threadEx[31May2025 02:38:43.584] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 lost connection: Disconnected
+Server threadEx[31May2025 02:38:43.588] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Trejos1111
+Server threadEx[31May2025 02:38:43.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trejos1111 left the game
+Server threadEx[31May2025 02:41:29.284] [Server thread/INFO] [net.minecraft.class_3244/]: xHARITOLx lost connection: Disconnected
+Server threadEx[31May2025 02:41:29.285] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xHARITOLx
+Server threadEx[31May2025 02:41:29.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xHARITOLx left the game
+Server threadEx[31May2025 02:43:00.104] [User Authenticator #8/INFO] [net.minecraft.class_3248/]: UUID of player Trejos1111 is a9438318-3f43-38b6-893d-7245ccfe2514
+User Authenticator #8Ex[31May2025 02:43:01.028] [Server thread/INFO] [net.minecraft.class_3324/]: Trejos1111[/127.156.60.163:44647] logged in with entity id 13032 at (-355.6182894719405, 64.0, -989.9387160080797)
+Server threadEx[31May2025 02:43:01.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Trejos1111 joined the game
+Server threadEx[31May2025 02:43:01.774] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Trejos1111 (18)
+Server threadEx[31May2025 02:43:01.775] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Trejos1111
+Server threadEx[31May2025 02:43:02.104] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a9438318-3f43-38b6-893d-7245ccfe2514
+VoiceChatPacketProcessingThreadEx[31May2025 02:43:03.106] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a9438318-3f43-38b6-893d-7245ccfe2514
+VoiceChatPacketProcessingThreadEx[31May2025 02:43:03.107] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Trejos1111 (a9438318-3f43-38b6-893d-7245ccfe2514) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[31May2025 02:43:49.089] [Async Chat Thread - #0/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <electricidiZAP> A
+Async Chat Thread - #0Ex[31May2025 02:43:59.776] [Server thread/INFO] [net.minecraft.class_3244/]: electricidiZAP issued server command: /sethome CASITA UWU
+Server threadEx[31May2025 02:44:00.274] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /home bace
+Server threadEx[31May2025 02:45:21.813] [Server thread/INFO] [net.minecraft.class_3244/]: electricidiZAP issued server command: /tpa Trejos1111
+Server threadEx[31May2025 02:45:24.206] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /tpayes electricidiZAP
+Server threadEx[31May2025 02:45:54.360] [User Authenticator #9/INFO] [net.minecraft.class_3248/]: UUID of player xHARITOLx is 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+User Authenticator #9Ex[31May2025 02:45:55.261] [Server thread/INFO] [net.minecraft.class_3324/]: xHARITOLx[/127.247.36.85:51813] logged in with entity id 14979 at (-841.5620513293785, 105.0, -4477.699999988079)
+Server threadEx[31May2025 02:45:55.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xHARITOLx joined the game
+Server threadEx[31May2025 02:45:56.244] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xHARITOLx (18)
+Server threadEx[31May2025 02:45:56.244] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xHARITOLx
+Server threadEx[31May2025 02:45:56.507] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[31May2025 02:45:57.511] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[31May2025 02:45:57.511] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[31May2025 02:46:10.009] [Async Chat Thread - #2/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <electricidiZAP> se va a caer el server
+Async Chat Thread - #2Ex[31May2025 02:46:15.116] [Async Chat Thread - #1/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xHARITOLx> :(
+Async Chat Thread - #1Ex[31May2025 02:46:27.836] [Async Chat Thread - #2/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xHARITOLx> c cae*
+Async Chat Thread - #2Ex[31May2025 02:46:59.492] [Server thread/INFO] [net.minecraft.class_3244/]: Dezar68 issued server command: /tpa IlarilarieOhOHIO
+Server threadEx[31May2025 02:47:14.890] [Server thread/INFO] [net.minecraft.class_3244/]: IlarilarieOhOHIO issued server command: /tpayes Dezar68
+Server threadEx[31May2025 02:47:17.996] [Server thread/INFO] [net.minecraft.class_3244/]: electricidiZAP issued server command: /home
+Server threadEx[31May2025 02:47:26.096] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /back
+Server threadEx[31May2025 02:50:36.846] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+VoiceChatPacketProcessingThreadEx[31May2025 02:50:36.846] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xHARITOLx
+VoiceChatPacketProcessingThreadEx[31May2025 02:50:36.846] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xHARITOLx
+VoiceChatPacketProcessingThreadEx[31May2025 02:50:37.028] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[31May2025 02:51:16.107] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[31May2025 02:51:16.108] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[31May2025 02:51:28.543] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /home granja
+Server threadEx[31May2025 02:51:33.168] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+VoiceChatPacketProcessingThreadEx[31May2025 02:51:33.168] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xHARITOLx
+VoiceChatPacketProcessingThreadEx[31May2025 02:51:33.169] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xHARITOLx
+VoiceChatPacketProcessingThreadEx[31May2025 02:51:33.366] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[31May2025 02:51:59.957] [Server thread/INFO] [net.minecraft.class_3244/]: electricidiZAP issued server command: /tpa Trejos1111
+Server threadEx[31May2025 02:52:02.698] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /tpayes electricidiZAP
+Server threadEx[31May2025 02:52:10.396] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[31May2025 02:52:10.396] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[31May2025 02:52:37.537] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+VoiceChatPacketProcessingThreadEx[31May2025 02:52:37.537] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xHARITOLx
+VoiceChatPacketProcessingThreadEx[31May2025 02:52:37.538] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xHARITOLx
+VoiceChatPacketProcessingThreadEx[31May2025 02:52:37.785] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[31May2025 02:52:59.871] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[31May2025 02:52:59.871] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[31May2025 02:53:45.900] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+VoiceChatPacketProcessingThreadEx[31May2025 02:53:45.901] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xHARITOLx
+VoiceChatPacketProcessingThreadEx[31May2025 02:53:45.901] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xHARITOLx
+VoiceChatPacketProcessingThreadEx[31May2025 02:53:46.108] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[31May2025 02:54:20.165] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[31May2025 02:54:20.166] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[31May2025 02:54:39.157] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+VoiceChatPacketProcessingThreadEx[31May2025 02:54:39.158] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xHARITOLx
+VoiceChatPacketProcessingThreadEx[31May2025 02:54:39.159] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xHARITOLx
+VoiceChatPacketProcessingThreadEx[31May2025 02:54:39.352] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[31May2025 02:55:12.401] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[31May2025 02:55:12.401] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[31May2025 02:55:58.605] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+VoiceChatPacketProcessingThreadEx[31May2025 02:55:58.606] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xHARITOLx
+VoiceChatPacketProcessingThreadEx[31May2025 02:55:58.606] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xHARITOLx
+VoiceChatPacketProcessingThreadEx[31May2025 02:55:58.837] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[31May2025 02:56:20.875] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[31May2025 02:56:20.876] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[31May2025 02:56:21.886] [Server thread/INFO] [net.minecraft.class_3244/]: RICHARDESC207 lost connection: Disconnected
+Server threadEx[31May2025 02:56:21.886] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RICHARDESC207
+Server threadEx[31May2025 02:56:21.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RICHARDESC207 left the game
+Server threadEx[31May2025 02:56:40.818] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+VoiceChatPacketProcessingThreadEx[31May2025 02:56:40.818] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xHARITOLx
+VoiceChatPacketProcessingThreadEx[31May2025 02:56:40.818] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xHARITOLx
+VoiceChatPacketProcessingThreadEx[31May2025 02:56:40.947] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[31May2025 02:56:56.974] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[31May2025 02:56:56.975] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[31May2025 02:57:43.189] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+VoiceChatPacketProcessingThreadEx[31May2025 02:57:43.189] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xHARITOLx
+VoiceChatPacketProcessingThreadEx[31May2025 02:57:43.189] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xHARITOLx
+VoiceChatPacketProcessingThreadEx[31May2025 02:57:43.326] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[31May2025 02:57:56.055] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /back
+Server threadEx[31May2025 02:58:01.869] [Server thread/INFO] [net.minecraft.class_3244/]: electricidiZAP issued server command: /home
+Server threadEx[31May2025 02:58:09.796] [Server thread/INFO] [net.minecraft.class_3244/]: electricidiZAP issued server command: /home
+Server threadEx[31May2025 02:58:15.738] [Server thread/INFO] [net.minecraft.class_3244/]: electricidiZAP issued server command: /home
+Server threadEx[31May2025 02:58:22.381] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[31May2025 02:58:22.382] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[31May2025 02:58:41.517] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+VoiceChatPacketProcessingThreadEx[31May2025 02:58:41.517] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xHARITOLx
+VoiceChatPacketProcessingThreadEx[31May2025 02:58:41.517] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xHARITOLx
+VoiceChatPacketProcessingThreadEx[31May2025 02:58:41.715] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[31May2025 02:58:55.831] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /sethome bace aldeanos
+Server threadEx[31May2025 02:58:56.437] [Server thread/INFO] [net.minecraft.class_3244/]: electricidiZAP issued server command: /home
+Server threadEx[31May2025 02:59:05.755] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[31May2025 02:59:05.756] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[31May2025 02:59:22.727] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+VoiceChatPacketProcessingThreadEx[31May2025 02:59:22.727] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xHARITOLx
+VoiceChatPacketProcessingThreadEx[31May2025 02:59:22.728] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xHARITOLx
+VoiceChatPacketProcessingThreadEx[31May2025 02:59:22.899] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[31May2025 02:59:57.785] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /home bace
+Server threadEx[31May2025 03:00:23.038] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[31May2025 03:00:23.040] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[31May2025 03:00:42.143] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+VoiceChatPacketProcessingThreadEx[31May2025 03:00:42.143] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xHARITOLx
+VoiceChatPacketProcessingThreadEx[31May2025 03:00:42.144] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xHARITOLx
+VoiceChatPacketProcessingThreadEx[31May2025 03:00:42.497] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[31May2025 03:00:47.235] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /back
+Server threadEx[31May2025 03:02:05.511] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[31May2025 03:02:05.513] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[31May2025 03:02:52.601] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /execute as xHARITOLx run playsound minecraft:entity.creeper.primed master xHARITOLx ~ ~ ~ 100
+Server threadEx[31May2025 03:02:55.974] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+VoiceChatPacketProcessingThreadEx[31May2025 03:02:55.975] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xHARITOLx
+VoiceChatPacketProcessingThreadEx[31May2025 03:02:55.975] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xHARITOLx
+VoiceChatPacketProcessingThreadEx[31May2025 03:02:56.110] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[31May2025 03:03:18.888] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /execute as Trejos1111 run playsound minecraft:entity.creeper.primed master @s ~ ~ ~ 100
+Server threadEx[31May2025 03:03:18.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Trejos1111: Played sound minecraft:entity.creeper.primed to Trejos1111]
+Server threadEx[31May2025 03:03:20.149] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[31May2025 03:03:20.150] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[31May2025 03:03:35.482] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /execute as electricidiZAP run playsound minecraft:entity.creeper.primed master @s ~ ~ ~ 100
+Server threadEx[31May2025 03:03:35.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [electricidiZAP: Played sound minecraft:entity.creeper.primed to electricidiZAP]
+Server threadEx[31May2025 03:03:37.210] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+VoiceChatPacketProcessingThreadEx[31May2025 03:03:37.211] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xHARITOLx
+VoiceChatPacketProcessingThreadEx[31May2025 03:03:37.212] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xHARITOLx
+VoiceChatPacketProcessingThreadEx[31May2025 03:03:37.436] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[31May2025 03:04:06.460] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[31May2025 03:04:06.460] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[31May2025 03:04:12.583] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /execute as xHARITOLx run playsound minecraft:entity.creeper.primed master @s ~ ~ ~ 100
+Server threadEx[31May2025 03:04:24.464] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+VoiceChatPacketProcessingThreadEx[31May2025 03:04:24.464] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xHARITOLx
+VoiceChatPacketProcessingThreadEx[31May2025 03:04:24.465] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xHARITOLx
+VoiceChatPacketProcessingThreadEx[31May2025 03:04:24.646] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[31May2025 03:04:25.645] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[31May2025 03:04:25.646] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[31May2025 03:04:35.630] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /home bace
+Server threadEx[31May2025 03:04:45.624] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+VoiceChatPacketProcessingThreadEx[31May2025 03:04:45.624] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xHARITOLx
+VoiceChatPacketProcessingThreadEx[31May2025 03:04:45.625] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xHARITOLx
+VoiceChatPacketProcessingThreadEx[31May2025 03:04:45.846] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[31May2025 03:04:46.556] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /gamemode spectator
+Server threadEx[31May2025 03:04:46.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Trejos1111: Set own game mode to Spectator Mode]
+Server threadEx[31May2025 03:04:47.875] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[31May2025 03:04:47.876] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[31May2025 03:04:55.498] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /tp Trejos1111 xHARITOLx
+Server threadEx[31May2025 03:04:55.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Trejos1111: Teleported Trejos1111 to xHARITOLx]
+Server threadEx[31May2025 03:05:05.748] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+VoiceChatPacketProcessingThreadEx[31May2025 03:05:05.748] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xHARITOLx
+VoiceChatPacketProcessingThreadEx[31May2025 03:05:05.749] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xHARITOLx
+VoiceChatPacketProcessingThreadEx[31May2025 03:05:05.919] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[31May2025 03:05:15.951] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[31May2025 03:05:15.951] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[31May2025 03:05:17.562] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /execute as xHARITOLx run playsound minecraft:entity.creeper.primed master @s ~ ~ ~ 100
+Server threadEx[31May2025 03:05:17.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xHARITOLx: Played sound minecraft:entity.creeper.primed to xHARITOLx]
+Server threadEx[31May2025 03:05:21.844] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /execute as xHARITOLx run playsound minecraft:entity.creeper.primed master @s ~ ~ ~ 100
+Server threadEx[31May2025 03:05:21.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xHARITOLx: Played sound minecraft:entity.creeper.primed to xHARITOLx]
+Server threadEx[31May2025 03:05:47.981] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+VoiceChatPacketProcessingThreadEx[31May2025 03:05:47.981] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xHARITOLx
+VoiceChatPacketProcessingThreadEx[31May2025 03:05:47.982] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xHARITOLx
+VoiceChatPacketProcessingThreadEx[31May2025 03:05:48.255] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[31May2025 03:05:55.266] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[31May2025 03:05:55.267] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[31May2025 03:06:32.054] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /execute as xHARITOLx run playsound minecraft:entity.creeper.primed master @s ~ ~ ~ 100
+Server threadEx[31May2025 03:06:32.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xHARITOLx: Played sound minecraft:entity.creeper.primed to xHARITOLx]
+Server threadEx[31May2025 03:06:36.592] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /execute as xHARITOLx run playsound minecraft:entity.creeper.primed master @s ~ ~ ~ 100
+Server threadEx[31May2025 03:06:36.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xHARITOLx: Played sound minecraft:entity.creeper.primed to xHARITOLx]
+Server threadEx[31May2025 03:06:46.284] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+VoiceChatPacketProcessingThreadEx[31May2025 03:06:46.284] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xHARITOLx
+VoiceChatPacketProcessingThreadEx[31May2025 03:06:46.284] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xHARITOLx
+VoiceChatPacketProcessingThreadEx[31May2025 03:06:46.538] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[31May2025 03:07:00.934] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /tp Dezar68
+Server threadEx[31May2025 03:07:00.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Trejos1111: Teleported Trejos1111 to Dezar68]
+Server threadEx[31May2025 03:07:14.112] [Server thread/WARN] [net.minecraft.class_3244/]: xHARITOLx moved too quickly! 4.373941569428098,2.024424088213692,10.87100192125672
+Server threadEx[31May2025 03:07:54.623] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[31May2025 03:07:54.623] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[31May2025 03:08:14.387] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /execute as IlarilarieOhOHIO run playsound minecraft:entity.creeper.primed master @s ~ ~ ~ 100
+Server threadEx[31May2025 03:08:14.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IlarilarieOhOHIO: Played sound minecraft:entity.creeper.primed to IlarilarieOhOHIO]
+Server threadEx[31May2025 03:08:45.546] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /home bace
+Server threadEx[31May2025 03:08:54.650] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /gamemode survival
+Server threadEx[31May2025 03:08:54.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Trejos1111: Set own game mode to Survival Mode]
+Server threadEx[31May2025 03:09:11.091] [Server thread/INFO] [net.minecraft.class_3244/]: Dezar68 lost connection: Disconnected
+Server threadEx[31May2025 03:09:11.091] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dezar68
+Server threadEx[31May2025 03:09:11.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dezar68 left the game
+Server threadEx[31May2025 03:11:40.483] [Server thread/WARN] [net.minecraft.class_3244/]: xHARITOLx moved too quickly! 8.140172916794654,-5.4628229407132665,9.433305270240453
+Server threadEx[31May2025 03:11:57.934] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+VoiceChatPacketProcessingThreadEx[31May2025 03:11:57.934] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xHARITOLx
+VoiceChatPacketProcessingThreadEx[31May2025 03:11:57.934] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xHARITOLx
+VoiceChatPacketProcessingThreadEx[31May2025 03:11:58.095] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[31May2025 03:12:00.101] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[31May2025 03:12:00.101] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[31May2025 03:12:18.040] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+VoiceChatPacketProcessingThreadEx[31May2025 03:12:18.040] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xHARITOLx
+VoiceChatPacketProcessingThreadEx[31May2025 03:12:18.040] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xHARITOLx
+VoiceChatPacketProcessingThreadEx[31May2025 03:12:18.400] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[31May2025 03:12:29.454] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[31May2025 03:12:29.455] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[31May2025 03:13:08.314] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+VoiceChatPacketProcessingThreadEx[31May2025 03:13:08.314] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xHARITOLx
+VoiceChatPacketProcessingThreadEx[31May2025 03:13:08.315] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xHARITOLx
+VoiceChatPacketProcessingThreadEx[31May2025 03:13:08.627] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[31May2025 03:13:22.599] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[31May2025 03:13:22.599] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[31May2025 03:15:01.916] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+VoiceChatPacketProcessingThreadEx[31May2025 03:15:01.916] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xHARITOLx
+VoiceChatPacketProcessingThreadEx[31May2025 03:15:01.917] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xHARITOLx
+VoiceChatPacketProcessingThreadEx[31May2025 03:15:02.039] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[31May2025 03:15:06.046] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[31May2025 03:15:06.046] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[31May2025 03:16:14.306] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+VoiceChatPacketProcessingThreadEx[31May2025 03:16:14.306] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xHARITOLx
+VoiceChatPacketProcessingThreadEx[31May2025 03:16:14.306] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xHARITOLx
+VoiceChatPacketProcessingThreadEx[31May2025 03:16:14.510] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[31May2025 03:16:31.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xHARITOLx has made the advancement [Suit Up]
+Server threadEx[31May2025 03:16:33.473] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[31May2025 03:16:33.473] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[31May2025 03:16:52.235] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /save-all
+Server threadEx[31May2025 03:16:52.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Trejos1111: Saved the game]
+Server threadEx[31May2025 03:16:52.506] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+VoiceChatPacketProcessingThreadEx[31May2025 03:16:52.506] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xHARITOLx
+VoiceChatPacketProcessingThreadEx[31May2025 03:16:52.506] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xHARITOLx
+VoiceChatPacketProcessingThreadEx[31May2025 03:16:52.721] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[31May2025 03:17:14.816] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[31May2025 03:17:14.817] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[31May2025 03:17:31.759] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+VoiceChatPacketProcessingThreadEx[31May2025 03:17:31.759] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xHARITOLx
+VoiceChatPacketProcessingThreadEx[31May2025 03:17:31.760] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xHARITOLx
+VoiceChatPacketProcessingThreadEx[31May2025 03:17:32.125] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[31May2025 03:17:47.647] [Server thread/INFO] [net.minecraft.class_3244/]: Trejos1111 issued server command: /gamemode creative
+Server threadEx[31May2025 03:17:47.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Trejos1111: Set own game mode to Creative Mode]
+Server threadEx[31May2025 03:18:03.021] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[31May2025 03:18:03.022] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx

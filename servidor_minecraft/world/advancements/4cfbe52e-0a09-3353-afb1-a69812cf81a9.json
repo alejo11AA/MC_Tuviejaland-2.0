@@ -8,28 +8,33 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-05-30 22:26:27 +0000",
-      "minecraft:beach": "2025-05-30 18:25:50 +0000",
       "minecraft:old_growth_pine_taiga": "2025-05-30 21:53:51 +0000",
-      "minecraft:dark_forest": "2025-05-30 21:24:55 +0000",
       "minecraft:forest": "2025-05-30 18:47:04 +0000",
       "minecraft:taiga": "2025-05-30 21:55:56 +0000",
-      "minecraft:sparse_jungle": "2025-05-30 18:47:44 +0000",
       "minecraft:deep_ocean": "2025-05-30 22:29:10 +0000",
-      "minecraft:river": "2025-05-30 18:29:46 +0000",
-      "minecraft:lukewarm_ocean": "2025-05-30 18:46:01 +0000",
-      "minecraft:stony_shore": "2025-05-30 19:23:58 +0000",
       "minecraft:lush_caves": "2025-05-30 21:31:58 +0000",
-      "minecraft:old_growth_birch_forest": "2025-05-30 18:51:31 +0000",
       "minecraft:windswept_forest": "2025-05-30 21:53:52 +0000",
       "minecraft:ocean": "2025-05-30 22:28:00 +0000",
       "minecraft:jungle": "2025-05-30 22:18:50 +0000",
+      "minecraft:cherry_grove": "2025-05-31 02:55:50 +0000",
+      "minecraft:sunflower_plains": "2025-05-31 03:02:14 +0000",
+      "minecraft:birch_forest": "2025-05-30 18:50:37 +0000",
+      "minecraft:windswept_hills": "2025-05-31 03:05:17 +0000",
+      "minecraft:windswept_savanna": "2025-05-30 18:30:15 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-05-30 23:14:59 +0000",
+      "minecraft:flower_forest": "2025-05-31 02:53:03 +0000",
+      "minecraft:beach": "2025-05-30 18:25:50 +0000",
+      "minecraft:dark_forest": "2025-05-30 21:24:55 +0000",
+      "minecraft:sparse_jungle": "2025-05-30 18:47:44 +0000",
+      "minecraft:river": "2025-05-30 18:29:46 +0000",
+      "minecraft:lukewarm_ocean": "2025-05-30 18:46:01 +0000",
+      "minecraft:stony_shore": "2025-05-30 19:23:58 +0000",
+      "minecraft:frozen_peaks": "2025-05-31 02:57:01 +0000",
+      "minecraft:old_growth_birch_forest": "2025-05-30 18:51:31 +0000",
       "minecraft:grove": "2025-05-30 18:50:50 +0000",
       "minecraft:meadow": "2025-05-30 23:47:32 +0000",
-      "minecraft:birch_forest": "2025-05-30 18:50:37 +0000",
       "minecraft:savanna": "2025-05-30 18:09:57 +0000",
-      "minecraft:windswept_savanna": "2025-05-30 18:30:15 +0000",
-      "minecraft:plains": "2025-05-30 18:47:18 +0000",
-      "minecraft:deep_lukewarm_ocean": "2025-05-30 23:14:59 +0000"
+      "minecraft:plains": "2025-05-30 18:47:18 +0000"
     },
     "done": false
   },
@@ -405,6 +410,7 @@
       "bread": "2025-05-31 00:08:49 +0000",
       "rotten_flesh": "2025-05-31 01:03:02 +0000",
       "cooked_mutton": "2025-05-30 22:41:33 +0000",
+      "salmon": "2025-05-31 02:59:28 +0000",
       "cod": "2025-05-30 23:11:37 +0000",
       "beef": "2025-05-30 23:43:41 +0000",
       "melon_slice": "2025-05-30 22:31:14 +0000",
@@ -1959,6 +1965,42 @@
   "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
       "has_stone_slab": "2025-05-31 01:28:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-05-31 02:16:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-05-31 02:18:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-05-31 02:18:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-05-31 02:18:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-05-31 03:16:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-05-31 03:08:36 +0000"
     },
     "done": true
   },
