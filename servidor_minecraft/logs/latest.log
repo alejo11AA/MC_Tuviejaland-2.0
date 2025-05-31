@@ -836,4 +836,12 @@ Async Chat Thread - #7Ex[31May2025 04:50:52.470] [Async Chat Thread - #7/INFO] [
 Async Chat Thread - #7Ex[31May2025 04:51:13.420] [Server thread/INFO] [net.minecraft.class_3244/]: RICHARDESC207 lost connection: Disconnected
 Server threadEx[31May2025 04:51:13.420] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RICHARDESC207
 Server threadEx[31May2025 04:51:13.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RICHARDESC207 left the game
-Server threadEx
+Server threadEx[31May2025 04:52:38.861] [User Authenticator #12/INFO] [net.minecraft.class_3248/]: UUID of player Dezar68 is 8243e5ad-1a2b-3b0f-9f08-d41dee077115
+User Authenticator #12Ex[31May2025 04:52:39.839] [Server thread/INFO] [net.minecraft.class_3324/]: Dezar68[/127.129.89.92:35649] logged in with entity id 83491 at (751.227237548313, 67.875, -276.2866219518193)
+Server threadEx[31May2025 04:52:39.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dezar68 joined the game
+Server threadEx[31May2025 04:52:41.433] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dezar68 (18)
+Server threadEx[31May2025 04:52:41.433] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dezar68
+Server threadEx[31May2025 04:52:41.971] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8243e5ad-1a2b-3b0f-9f08-d41dee077115
+VoiceChatPacketProcessingThreadEx[31May2025 04:52:42.971] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8243e5ad-1a2b-3b0f-9f08-d41dee077115
+VoiceChatPacketProcessingThreadEx[31May2025 04:52:42.971] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dezar68 (8243e5ad-1a2b-3b0f-9f08-d41dee077115) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx
