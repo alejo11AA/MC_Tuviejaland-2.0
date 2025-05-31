@@ -514,6 +514,7 @@
       "minecraft:spider": "2025-05-30 01:36:20 +0000",
       "minecraft:zombie": "2025-05-30 01:48:20 +0000",
       "minecraft:creeper": "2025-05-30 01:49:24 +0000",
+      "minecraft:drowned": "2025-05-31 01:02:24 +0000",
       "minecraft:zombie_villager": "2025-05-30 02:03:08 +0000"
     },
     "done": false
@@ -2316,6 +2317,18 @@
   "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
       "has_log": "2025-05-31 00:52:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-05-31 01:53:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-05-31 01:53:51 +0000"
     },
     "done": true
   },
