@@ -796,4 +796,14 @@ Server threadEx[31May2025 03:40:58.638] [Server thread/INFO] [voicechat/]: [voic
 Server threadEx[31May2025 03:40:58.899] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 28a214db-3f8e-3c87-a1f8-75c3acbe8cd0
 VoiceChatPacketProcessingThreadEx[31May2025 03:40:59.899] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 28a214db-3f8e-3c87-a1f8-75c3acbe8cd0
 VoiceChatPacketProcessingThreadEx[31May2025 03:40:59.899] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player RICHARDESC207 (28a214db-3f8e-3c87-a1f8-75c3acbe8cd0) successfully connected to voice chat
-VoiceChatPacketProcessingThreadEx
+VoiceChatPacketProcessingThreadEx[31May2025 03:51:34.111] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+VoiceChatPacketProcessingThreadEx[31May2025 03:51:34.111] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player xHARITOLx
+VoiceChatPacketProcessingThreadEx[31May2025 03:51:34.111] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to xHARITOLx
+VoiceChatPacketProcessingThreadEx[31May2025 03:51:35.371] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[31May2025 03:51:44.409] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+VoiceChatPacketProcessingThreadEx[31May2025 03:51:44.409] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+VoiceChatPacketProcessingThreadEx[31May2025 03:58:45.649] [Server thread/INFO] [Console/]: %vault_prefix% xHARITOLx is bleeding..
+Server threadEx[31May2025 03:58:54.644] [Server thread/INFO] [net.minecraft.class_3244/]: xHARITOLx issued server command: /giveup
+Server threadEx[31May2025 03:58:54.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xHARITOLx died because of Zombie
+Server threadEx[31May2025 03:59:01.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xHARITOLx has made the advancement [Sweet Dreams]
+Server threadEx
